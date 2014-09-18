@@ -52,9 +52,9 @@ def create_hyperlinks_to_topics(topics_to_titles_with_id, ignore_topics, out_fh,
         topic = topic.lower().strip()
         if not topic.lower().strip() in ignore_topics:
             topic_line_len += len(topic) + 3
-            if topic_line_len > 100:
-                out_fh.write(u"<br>\n")
-                topic_line_len = 0
+            #if topic_line_len > 100:
+            #    out_fh.write(u"<br>\n")
+            #    topic_line_len = 0
             spaceless_topic = topic.replace(u' ', u'_')
             out_fh.write(u'''<a href="#%s">[%s]</a> ''' % (spaceless_topic, topic))
             # print topic, len(topics_to_titles_with_id[topic]), topics_to_titles_with_id[topic][:2]
@@ -90,7 +90,7 @@ def create_bibtex_bibliography(id_to_entry, out_fh, output_type):
         field_order = ["title","author","journal","booktitle","volume","number","pages",
                        "month","year","organization","publisher","school","keywords"]
 
-        searchable_fields = ["title","author","journal","booktitle","publisher","organization","school"]
+        searchable_fields = ["title","author","journal","booktitle","organization","school"]
 
         bibtex_types = {"article":"@article",
                         "inproceedings":"@inproceedings",
@@ -108,7 +108,11 @@ def create_bibtex_bibliography(id_to_entry, out_fh, output_type):
             if not field in ["type", "id"] and entry.has_key(field):
                 out_fh.write(",\n")
                 if len(entry[field].strip()) > 0:
-                    out_fh.write(u'''  %s = {%s}''' % (field, entry[field]))
+                    if field in searchable_fields:
+                        search_query = entry[field].replace(u' ',u'+')
+                        out_fh.write(u'''  %s = {<a href="http://google.com/search?q=%s">%s</a>}''' % (field, search_query, entry[field]))
+                    else:
+                        out_fh.write(u'''  %s = {%s}''' % (field, entry[field]))
         out_fh.write("\n}\n")
 
         #sys.exit(0)
@@ -129,6 +133,8 @@ def main(bibtexfilepath, out_fh, output_type):
 
         ignore_topics = ['', 'misc']
 
+        out_fh.write(codecs.open('header.html',encoding="utf-8").read())
+
         # a) create hyperlinks to topics
         create_hyperlinks_to_topics(topics_to_titles_with_id, ignore_topics, out_fh, output_type=HTML)
 
@@ -143,9 +149,11 @@ def main(bibtexfilepath, out_fh, output_type):
         #parser.customization = customizations
         #bib_database = bibtexparser.loads(bibtex_str, parser=parser)
         #print(bib_database.entries)
+        out_fh.write("<h1>BIBLIOGRAPHY</h1>")
         out_fh.write("<pre>\n")
         create_bibtex_bibliography(id_to_entry,out_fh=out_fh,output_type=HTML)
         out_fh.write("</pre>\n")
+        out_fh.write("</ul>")
 
 if __name__ == "__main__":
     out_fh = codecs.open("deeplearningbibliography.html", "wb", encoding="utf-8")
