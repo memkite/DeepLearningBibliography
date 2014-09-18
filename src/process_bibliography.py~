@@ -90,7 +90,7 @@ def create_bibtex_bibliography(id_to_entry, out_fh, output_type):
         field_order = ["title","author","journal","booktitle","volume","number","pages",
                        "month","year","organization","publisher","school","keywords"]
 
-        searchable_fields = ["title","author","journal","booktitle","publisher","organization","school"]
+        search_fields = ["title","author","journal","booktitle","publisher","organization","school"]
 
         bibtex_types = {"article":"@article",
                         "inproceedings":"@inproceedings",
@@ -99,24 +99,22 @@ def create_bibtex_bibliography(id_to_entry, out_fh, output_type):
                         "misc":"@misc",
                         "techreport":"@techreport"}
 
-
-
-        out_fh.write(u"\n")
+        out_fh.write(u"\n<p>")
         out_fh.write(bibtex_types[entry["type"]])
-        out_fh.write("{<a name=\"%s\"></a>%s" % (pubid,pubid))
+        out_fh.write("{%s" % (pubid))
         for field in field_order:
             if not field in ["type", "id"] and entry.has_key(field):
-                out_fh.write(",\n")
+                out_fh.write(",<br>\n")
                 if len(entry[field].strip()) > 0:
                     out_fh.write(u'''  %s = {%s}''' % (field, entry[field]))
-        out_fh.write("\n}\n")
+        out_fh.write("<br>\n}<br>\n")
 
         #sys.exit(0)
 
         #for field in field_order: if entry.has_key(field)
 
 
-        out_fh.write(u"\n")
+        out_fh.write(u"\n</p>")
 
 
 def main(bibtexfilepath, out_fh, output_type):
@@ -143,9 +141,7 @@ def main(bibtexfilepath, out_fh, output_type):
         #parser.customization = customizations
         #bib_database = bibtexparser.loads(bibtex_str, parser=parser)
         #print(bib_database.entries)
-        out_fh.write("<pre>\n")
         create_bibtex_bibliography(id_to_entry,out_fh=out_fh,output_type=HTML)
-        out_fh.write("</pre>\n")
 
 if __name__ == "__main__":
     out_fh = codecs.open("deeplearningbibliography.html", "wb", encoding="utf-8")
