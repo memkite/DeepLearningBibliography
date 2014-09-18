@@ -12,6 +12,7 @@ If you want to cite this in your papers please use the following:
   institution = {Memkite - memkite.com}
   type = {Annotated Bibliography},
   year = {September, 2014},
+  note = {version 2014-Sep-18},
   howpublished = {\url{http://deeplearning.university}}
 }
 ```
