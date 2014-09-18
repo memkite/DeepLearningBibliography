@@ -5,6 +5,7 @@ Files related to Annotated Deep Learning Bibliography that you can find publishe
 
 If you want to cite this in your papers please use the following:
 
+```
 @misc{deeplearning2014tveit,
   author = {Amund Tveit, Torbj\{o}rn Morland, Thomas Brox R\{o}st},
   title = {DeepLearning.University - An Annotated Deep Learning Bibliography},
@@ -13,7 +14,7 @@ If you want to cite this in your papers please use the following:
   year = {September, 2014},
   howpublished = {\url{http://deeplearning.university}}
 }
-
+```
 
 
 
