@@ -861,3 +861,145 @@ B Wicht, J Hennebert
 Abstract—In this paper, we propose a method to detect and recognize a Sudoku puzzle on 
 images taken from a mobile camera. The lines of the grid are detected with a Hough 
 transform. The grid is then recomposed from the lines. The digits position are extracted ...
+
+Real-time continuous pose recovery of human hands using convolutional networks
+J Tompson, M Stein, Y Lecun, K Perlin - ACM Transactions on Graphics (TOG), 2014
+... This data is used to train a Randomized Decision Forest (RDF) architecture for image
+segmentation as well as a Convolutional Network (ConvNet) to infer the position of key model
+features in real time. We also ... Fig. 6. Convolutional network architecture. ...
+
+Neural Networks and Neuroscience-Inspired Computer Vision
+DD Cox, T Dean - Current Biology, 2014
+... high level vision. Full-size image (51 K) Full-size image (51 K) Figure 1. A rough
+correspondence between the areas associated with the primary visual cortex and
+the layers in a convolutional network. (A) Four Brodmann areas ...
+
+[PDF] Spatially-sparse convolutional neural networks
+B Graham - arXiv preprint arXiv:1409.6070, 2014
+... Although pictures are not sparse, they can be thought of as sparse by adding padding. Applying
+a deep convolutional network using sparsity has resulted in a substantial reduction in test error
+on the CIFAR small picture datasets: 6.28% on CIFAR-10 and 24.30% for CIFAR-100. ...
+
+[PDF] Fast Low-rank Representation based Spatial Pyramid Matching for Image Classification
+X Peng, R Yan, B Zhao, H Tang, Z Yi - arXiv preprint arXiv:1409.5786, 2014
+... 10 Page 11. Table 3: The classification accuracy and time cost of different methods on
+Caltech101, where the size of codebook k is set as 256, 512, 1024. DBN is short for deep
+belief network and CNN is short for convolutional neural network. ...
+
+Applied neuroscience
+P Cavanagh - Current Biology, 2014
+... techniques. But the pendulum has now begun to swing back and biology-inspired
+approaches are being reconsidered, whether with deep learning or voice interpretation
+in severe noise or biomimetic and 'attentive' robots. Even ...
+
+Neural Networks and Neuroscience-Inspired Computer Vision
+DD Cox, T Dean - Current Biology, 2014
+... Neural networks came to be painted as slow and finicky to train, beset by voodoo-
+parameters, and simply inferior to other approaches. Deep Learning and the Second
+AI Spring. ... Do Neuroscience and Deep Learning Still Need Each Other? ...
+
+[PDF] 1-HKUST: Object Detection in ILSVRC 2014
+C Lu, H Chen, Q Chen, H Law, Y Xiao, CK Tang - arXiv preprint arXiv:1409.6155, 2014
+... Our ILSVRC 2014 results are reported alongside with the results of other participating teams.
+Keywords: Object Detection, Deep learning and ILSVRC. ... For localization, we exploit regression
+on bounding box using deep learning based on selective search outputs. ...
+
+Dynamic scaffolding in a cloud-based problem representation system: Empowering pre-service teachers' problem solving
+CB Lee, KV Ling, P Reimann, YA Diponegoro, CH Koh… - Campus-Wide Information …, 2014
+... system modelling for conceptual change, she has documented the evidence that employing
+a “self-questioning” strategy plays a pivotal role in learners' deep learning. ... knowledge framework
+is not always sufficient for deep learning to occur. Learners who have ...
+
+[PDF] Domain Adaptive Neural Networks for Object Recognition
+M Ghifary, WB Kleijn, M Zhang - arXiv preprint arXiv:1409.6041, 2014
+... Examples that can be considered as representation learning are Principal Component
+Analysis (PCA), Independent Component Analysis (ICA), Sparse Coding, Neural Net-
+works, and Deep Learning. In deep learning, the greedy ...
+
+Reach the Highest Standard in Professional Learning: Implementation
+M Fullan, SM Hord, V von Frank - 2014
+
+Transformative Learning Theory: Addressing New Challenges in Social Work Education
+P Jones - Exploring Learning & Teaching in Higher Education, 2015
+... The road to social work and human service practice (3rd ed.). Melbourne: Cengage. Clare,
+B. (2007). Promoting deep learning: A teaching, learning and assessment endeavour. Social
+Work Education, 26(5), 433–446. CrossRef; Coates, J. (2003). ...
+
+[PDF] Detecting People in Cubist Art
+S Ginosar, D Haas, T Brown, J Malik - arXiv preprint arXiv:1409.6235, 2014
+... or the original RGB (Left, marked in green) spaces. learned from human annotations,
+and the most recent deep learning method. Here we discuss the details of each
+one. Dalal and Triggs: Object appearance in images can ...
+
+Developing Moral Character
+TA Seifert - New Directions for Student Services, 2014
+... al. (2012b) in which they found a small positive relationship with a composite measure
+of deep learning (summed scores on the NSSE higher order thinking, reflective
+thinking, and integrative thinking subscales). However, in ...
+
+Real-time continuous pose recovery of human hands using convolutional networks
+J Tompson, M Stein, Y Lecun, K Perlin - ACM Transactions on Graphics (TOG), 2014
+Page 1. 169 Real-Time Continuous Pose Recovery of Human Hands Using
+Convolutional Networks JONATHAN TOMPSON, MURPHY STEIN, YANN LECUN,
+and KEN PERLIN New York University We present a novel method ...
+
+The Challenge of Reporting Research to Inform the Creation of Inclusive Mathematics Learning Environments
+P Sullivan - Diversity in Mathematics Education, 2015
+... aligns with what is termed “culturally and contextually responsive” pedago- gies (see Australian
+Association of Mathematics Teachers 2013) and includes ap- proaches that increase opportunities
+for student decision-making, that give students time for deep learning, and that ...
+
+Design Principles for Serious Video Games in Mathematics Education: From Theory to Practice
+K Chorianopoulos, M Giannakos - International Journal of Serious Games, 2014
+... 76-85). Springer Berlin Heidelberg, 2013. Gee, JP Deep learning properties of good digital games:
+How far can they go. Serious games: Mechanisms and effects, 67-82, 2009. Gunter, GA, Kenny,
+RF & Vick, EH A case for a formal design paradigm for serious games. ...
+
+It's all about the constraints
+JK Tsotsos - Current Biology, 2014
+... NeoCognitron [17], in the Parallel Distributed Processing of McCLelland and Rumelhart [22],
+in back-propagation learning methods of Rumelhart, Hinton and Williams [23], in the Convolutional
+Neural Nets of Le Cun and Bengio [24], and in Deep Learning methods, the best ...
+
+[PDF] Designing Experiential Learning Projects for Teaching Marketing Courses
+II Alam - Atlantic Marketing Journal, 2014
+... Literature Review: Most Effective Teaching Technique for Marketing Courses How marketing
+and management courses can be taught at undergraduate level that would promote deep learning
+of managerial skills has been the topic of intense scrutiny in the extant literature. ...
+
+Learning to learn through university accredited work-based learning: a threshold conception
+C Ramage - Journal of Workplace Learning, 2014
+... Numerous studies identify that learning through work is reliant on reflective practice discourse
+in order for deep learning to occur (Barnett, 1977; Johns, 1995; Fowler, 2008). The transcripts
+indicated either directly or indirectly that mentor support boosted self-esteem ...
+
+[PDF] HSR: L1/2 Regularized Sparse Representation for Fast Face Recognition using Hierarchical Feature Selection
+B Han, B He, T Sun, M Ma, A Lendasse - arXiv preprint arXiv:1409.6448, 2014
+... The reason why HSR does not compare with deep learning algorithms[24] is due to the common
+fact that their computational cost is very expensive. To evaluate the performance of HSR
+comprehensively, this section is divided into two detailed sections. ...
+
+[PDF] Analyzing sparse dictionaries for online learning with kernels
+P Honeine - arXiv preprint arXiv:1409.6045, 2014
+... Sparsity promoting is crucial in signal processing and machine learning, such as Gaussian
+processes [2], kernel-based methods [3], Bayesian learning [4], as well as neural networks [5]
+with pruning [6] and the more recent dropout principle in deep learning [7]. Many learning ...
+
+Your New World
+T Romeo - 2014
+... Time Required Grade Level(s) • 2 hours • 4th/5th Grade Topic(s) World History, US History,
+Geography and Language Arts Added value Ice breaker, shared learning experience,
+collaborative thinking, deep learning – C.M's idea Format(s) of primary sources used Maps ...
+
+[PDF] A3IR-CORE at Purdue University: An Innovative Partnership Between Faculty, Students, and Industry
+JH Mott - The Journal of Aviation/Aerospace Education & …, 2014
+... among the stakeholders must be reciprocal in nature such that mutual benefits are derived. Such
+a partnership must “involve deep learning transfer and practitioner reflection and reflexivity as
+opposed to training” (Henderson, McAdam, & Leonard, 2006, p. 1437). ...
+
+[PDF] Neurology & Nedurophysiology
+KPY Liu, CCH Chan, N Tulliani, LSW Li - 2014
+... 22. Bloom BS, Madaus GF, Hastings JT, (1981) Evaluation to improve learning. McGraw-Hill,
+New York. 23. Langkvist M, Karlsson L, Loutfi A (2014) A review of unsupervised feature learning
+and deep learning for time-series modeling. Pattern Recognition Letters 42: 11-24. 24. ...
+
