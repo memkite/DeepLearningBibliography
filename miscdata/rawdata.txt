@@ -1003,3 +1003,150 @@ KPY Liu, CCH Chan, N Tulliani, LSW Li - 2014
 New York. 23. Langkvist M, Karlsson L, Loutfi A (2014) A review of unsupervised feature learning
 and deep learning for time-series modeling. Pattern Recognition Letters 42: 11-24. 24. ...
 
+[PDF] Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+Z Zhu, X Wang, S Bai, C Yao, X Bai - arXiv preprint arXiv:1409.7164, 2014
+... B. Deep Belief Network The DBN [18]–[20] is a generative graphical model, or alternatively a
+type of deep neural network, composed of multi- ple layers of latent variables (“hidden units”),
+with connections between the layers but not between units within each layer. ...
+
+[PDF] Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+Z Zhu, X Wang, S Bai, C Yao, X Bai - arXiv preprint arXiv:1409.7164, 2014
+Abstract: We study the problem of how to build a deep learning representation for 3D shape. 
+Deep learning has shown to be very effective in variety of visual applications, such as image 
+classification and object detection. However, it has not been successfully applied to 3D ...
+
+[PDF] A Deep Graph Embedding Network Model for Face Recognition
+Y Gan, T Yang, C He - arXiv preprint arXiv:1409.7313, 2014
+... Abstract—In this paper, we propose a new deep learning network “GENet”, it combines the
+multi-layer network architec- ture and graph embedding framework. ... Keywords—Deep Learning,
+Graph Embedding framework, Face Recognition. I. INTRODUCTION ...
+
+[PDF] Image Classification with A Deep Network Model based on Compressive Sensing
+Y Gan, T Zhuo, C He - arXiv preprint arXiv:1409.7307, 2014
+... Abstract—To simplify the parameter of the deep learning network, a cascaded compressive
+sensing model “CSNet” is implemented for image classification. ... Keywords—Deep Learning,
+Compressive Sensing, Handwritten Digit Recognition. ...
+
+Prediction of Stock Trend Based on Deep Belief Networks
+ZY Xu, LN Tang, CP Tian - Applied Mechanics and Materials, 2014
+... Email: sunrisebest.xu@gmail.com Keywords: DBNs, deep learning, stock trend prediction ... A
+detailed discussion is given on the improvement of the system performance. Introduction Big
+data has long been the focus of the era, whereas, deep learning is coming after. ...
+
+High performance histogramming on massively parallel processors
+WM Hwu - 2014
+High performance histogramming on massively parallel processors | Wen-Mei Hwu |
+Computer science, Computer vision, CUDA, Databases, Machine learning, nVidia,
+nVidia GeForce GTX 570, nVidia GeForce GTX 780, Thesis.
+
+[PDF] Measuring the Impact of Innovations in Bertheussen's 'Digital School Examinations'
+A Fask, F Englander, Z Wang - International Business Research, 2014
+... Keywords: digital cheating, effectiveness of digital exam procedure, experimental and
+quasi-experimental research designs, surface versus deep learning 1. Introduction In his article,
+―Digital School Examinations: An Educational Note of an Innovative Practice,‖ Bertheussen ...
+
+[PDF] Investigating teaching performance in seminars; a questionnaire study with a multi-level approach
+A Spruijt, J Leppink, I Wolfhagen, A Scherpbier… - BMC Medical Education, 2014
+... There is a tendency to facilitate a 'deep learning approach' when participating in the group prompts
+asking questions, engaging in discussions and interacting with the subject matter [5,6]. Students
+elaborate and restructure facts, principles, and concepts to build robust cognitive ...
+
+[HTML] Investigating the Relationship Between Pharmacy Students' Achievement Goal Orientations and Preferred Teacher Qualities
+S Alrakaf, E Sainsbury, G Rose, L Smith - American Journal of Pharmaceutical …, 2014
+... and low grades on examinations. 17,18 In contrast, the mastery-approach goal has
+been associated with deep learning, 19 high individual interest, 20 high self-regulation,
+21 and willingness to cooperate. 22 Yet, to the achievement ...
+
+Revamping Our Courses for the New Semester; How Is Everyone Doing?
+SJ Schmidt - Journal of Food Science Education, 2014
+... A new course assignment to be implemented is a “Learning Journal.” One activity important for
+deep learning to occur is reflection, that is, thinking about, talking, and/or using what students
+are learning in the classroom outside of the classroom, in their daily lives. ...
+
+Supercharging Case-Based Learning via Simulators: Achieving Double-Loop Learning with Case-Sims
+A Pérez-Bennett, P Davidsen, LE Lopez - Management Decision, 2014
+... experimentation and to choose new experiences. The use of games to play may create
+learning spaces that promote deep learning (Kolb & Kolb, 2010). Greco, Baldissin
+& Nonino (2013) provide a taxonomy of business games ...
+
+[PDF] Do More Dropouts in Pool5 Feature Maps for Better Object Detection
+Z Shen, X Xue - arXiv preprint arXiv:1409.6911, 2014
+... [21] designed a large CNN with 60 million parameters and 650,000 neurons and ob- tained
+substantially improvement of image classification ac- curacy on the ImageNet Large Scale Visual
+Recognition Challenge (ILSVRC) [20, 3]. In 2013, a joint deep learning architecture was ...
+
+[HTML] Identifying Achievement Goals and Their Relationship to Academic Achievement in Undergraduate Pharmacy Students
+S Alrakaf, E Sainsbury, G Rose, L Smith - American Journal of Pharmaceutical …, 2014
+... engagement and achievement. 6,16,17. The mastery-approach goal has been linked
+to a number of positive effects such as deep learning, 18 high interest, 19 high
+persistence, 20 and help seeking. 21 Despite these beneficial ...
+
+[PDF] THIS IS WORK IN PROGRESS. FEEDBACK IS VERY WELCOME!
+DC Moosmayer, D Borgia, TWY Man, G Schwartz - 2014
+... At the same time it has been found that Chinese students usually do not apply deep learning
+strategies but focus on achievement oriented approaches ... achievement oriented approach is as
+strong as that through deep learning (Watkins and Biggs Page 5. Moosmayer et al. 5 ...
+
+Lesson Study for Learning Community: A guide to sustainable school reform
+E Saito, M Murase, A Tsukui, J Yeo - 2014
+
+" The terms" multicultural"," cross-cultural"," intercultural". Meaning. Differences. Area of using
+A Atamaniuk - 2014
+... Page 5. Olena Atamaniuk, 27338 Electronic Media, MW, 2. Semester Intercultural Management
+3 things to culture. But all culture's values are not deep learning by society. Cross-cultural applies
+to something, which covers more than one culture. It means to find way ...
+
+[PDF] What Does a Mythopoetic Inquiry Look Like?
+S Ruebsaat - SFU Educational Review, 2014
+Page 1. SFU Education Review www.sfuedreview.org Ruebsaat, October 2013
+What Does a Mythopoetic Inquiry Look Like? Susanna Ruebsaat PhDc A mythopoetic
+inquiry is the bringing of one's story out of the isolation of ...
+
+[PDF] APPROACHING CURRICULUM RESOURCES
+L Ahl - 2014
+Page 1. Mälardalen University Press Licentiate Theses No. 179 APPROACHING CURRICULUM
+RESOURCES EXAMINING THE POTENTIAL OF TEXTBOOKS AND TEACHER GUIDES TO
+SUPPORT MATHEMATICS LEARNING AND TEACHING Linda Ahl 2014 ...
+
+The epistemological chain in high-level adventure sports coaches
+L Collins, D Collins, D Grecic - Journal of Adventure Education & Outdoor Learning, 2014
+... autonomous and independent performance. These coaches would question authority,
+engaging in performer-centered coaching, which would encourage deep learning
+and understanding in their students. Consideration of these ...
+
+[PDF] Learning Modeling Languages Using Strategies from Gaming
+O Richardsen - 2014
+Page 1. Learning Modeling Languages Using Strategies from Gaming Øyvin Richardsen
+Master of Science in Communication Technology Supervisor: Frank Alexander Krämer,
+ITEM Department of Telematics Submission date: June 2014 ...
+
+Śabda Pramāṇa and Prophetic Witness: Barthian and Advaitin Perspectives in Dialogue*
+RB Locklin - The Journal of Religion, 2014
+... For an introduction to the contemporary comparative theological project more broadly, see Francis
+X. Clooney, SJ, Comparative Theology: Deep Learning across Religious Borders (Malden, MA:
+Wiley-Blackwell, 2010); and Reid B. Locklin and Hugh Nicholson, “The Return of ...
+
+[PDF] Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+Z Zhu, X Wang, S Bai, C Yao, X Bai - arXiv preprint arXiv:1409.7164, 2014
+Abstract: We study the problem of how to build a deep learning representation for 3D shape. 
+Deep learning has shown to be very effective in variety of visual applications, such as image 
+classification and object detection. However, it has not been successfully applied to 3D ...
+
+Prediction of Stock Trend Based on Deep Belief Networks
+ZY Xu, LN Tang, CP Tian - Applied Mechanics and Materials, 2014
+Abstract The deep belief networks (DBNs) are introduced to predict the stock trend. By 
+stacking three RBMs and a softmax regression, a novel model of the stock price is 
+developed to extract the high dimensional feature and predict the trend of the stock market ...
+
+[HTML] Category Archives: AI
+NIT Farmer
+ååæéæèçççæå, éåèåçåèææåæé, ääæååéå, åææèçæååä
+ééçèçåçæææææèèååçæèèåç, åçåèèæè. åèéæåæçåèäæ
+åæéäååäääæåååéå, åäåååäåèéäçä.
+
+[PDF] A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution
+R Timofte, V De Smet, L Van Gool
+Page 1. A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution
+Radu Timofte, Vincent De Smet, Luc Van Gool CVL, D-ITET, ETH Zürich, Switzerland
+VISICS, ESAT/PSI, KU Leuven, Belgium Abstract. We ...
+
