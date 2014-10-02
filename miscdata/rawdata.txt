@@ -1150,3 +1150,90 @@ Page 1. A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution
 Radu Timofte, Vincent De Smet, Luc Van Gool CVL, D-ITET, ETH Zürich, Switzerland
 VISICS, ESAT/PSI, KU Leuven, Belgium Abstract. We ...
 
+Two-layer contractive encodings for learning stable nonlinear features
+H Schulz, K Cho, T Raiko, S Behnke - Neural Networks, 2014
+... supervised learning. Most existing deep learning meth. ... learning. Most existing deep
+learning methods build these feature hierarchies layer by layer in a greedy fashion using
+either auto-encoders or restricted Boltzmann machines. Both ...
+
+[HTML] Expected energy-based restricted Boltzmann machine for classification
+S Elfwing, E Uchibe, K Doya - Neural Networks, 2014
+... To create a deep learning architecture, we stack several RBMs on top of each other. We also
+connect the class nodes to all hidden layers to try to improve the performance even further. ... To
+create a deep learning architecture, we stack several RBMs on top of each other. ...
+
+[PDF] Continuous gesture recognition from articulated poses
+G Evangelidis, G Singh, R Horaud - ECCV ChaLearn Workshop on Looking at People, 2014
+... A deep learning framework that employs convolutional neural networks obtained the best results
+in the challenge [16]. ... In: ECCV Workshops (2014) 16. Neverova, N., Wolf, C., Taylor, GW, Nebout,
+F.: Multi-scale deep learning for gesture detection and localization. ...
+
+[HTML] Image-Based Analysis to Study Plant Infection with Human Pathogens
+M Schikora, A Schikora - Computational and Structural Biotechnology Journal, 2014
+... of NN. However, the concept of deep learning has brought NN back to the focus
+of current research, making NN more efficient and applicable in various pattern
+recognition problems [66,67]. • Support Vector Machines. Since ...
+
+Improved Perception-Based Spiking Neuron Learning Rule for Real-Time User Authentication
+H Qu, X Xie, Y Liu, M Zhang, L Lu - Neurocomputing, 2014
+Spiking neural networks (SNNs) have been highly successful in spatiotemporal pattern
+recognition. As one of the most efficient supervised learning algorithms in.
+
+A review of commitment and implementation of Sustainable Development in Higher Education: Results from a worldwide survey
+R Lozano, K Ceulemans, M Alonso-Almeida… - Journal of Cleaner …, 2014
+During the last two decades, many higher educational institutions have become involved in
+embedding sustainable development into their academic systems. The res.
+
+[PDF] Distributed Data Mining Based on Deep Neural Network for Wireless Sensor Network
+C LI, X XIE, Y HUANG, H Wang, C NIU
+... [6] Yu Kai, Jia Lei, Chen Yuqiang, et al. “Deep Learning: Yesterday, Today, and Tomorrow”,
+Journal of computer Research and Development, vol.50, no.9, pp1799-1804, 2013. [7] Hinton
+G，Salakhutdinov R. “Reducing the dimensionality of data with neural networks“,. ...
+
+[HTML] Cognitive analytics, Tech Trends 2014 from Deloitte Univer.. GRC Articles» Cognitive analytics, Tech Trends 2014 from Deloitte University, Rajeev Ronanki & David …
+S Me, J Bone
+... processing, and advancements in the enabling infrastructure. Machine learning, or
+deep learning, 4 is an artificial intelligence 5 technique modeled after characteristics
+of the human brain. A machine learning system explores many ...
+
+[PDF] Context-Aware Generative Learning Objects for Teaching Computer Science
+R BURBAITE, K BESPALOVA, R DAMASˇEVICˇIUS…
+... 25. M. Fowler, Refactoring: Improving the Design of Existing Code, Addison-Wesley
+Longman Publishing Co, 1999. 26. T. Boyle and A. Ravenscroft, Context and deep learning
+design, Computers & Education 59(4), 2012, pp. 1224–1233. 27. ...
+
+[PDF] The Maker Movement Implications from modern fabrication, new digital gadgets, and hacking for creative learning and teaching
+S Schön, M Ebner, S Kumar - Special edition
+Page 86. Special edition eLearning Papers 86 eLearningPapers In-depth Authors
+Sandra Schön Salzburg Research Forschungsgesellschaft Innovation Lab, Salzburg,
+Austria sandra. schoen@ salzburgresearch. at [+] Martin ...
+
+[HTML] Evaluating and Implementing an Interactive Infection Control Instructional Program
+KV Garland, MS RDH
+... clinical setting for delivering safe client care. Active learning strategies are necessary
+components for enhancing deep learning, synthesis of lecture course materials and
+critical thinking skills. 2 Synthesis of didactic course content ...
+
+Feature Selection Based on Dependency Margin
+Y Liu, F Tang, Z Zeng
+Page 1. This article has been accepted for inclusion in a future issue of this journal. Content
+is final as presented, with the exception of pagination. IEEE TRANSACTIONS ON
+CYBERNETICS 1 Feature Selection Based on Dependency Margin ...
+
+[HTML] Expected energy-based restricted Boltzmann machine for classification
+S Elfwing, E Uchibe, K Doya - Neural Networks, 2014
+Abstract In classification tasks, restricted Boltzmann machines (RBMs) have predominantly 
+been used in the first stage, either as feature extractors or to provide initialization of neural 
+networks. In this study, we propose a discriminative learning approach to provide a self- ...
+
+Two-layer contractive encodings for learning stable nonlinear features
+H Schulz, K Cho, T Raiko, S Behnke - Neural Networks, 2014
+... The authors rely on a greedy initialization, however, which we demonstrate here might
+establish a bad starting point. Ngiam, Chen, Koh, and Ng (2011) train a deep belief
+network without greedy initialization and also report good results. ...
+
+[PDF] Free-Form Region Description with Second-Order Pooling
+J Carreira, R Caseiro, J Batista, C Sminchisescu
+... approaches exist. Notably Shotton et al. [32] select from a large set of contextual
+features within a boosting framework and more recently Farabet et al. [33] train a
+convolutional network on a multi-scale image pyramid. The bag ...
