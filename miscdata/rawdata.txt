@@ -1237,3 +1237,237 @@ J Carreira, R Caseiro, J Batista, C Sminchisescu
 ... approaches exist. Notably Shotton et al. [32] select from a large set of contextual
 features within a boosting framework and more recently Farabet et al. [33] train a
 convolutional network on a multi-scale image pyramid. The bag ...
+
+[PDF] MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation
+A Jain, J Tompson, Y LeCun, C Bregler - arXiv preprint arXiv:1409.7963, 2014
+... New York University {ajain, tompson, yann, bregler}@cs.nyu.edu Abstract. In this work, we propose
+a novel and efficient method for ar- ticulated human pose estimation in videos using a
+convolutional network architecture, which incorporates both color and motion features. ...
+
+[PDF] Impact of Attention on Perception in Cognitive Dynamic Systems
+A Amiri - 2014
+Page 1. IMPACT OF ATTENTION ON PERCEPTION IN COGNITIVE DYNAMIC
+SYSTEMS Page 2. IMPACT OF ATTENTION ON PERCEPTION IN COGNITIVE
+DYNAMIC SYSTEMS By ASHKAN AMIRI, M.SC., M.ENG, and B.SC. ...
+
+[DOC] Text Narrator for the Visually Impaired
+H Munir, I Khattak, MM Waseem, UN Satti - 2014
+... together. It is done by means of a global optimization framework. For robustness,
+training on a large amount of data employs a machine learning approach. The system
+core is a convolutional network based character recognizer. It ...
+
+Learning Multiscale Active Facial Patches for Expression Analysis
+L Zhong, Q Liu, P Yang, J Huang, DN Metaxas
+Page 1. This article has been accepted for inclusion in a future issue of this journal. Content
+is final as presented, with the exception of pagination. IEEE TRANSACTIONS ON CYBERNETICS
+1 Learning Multiscale Active Facial Patches for Expression Analysis ...
+
+[PDF] MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation
+A Jain, J Tompson, Y LeCun, C Bregler - arXiv preprint arXiv:1409.7963, 2014
+Abstract: In this work, we propose a novel and efficient method for articulated human pose 
+estimation in videos using a convolutional network architecture, which incorporates both 
+color and motion features. We propose a new human body pose dataset, FLIC-motion, ...
+
+[PDF] A Deep Learning Approach to Data-driven Parameterizations for Statistical Parametric Speech Synthesis
+PK Muthukumar, AW Black - arXiv preprint arXiv:1409.8558, 2014
+Abstract: Nearly all Statistical Parametric Speech Synthesizers today use Mel Cepstral 
+coefficients as the vocal tract parameterization of the speech signal. Mel Cepstral 
+coefficients were never intended to work in a parametric speech synthesis framework, but ...
+
+Improving Acoustic Model for Vietnamese Large Vocabulary Continuous Speech Recognition System Using Deep Bottleneck Features
+QB Nguyen, TT Vu, CM Luong - Knowledge and Systems Engineering, 2015
+... System Using Deep Bottleneck Features Quoc Bao Nguyen, Tat Thang Vu, and Chi Mai Luong
+Abstract. In this paper, a method based on deep learning for extracting bottleneck features
+for Vietnamese large vocabulary speech recognition is presented. ...
+
+[PDF] Unsupervised Domain Adaptation by Backpropagation
+Y Ganin, V Lempitsky - arXiv preprint arXiv:1409.7495, 2014
+... layer. The result- ing augmented architecture can be trained using standard
+backpropagation. Overall the whole approach can be im- plemented with little effort
+using any of the deep-learning packages. 1. Introduction Deep ...
+
+[PDF] Zero-Shot Learning with Structured Embeddings
+Z Akata, H Lee, B Schiele - arXiv preprint arXiv:1409.8403, 2014
+... On the other hand, deep learning features obtained using Convolutional Neural Networks
+(CNN) [14] have shown improved results over FVs2. They consist of convolutional and fully
+connected layers with nonlinearity applied to the output of each layer. ...
+
+[PDF] How Students Learn using MOOCs: An Eye-tracking Insight
+K Sharma, P Jermann, P Dillenbourg - EMOOCs 2014, the Second MOOC European …, 2014
+... The good performing students having a deep learning strategy have the highest average
+area of the attention points per 10 seconds among all the participants, despite having
+the same number of attention points during the same time period. ...
+
+The effectiveness of simulated robots for supporting the learning of introductory programming: a multi-case case study
+L Major, T Kyriacou, P Brereton - Computer Science Education, 2014
+Skip to content Friday 3rd October 22:00-23:00 GMT: Taylor & Francis Online
+will be unavailable for up to 15 minutes during this period due to essential
+work by our technology partner. Taylor & Francis Online: ...
+
+[PDF] Smart Environments design: The SPLASH project case
+R Pace, A Dipace - Journal of e-Learning and Knowledge Society, 2014
+... to students. • There is a growing need to evaluate new teaching approaches
+assessment models and determine how to best support collaboration, interaction,
+deep learning experiences and assessment at scale. Instances ...
+
+Design Principles for Serious Games in Mathematics
+K Chorianopoulos, MN Giannakos, N Chrisochoides - Proceedings of the 18th …, 2014
+... In Serious Games Development and Applications (pp. 76--85). Springer Berlin Heidelberg. 5.
+Gee, JP (2009). Deep learning properties of good digital games: How far can they go. Serious
+games: Mechanisms and effects, 67--82. 6. Kelleher, C., Pausch, R., & Kiesler, S. (2007). ...
+
+[PDF] The Use of Metacognitive Strategies to Develop Research Skills among Postgraduate Students
+S Rahman, RM Yasin, N Salamuddin, S Surat - Asian Social Science, 2014
+... It focuses on the use of learning strategies that promote engagement and deep learning among
+students. ... It can be concluded that student centered learning play important roles in encouraging
+a deep learning thus facilitating students' development of knowledge and skills. ...
+
+A Study of Feature Combination in Gesture Recognition with Kinect
+NQ Pham, HS Le, DD Nguyen, TG Ngo - Knowledge and Systems Engineering, 2015
+... 465 were often outperformed by shallow ones with a single hidden layer [20], which is very similar
+to SVM. The introduction of the Deep Learning based on Deep Belief Networks with a more
+sophisticated learning algorithm [21] can be considered as a breakthrough. ...
+
+[HTML] Student constructs of mathematical problems: Problem types, achievement and gender
+MS Chiu, HM Yeh, D Whitebread, JCK Lee - Cogent Education, 2014
+... Cognitive constructs of problem-posing tasks include decoding, representing, processing,
+implementing, and imagining, which are thought to be relevant to deep learning
+(Kotsopoulos & Cordy, 200920. Kotsopoulos, D., & Cordy, M. (2009). ...
+
+Successfully widening access to medicine. Part 2: Curriculum design and student progression
+S Curtis, C Blundell, C Platz, L Turner - Journal of the Royal Society of Medicine, 2014
+... to fill the attainment gap while developing confidence and other key skills, therefore, smoothing
+the transition to Year 1. The relatively small group of 30 students together with the teaching
+approach creates a culture of active and therefore deep learning, questioning and a range ...
+
+[HTML] General University Requirements at Hong Kong Polytechnic University: evaluation findings based on student focus groups
+DTL Shek, L Yu, FKY Wu, WY Chai - Assessment & Evaluation in Higher Education, 2014
+... All these methods gained positive comments from the participants for both the rich and
+deep learning experiences and the alignment of students' learning with the intended
+learning outcomes, such as lifelong learning and problem-solving: ...
+
+AutoTutor and Family: A Review of 17 Years of Natural Language Tutoring
+BD Nye, AC Graesser, X Hu - International Journal of Artificial Intelligence in …, 2014
+... natural-language tutoring. Research on early versions of AutoTutor documented the
+impact on deep learning by co-constructed explanations, feedback, conversational
+scaffolding, and subject matter content. Systems that evolved ...
+
+[PDF] Knowledge Creation in Nursing Education
+ZM Hassanian, MR Ahanchian, S Ahmadi… - Global Journal of Health …, 2014
+... Nevertheless, sometimes, in post-graduation programs, research was determined as student
+assignment which had to be performed in a limited time period, and thus, did not result in deep
+learning. The majority of organizational knowledge was reserved in people. ...
+
+[PDF] An international validation study of two achievement goal measures in a pharmacy education context
+A Abdelmageed, M Kiersma, J Tordoff - 2014
+... A number of studies have linked the M-AP goal to positive outcomes, such as high interest,11
+high persistence,12 using deep learning strategies,13 and seeking help when needed.14
+However, despite these beneficial outcomes, no significant positive relationship between this ...
+
+[PDF] Autoencoder Trees
+O İrsoy, E Alpaydın - arXiv preprint arXiv:1409.7461, 2014
+... Conventional autoencoders use use a single layer, perceptron-type neural network for the
+encoding and decoding functions, which implements an affine map followed by a nonlinearity
+for the encoder [1]. In deep learning, the idea is to stack multiple such autoencoders as a ...
+
+[PDF] Lost in the Past: Recognizing Locations Over Large Time Lags
+B Fernando, T Tommasi, T Tuytelaars - arXiv preprint arXiv:1409.7556, 2014
+... Best results obtained with state of the art recognition methods such as deep learning (DECAF
+[11]) and Fisher vectors are com- pared in Table 2. It should be also noted that in the absence
+of large amount of training data, it is not possible to retrain a CNN network; so we opted ...
+
+[PDF] Hyper-Spectral Image Analysis with Partially-Latent Regression and Spatial Markov Dependencies
+A Deleforge, F Forbes, S Ba, R Horaud - arXiv preprint arXiv:1409.8500, 2014
+... variables. The reader is referred to [12] for an up to date review of state- of-the-art
+classification models applied to hyper-spectral data. Recently, [13] proposed a deep
+learning approach for hyper- spectral data classification. When ...
+
+[PDF] A Deep Learning Approach to Data-driven Parameterizations for Statistical Parametric Speech Synthesis
+PK Muthukumar, AW Black - arXiv preprint arXiv:1409.8558, 2014
+Abstract: Nearly all Statistical Parametric Speech Synthesizers today use Mel Cepstral 
+coefficients as the vocal tract parameterization of the speech signal. Mel Cepstral 
+coefficients were never intended to work in a parametric speech synthesis framework, but ...
+
+[PDF] Impact of Attention on Perception in Cognitive Dynamic Systems
+A Amiri - 2014
+The proposed aim of this thesis, inspired by the human brain, is to improve on the 
+performance of a perceptual processing algorithm, referred to as a “perceptor”. This is done 
+by trying to bridge the gap between neuroscience and engineering. To this end, we build ...
+
+[PDF] ICFHR2014 Competition on Handwritten Text Recognition on tranScriptorium Datasets (HTRtS)
+JA Sánchez, V Romero, AH Toselli, E Vidal
+Abstract—A contest on Handwritten Text Recognition organised in the context of the ICFHR 
+2014 conference is described. Two tracks with increased freedom on the use of training data 
+were proposed and three research groups participated in these two tracks. The ...
+
+[PDF] Writer Adaptation using Bottleneck Features and Discriminative Linear Regression for Online Handwritten Chinese Character Recognition
+J Du, JS Hu, B Zhu, S Wei, LR Dai
+Abstract This paper presents a novel approach to writer adaptation using bottleneck features 
+and discriminative linear regression for the recognition of online handwritten Chinese 
+characters. First, bottleneck features extracted from a bottleneck layer of a deep neural ...
+
+[PDF] Deep-Belief-Network based Rescoring for Handwritten Word Recognition
+PP Roy, Y Chherawala, M Cheriet
+Abstract This paper presents a novel verification approach towards improvement of 
+handwriting recognition systems using a word hypotheses rescoring scheme by Deep Belief 
+Networks (DBNs). A recurrent neural network based sequential text recognition system is ...
+
+[PDF] CLASSIFYING GRAY-SCALE SAR IMAGES: ADEEP LEARNING APPROACH
+H Wang
+ABSTRACT Classifying Gray-scale differencing SAR images into two classes is very difficult 
+due to the changeable impacts caused by the season, the imaging condition and so on. To 
+optimize the state-of-the-art algorithms and to deal with the mentioned difficulty, a novel ...
+
+[PDF] QR CODE LOCALIZATION USING DEEP NEURAL NETWORKS
+T Grósz, P Bodnár, L Tóth, LG Nyúl
+ABSTRACT Usage of computer-readable visual codes became common in our everyday life 
+at industrial environments and private use. The reading process of visual codes consists of 
+two steps, localization and data decoding. This paper introduces a new method for QR ...
+
+[PDF] Localization of Visual Codes in the DCT Domain Using Deep Rectifier Neural Networks
+P Bodnár, T Grósz, L Tóth, LG Nyúl
+Abstract. The reading process of visual codes consists of two steps, localization and data 
+decoding. This paper presents a novel method for QR code localization using deep rectifier 
+neural networks, trained directly in the JPEG DCT domain, thus making image ...
+
+[PDF] Vector LIDA
+JSS Franklin
+Abstract The representation paradigm used by a cognitive architecture helps to determine 
+the kind of processes that it can perform more efficiently. Vector LIDA is a variation of the 
+LIDA cognitive architecture that employs high-dimensional Modular Composite ...
+
+[PDF] A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing Handwriting Style Development
+G Chen, SN Srihari
+Abstract—Restricted Boltzmann machines (RBMs) and their variants have attracted a lot of 
+attention recently. They have been applied widely, eg, in handwriting recognition, document 
+categorization and object recognition. Unfortunately, an RBM requires a large parameter ...
+
+[PDF] Irrelevant Variability Normalization via Hierarchical Deep Neural Networks for Online Handwritten Chinese Character Recognition
+J Du
+Abstract This paper presents a novel irrelevant variability normalization (IVN) approach via 
+hierarchical deep neural networks (HDNNs) and prototype-based classifier for online 
+handwritten Chinese character recognition. The recent insight of deep neural network ( ...
+
+[PDF] Entrepreneurship Support Based on Mixed Bio-Artificial Neural Network Simulator (ESBBANN)
+EM Fedriani, M Chaves-Maza - 2014
+... References 1. O'Connor, P., et al.: Real-time classification and sensor fusion with a spiking
+deep belief network. Frontiers in Neuroscience 7(178) (2013) 2. Yue-Sek, CV, et al.:
+Neuromorphic Audio-Visual Sensor Fusion on a Sound-Localising Robot. ...
+
+[PDF] Deep-Belief-Network based Rescoring for Handwritten Word Recognition
+PP Roy, Y Chherawala, M Cheriet
+Abstract This paper presents a novel verification approach towards improvement of 
+handwriting recognition systems using a word hypotheses rescoring scheme by Deep Belief 
+Networks (DBNs). A recurrent neural network based sequential text recognition system is ...
+
+[PDF] A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing Handwriting Style Development
+G Chen, SN Srihari
+Page 1. A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing
+Handwriting Style Development Gang Chen and Sargur N. Srihari Department of
+Computer Science and Engineering SUNY at Buffalo Buffalo ...
+
+[PDF] A Tibetan Component Representation Learning Method for Online Handwritten Tibetan Character Recognition
+LL Ma, J Wu
+... The proposed method achieves the component-level and character-level recognition
+rates of 94.78% and 94.09%. Keywords—online handwritten Tibetan character
+recognition; deep belief network;representation learning; component ...
