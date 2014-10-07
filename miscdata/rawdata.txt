@@ -1471,3 +1471,201 @@ LL Ma, J Wu
 ... The proposed method achieves the component-level and character-level recognition
 rates of 94.78% and 94.09%. Keywords—online handwritten Tibetan character
 recognition; deep belief network;representation learning; component ...
+
+[PDF] DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS GEOSPATIAL OBJECT RECOGNITION
+E BATI - 2014
+Page 1. DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS
+GEOSPATIAL OBJECT RECOGNITION A THESIS SUBMITTED TO THE GRADUATE SCHOOL
+OF NATURAL AND APPLIED SCIENCES OF MIDDLE EAST TECHNICAL UNIVERSITY ...
+
+Vehicle License Plate Recognition With Random Convolutional Networks
+D Menotti, G Chiachia, AX Falcao, VJO Neto
+... contribution of this paper. II. PROPOSED CONVOLUTIONAL NETWORK In this work,
+convolutional neural networks (CNN) can be viewed as a sequence of four linear and
+non-linear image processing layers. Given an input image ...
+
+[PDF] Fast Localization of Facial Landmark Points
+N Markuš, M Frljak, IS Pandzic, J Ahlberg…
+... 1, 3 [3] X. Cao, Y. Wei, F. Wen, and J. Sun, “Face alignment by explicit shape
+regression,” in CVPR, 2012. 1, 3, 4 [4] Y. Sun, X. Wang, and X. Tang, “Deep
+convolutional network cascade for facial point detection,” in CVPR, 2013. ...
+
+[PDF] Deep Tempering
+G Desjardins, H Luo, A Courville, Y Bengio - arXiv preprint arXiv:1410.0123, 2014
+... Our ap- proach leverages an under-appreciated property of deep generative models such
+as the Deep Belief Network (DBN), where Gibbs sampling from deeper levels of the latent
+variable hierarchy results in dramatically increased ergodicity. ...
+
+Robust continuous digit recognition using reservoir computing
+A Jalalvand, F Triefenbach, K Demuynck, JP Martens - Computer Speech & …, 2014
+It is acknowledged that Hidden Markov Models (HMMs) with Gaussian Mixture Models (GMMs)
+as the observation density functions achieve excellent digit recognition.
+
+[PDF] MAXIMUM RECONSTRUCTION PROBABILITY TRAINING OF RESTRICTED BOLTZMANN MACHINES WITH AUXILIARY FUNCTION APPROACH
+N Takamune, H Kameoka
+... They have attracted particular attention recently after being proposed as building blocks
+for deep belief network (DBN) and have been applied with notable success in a range
+of problems including speech recognition and object recogni- tion. ...
+
+Local deep feature learning framework for 3D shape
+S Bu, P Han, Z Liu, J Han - Computers & Graphics, 2014
+... Recently, the deep learning [9], [10] and [11] has been applied successfully in speech recognition,
+image processing, and so on. ... In this study we use the deep learning method [9], [10] and [11]
+to improve the performance of the feature. 3.4. Learning local deep feature. ...
+
+[PDF] Deep Tempering
+G Desjardins, H Luo, A Courville, Y Bengio - arXiv preprint arXiv:1410.0123, 2014
+... Abstract Restricted Boltzmann Machines (RBMs) are one of the fundamental building blocks
+of deep learning. ... 5 Discussion Deep Tempering combines ideas from traditional MCMC
+tempering methods, with new observa- tions from the field of deep learning. ...
+
+[PDF] Deep Directed Generative Autoencoders
+S Ozair, Y Bengio - arXiv preprint arXiv:1410.0630, 2014
+... model. 1 Introduction Deep learning is an aspect of machine learning that regards
+the question of learning multiple levels of representation, associated with different
+levels of abstraction (Bengio, 2009). These representations ...
+
+[PDF] Place-based outdoor learning and environmental sustainability within Australian Primary Schools
+A Lloyd, T Gray - Journal of Sustainability Education, 2014
+... Teaching aspects of environmental education in the outdoors is simply one way to
+establish deep learning and connection to place for children to develop eco–literacy,
+which includes concepts of environmental sustainability (Miles, 2013). ...
+
+[PDF] Deep Sequential Neural Network
+L Denoyer, P Gallinari - arXiv preprint arXiv:1410.0510, 2014
+... Neural trees: a new tool for classification. Network: Computation in Neural Systems,
+1(4):423–438, 1990. [16] Richard Socher and Christopher D. Manning. Deep learning for NLP
+(without magic). In Human Language Technologies, pages 1–3, 2013. [17] Paul E. Utgoff. ...
+
+Excited, Proud, and Accomplished Exploring the Effects of Feedback Supplemented With Web-Based Peer Benchmarking on Self-Regulated Learning in Marketing …
+D Raska - Journal of Marketing Education, 2014
+Page 1. Journal of Marketing Education 1 –14 © The Author(s) 2014 Reprints and
+permissions: sagepub.com/journalsPermissions.nav DOI: 10.1177/
+0273475314552325 jmed.sagepub.com Article Feedback, defined as critical ...
+
+Learning outcomes' role in higher education teaching
+RA Nasrallah - … , Business and Society: Contemporary Middle Eastern …, 2014
+... topics. This is why they usually had to repeat knowledge that ought to have been acquired in
+previous courses. In addition, whereas 11% of the interviewees believed that deep learning was
+not ongoing, another 11% were confident that deep learning was taking place. 10% of ...
+
+SRRank: Leveraging Semantic Roles for Extractive Multi-Document Summarization
+S Yan, X Wan - Audio, Speech, and Language Processing, IEEE/ACM …, 2014
+... search algorithm [5], Bayesian model [18], minimum dominating set [19], matrix factorization
+[22], topic models [23], sub-modular functions [24], deep learning [25], bi-mixture PLSA [20] and
+data reconstruction [26]. ... QODE [25]: This method is a deep learning based method. ...
+
+Crossing the Boundaries within Computational Chemistry: From Molecular Dynamics to Cheminformatics and back
+S Riniker - CHIMIA International Journal for Chemistry, 2014
+... processing and searchingoftheselargedatasets.Machine- learning (ML) methods are already
+heavily used for cheminformatics applications as will be discussed in detail in the following, but
+only with massive computing power do approaches such as deep learning with arti ...
+
+[PDF] The relation of eye gaze and face pose: Potential impact on speech recognition
+M Slaney, A Stolcke, D Hakkani-Tur - 2014
+... Gaze-contingent automatic speech recognition. In Signal Processing, pages 369–380, 2008.
+[2] L. Deng, J. Li, J.-T. Huang, K. Yao, D. Yu, F. Seide, M. Seltzer, G. Zweig, X. He, and J. Williams.
+Recent advances in deep learning for speech research at microsoft. ...
+
+RESEARCHING THE EFFECTIVENESS OF A SCIENCE PROFESSIONAL LEARNING PROGRAMME USING A PROPOSED CURRICULUM FRAMEWORK FOR …
+K Paige, Y Zeegers, D Lloyd, P Roetman - International Journal of Science and …, 2014
+... state school's authority's Teaching for Effective Learning Framework (Department of Education
+and Children's Services, 2010) through which the teachers are encouraged to assist their students
+to develop metacognitive thinking skills; to develop deep learning about the ...
+
+Human gesture recognition using three-dimensional integral imaging
+V Javier Traver, P Latorre-Carmona… - JOSA A, 2014
+Optics InfoBase is the Optical Society's online library for flagship journals, partnered and
+copublished journals, and recent proceedings from OSA conferences.
+
+Developing students' technological literacy through robotics activities
+V Chandra - Literacy Learning: The Middle Years, 2014
+... participation with technology learning. According to Andersen (2004), in such activities
+students show more interest and excitement which can lead to higher engagement
+and can facilitate deep learning. As a consequence, students ...
+
+[PDF] Evaluation of Study Approaches and Skills among the Students of Payame Noor University
+H Najafi, A Mansoori, MH Heydari - Journal of Education and Practice, 2014
+... the students tend to the deep and strategic approaches more, and this consequence is compatible
+with the results of Aaron and Shaken's researchwho believe that the very surfaced learning is
+in the entrance test of the university at the lower ages and the deep learning with the ...
+
+Finding quasi core with simulated stacked neural networks
+M Bhattacharyya, S Bandyopadhyay - Information Sciences, 2014
+... Currently, neural network based models are also becoming popular with the development of
+representation learning (popularly known as deep learning) algorithms [6]. Here, we devise an
+approach based on a relatively new neural network model that have already been ...
+
+Towards more employable Egyptian HE graduates–a case study
+AA Abou-Setta - … , Business and Society: Contemporary Middle Eastern …, 2014
+... They support change that aims towards deep learning and sense making rather than surface
+approaches to learning and information transformation. ... contention that employability entails
+targeting deep learning and sense-making through a number ...
+
+[PDF] The Impact of a One Laptop per Child Program on Learning: Evidence from Uruguay
+G De Melo, A Machado, A Miranda - 2014
+... Fullan, M. and Langworthy, M. (2013) “Towards a New End: New Pedagogies for Deep
+Learning”. 13 For instance, as was mentioned before, nowadays each school has a
+teacher whose role is to support others in the use of the laptop. ...
+
+[PDF] DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS GEOSPATIAL OBJECT RECOGNITION
+E BATI - 2014
+... high false alarm rate, possibly due to insufficient number of training data. Keywords: Deep learning,
+convolutional neural networks, backpropagation, satellite images, geospatial target detection
+vi ... sentations. The algorithms can be grouped into two, namely deep learning which ...
+
+[PDF] The influence of teachers' age, gender and level of training on attitudes towards the use of integrated e-learning approach to the teaching and learning of Business …
+SJ Kurga - Journal of Emerging Trends in Educational Research …, 2014
+... The learning technologies need to be perceived as tools in the learning context which encourage
+students to use deep learning approaches – to seek meaning in the content being studied through
+inter-relating the various aspects of the content, looking for a deeper ...
+
+[PDF] IMPROVING THE LEARNING DESIGN OF MASSIVE OPEN ONLINE COURSES
+W Rubens - Turkish Online Journal of Educational Technology, 2014
+... adapted. Experts monitor interactions. They intervene to foster deep learning and
+to prevent misconceptions. The content of the live sessions is partly based on the
+asynchronous interactions preceded to the live session. After ...
+
+[PDF] Deep Tempering
+G Desjardins, H Luo, A Courville, Y Bengio - arXiv preprint arXiv:1410.0123, 2014
+Abstract: Restricted Boltzmann Machines (RBMs) are one of the fundamental building blocks 
+of deep learning. Approximate maximum likelihood training of RBMs typically necessitates 
+sampling from these models. In many training scenarios, computationally efficient Gibbs ...
+
+[PDF] Deep Directed Generative Autoencoders
+S Ozair, Y Bengio - arXiv preprint arXiv:1410.0630, 2014
+Abstract: For discrete data, the likelihood $ P (x) $ can be rewritten exactly and parametrized 
+into $ P (X= x)= P (X= x| H= f (x)) P (H= f (x)) $ if $ P (X| H) $ has enough capacity to put no 
+probability mass on any $ x'$ for which $ f (x')\ neq f (x) $, where $ f (\ cdot) $ is a ...
+
+Local deep feature learning framework for 3D shape
+S Bu, P Han, Z Liu, J Han - Computers & Graphics, 2014
+Abstract For 3D shape analysis, an effective and efficient feature is the key to popularize its 
+applications in 3D domain. In this paper, we present a novel framework to learn and extract 
+local deep feature (LDF), which encodes multiple low-level descriptors and provides high- ...
+
+[HTML] Learning Methods for Variable Selection and Time Series Prediction
+D Sovilj - 2014
+In the recent years, machine learning methods have become increasingly popular for 
+modelling many different phenomena: financial markets, spatio-temporal data sets, pattern 
+recognition, speech and image processing, recommender systems and many others. This ...
+
+[PDF] DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS GEOSPATIAL OBJECT RECOGNITION
+E BATI - 2014
+Page 1. DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS
+GEOSPATIAL OBJECT RECOGNITION A THESIS SUBMITTED TO THE GRADUATE SCHOOL
+OF NATURAL AND APPLIED SCIENCES OF MIDDLE EAST TECHNICAL UNIVERSITY ...
+
+Saliency-guided deep framework for image quality assessment
+W Hou, X Gao
+Abstract Image quality assessment (IQA) has thrived for decades. Researchers become 
+keener to explore how human brain perceives the visual stimuli. Psychological evidences 
+show that human prefers qualitative description to evaluate image quality, however most ...
+
+[PDF] MAXIMUM RECONSTRUCTION PROBABILITY TRAINING OF RESTRICTED BOLTZMANN MACHINES WITH AUXILIARY FUNCTION APPROACH
+N Takamune, H Kameoka
+ABSTRACT Restricted Boltzmann machines (RBMs) are stochastic neural networks that can 
+be used to learn features from raw data. They have attracted particular attention recently 
+after being proposed as building blocks for deep belief network (DBN) and have been ...
+
+
