@@ -1,5 +1,6 @@
 import codecs
-fh = codecs.open('rawdata.txt', encoding="utf-8")
+fh = codecs.open('rawdata.txt', "rb", encoding="utf-8")
+outfh = codecs.open('rawdata.bib', "wb", encoding="utf-8")
 
 title_next=False
 author_next=False
@@ -42,11 +43,11 @@ for line in fh:
 
         raw_authors = raw_authors.split(" - ")[0].strip()
 
-        print "@misc{" # + id
-        print '  "title": "%s",' % (raw_title.replace('"'," "))
-        print '  "author": "%s"' % (raw_authors.replace('"'," "))
-        print '  "abstract": "%s"' % (raw_abstract.replace('"'," "))
-        print '}'
+        print >> outfh,  "@misc{" # + id
+        print >> outfh,  '  "title": "%s",' % (raw_title.replace('"'," "))
+        print >> outfh,  '  "author": "%s"' % (raw_authors.replace('"'," "))
+        print >> outfh,  '  "abstract": "%s"' % (raw_abstract.replace('"'," "))
+        print >> outfh,  '}'
         raw_title = u""
         raw_authors = u""
         raw_abstract = u""
