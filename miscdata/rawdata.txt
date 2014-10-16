@@ -2091,3 +2091,56 @@ deployment of intelligent transportation systems. Over the last few years, traff
 been exploding, and we have truly entered the era of big data for transportation. Existing ...
 
 
+Multi-View Semi-Supervised Learning Based Image Annotation
+CJ Sun, SH Zhu, Z Shi - Advanced Materials Research, 2014
+... deep belief nets based method [1] , covariance discriminative based method [2] ,
+bilinear deep learning based method [3] , local and global information based method
+[4] , sparse coding based method [5] . There are two issues ...
+
+[PDF] Reflexivity and aesthetic inquiry: Building dialogues between the arts and literacy
+ME Ryan - English Teaching: Practice and Critique, 2014
+... awareness of one's literate identities. First, this article will discuss the arts as a site
+for mediating one's literate identities and how reflective prompts and a theory of
+reflexivity can guide such deep learning about self. Next, it will apply ...
+
+Temporal Coherence in Energy-based Deep Learning Machines for Action Recognition
+RS Adepu - 2014
+Deep Learning, a sub-area of machine learning, has become a buzz word in recent days 
+due to its great successes in many applications of machine learning, including speech 
+processing, computer vision and natural language processing. Deep learning became ...
+
+[HTML] EXPLORATION OF PREFERRED LEARNING STYLES IN MEDICAL EDUCATION USING VARK MODAL
+K SARUN, S SANDIP, K LAXMAN - Russian Open Medical Journal, 2014
+... According to Samarakoon et al., first year medical students would be expected to favour auditory
+and read/write learning styles and strategic learning, while final year students would be expected
+to switch to multimodal learning styles with greater emphasis on deep learning [36 ...
+
+Connecting Teachers with Authentic Texts
+JM Spohn - Beyond the Classroom: Collaborating with Colleagues …, 2014
+... This is an experience these students will remember as adults. Deep learning and
+higher-order thinking trumps textbook-driven lessons any day. In the social studies
+curriculum, the Constitution and Bill of Rights was examined in depth. ...
+
+[PDF] Situating Psychosocial and Motivational Factors in Learning Contexts
+HP Phan - Education, 2014
+Page 1. Education 2014, 4(3): 53-66 DOI: 10.5923/j.edu.20140403.01 Situating
+Psychosocial and Motivational Factors in Learning Contexts Huy P. Phan School of
+Education, The University of New England, Armidale NSW 2351, Australia ...
+
+[PDF] Using an arts-integrated multimodal approach to promote English learning: A case study of two Taiwanese junior college students
+HC LEE - English Teaching: Practice and Critique, 2014
+Page 1. English Teaching: Practice and Critique September, 2014, Volume 13,
+Number 2 http://education.waikato.ac.nz/research/files/etpc/files/2014v13n2art4.
+pdf pp. 55-75 Copyright © 2014, ISSN 1175 8708 Using an arts ...
+
+[HTML] Realising the Pedagogical Potential of Multilingual Pre-service Primary Teachers
+J Coleman - Exchanges: the Warwick Research Journal, 2014
+... and their curriculum content knowledge. 'It also contends that doing so 'provid[es]
+opportunities for deep learning and intercultural understanding for the entire class'
+(ACARA, 2011: 93-94). That is, diverse linguistic knowledge ...
+
+The Potential Energy of an Autoencoder
+H Kamyshanska, R Memisevic
+Page 1. 0162-8828 (c) 2013 IEEE. Personal use is permitted, but republication/
+redistribution requires IEEE permission. See http://www.ieee.org/
+publications_standards/publications/rights/index.html for more information. This ...
