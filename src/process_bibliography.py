@@ -127,7 +127,7 @@ def main(bibtexfilepath, out_fh, output_type):
     with open(bibtexfilepath) as bibtex_file:
         bibtex_str = bibtex_file.read()
         bib_database = bibtexparser.loads(bibtex_str)
-        # print(bib_database.entries)
+        print(bib_database.entries)
 
         (topics_to_titles_with_id, id_to_entry) = build_topics_to_titles_with_id(bib_database)
 
@@ -156,7 +156,8 @@ def main(bibtexfilepath, out_fh, output_type):
         out_fh.write("</ul>")
 
 if __name__ == "__main__":
-    out_fh = codecs.open("deeplearningbibliography.html", "wb", encoding="utf-8")
-    main(bibtexfilepath = '../bibtex/deeplearninggpuwithkeywords2014.bib', out_fh=out_fh, output_type=HTML)
+    out_fh = codecs.open("deeplearningbibliographynew.html", "wb", encoding="utf-8")
+    #main(bibtexfilepath = '../bibtex/deeplearninggpuwithkeywords2014.bib', out_fh=out_fh, output_type=HTML)
+    main(bibtexfilepath = '../miscdata/nbib.bib', out_fh=out_fh, output_type=HTML)
     out_fh.close()
 
