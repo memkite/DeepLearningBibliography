@@ -6,6 +6,10 @@ from bibtexparser.customization import *
 import codecs
 #import sys
 
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
 HTML = 1
 LATEX = 2
 
@@ -62,7 +66,6 @@ def create_hyperlinks_to_topics(topics_to_titles_with_id, ignore_topics, out_fh,
 
 def create_list_of_titles_per_topic(topics_to_titles_with_id, ignore_topics, out_fh, output_type):
     for topic in sorted(topics_to_titles_with_id):
-        print
         topic = topic.lower().strip()
         if not topic in ignore_topics:
             spaceless_topic = topic.replace(' ', '_')
@@ -71,7 +74,7 @@ def create_list_of_titles_per_topic(topics_to_titles_with_id, ignore_topics, out
             out_fh.write(u"<ol>")
             out_fh.write(u"\n")
             for (pubid, title) in topics_to_titles_with_id[topic]:
-                out_fh.write(u'''<li><a href="#%s">%s</a>''' % (pubid, title))
+                out_fh.write(u"<li><a href=\"#%s\">%s</a>" % (pubid, title))
                 out_fh.write(u"\n")
             out_fh.write(u"</ol>")
             out_fh.write(u"\n")
@@ -127,7 +130,7 @@ def main(bibtexfilepath, out_fh, output_type):
     with open(bibtexfilepath) as bibtex_file:
         bibtex_str = bibtex_file.read()
         bib_database = bibtexparser.loads(bibtex_str)
-        print(bib_database.entries)
+        #print(bib_database.entries)
 
         (topics_to_titles_with_id, id_to_entry) = build_topics_to_titles_with_id(bib_database)
 
@@ -157,7 +160,7 @@ def main(bibtexfilepath, out_fh, output_type):
 
 if __name__ == "__main__":
     out_fh = codecs.open("deeplearningbibliographynew.html", "wb", encoding="utf-8")
-    #main(bibtexfilepath = '../bibtex/deeplearninggpuwithkeywords2014.bib', out_fh=out_fh, output_type=HTML)
-    main(bibtexfilepath = '../miscdata/nbib.bib', out_fh=out_fh, output_type=HTML)
+    main(bibtexfilepath = '../bibtex/deeplearninggpuwithkeywords2014.bib', out_fh=out_fh, output_type=HTML)
+    #main(bibtexfilepath = '../miscdata/nbib.bib', out_fh=out_fh, output_type=HTML)
     out_fh.close()
 

@@ -98,10 +98,10 @@ for line in fh:
             #    print kwds
 
             print >> outfh,  "@misc{%s," % (paper_id) # + id
-            print >> outfh,  '  "title": "%s",' % (raw_title.replace('"'," "))
-            print >> outfh,  '  "author": "%s",' % (raw_authors.replace('"'," "))
+            print >> outfh,  '  title = "%s",' % (raw_title.replace('"'," "))
+            print >> outfh,  '  author = "%s",' % (raw_authors.replace('"'," "))
             #print >> outfh,  '  "abstract": "%s",' % (raw_abstract.replace('"'," "))
-            print >> outfh,  '  "keywords": {%s},' % (",".join(kwds))
+            print >> outfh,  '  keywords = {%s},' % (",".join(kwds))
             print >> outfh,  '}\n'
             raw_title = u""
             raw_authors = u""
