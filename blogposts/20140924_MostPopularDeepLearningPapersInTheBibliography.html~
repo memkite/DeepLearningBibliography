@@ -1,0 +1,39 @@
+<b>Blog post published at: </b>
+
+The response to our first published version of the <a href="http://deeplearning.university">Annotated Deeplearning Bibliography</a> was overwhelming, in just 4 days it has had more than 14000 (fourteen thousand) visits from more than a 100 countries. We got both good feedback and <a href="https://news.ycombinator.com/item?id=8334875">constructive criticism</a>, and will update the bibliography based on this soon.
+
+<strong>Most popular papers so far</strong>
+While you wait for an improved / iterated version of the bibliography, here are the 20 most popular papers so far in the bibliography:
+<ol>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#biem2014neural">Neural Networks - a Review</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#van2014analysis">Analysis of Deep Convolutional Neural Networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#tomar2014manifold">Manifold Regularized Deep Neural Networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#gao2014modeling">Modeling Interestingness with Deep Neural Networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#korjusreplicating">Replicating the Paper "Playing Atari with Deep Reinforcement Learning"</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#terusaki2014emotion">Emotion Detection using Deep Belief Networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#li2014deep">Deep learning based imaging data completion for improved brain disease diagnosis</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#song2014deep">Deep learning for real-time robust facial expression recognition no a smartphone</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#stober2014classifying">Classifying EEEG recordings of rhytm perception</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#slatton2014comparison">A comparison of dropout and weight decay for regularizing deep neural networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#srivastava2014dropout">Dropout: a Simple way to Prevent Neural Networks from Overfitting</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#ouyang2014deepid">DeepID-Net: multi-stage and deformable deep convolutional neural networks for object detection</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#heigold2014asynchronous">Asynchronous stochastic optimization for sequence training of deep neural networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#dong2014rankcnn">RankCNN: When learning to rank encounters the pseudo reference feedback</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#wang2014effective">Effective Multi-Modal Retrieval based on stacked Auto-Encoders</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#songunsupervised">Unsupervised Learning of Word Semantic Embedding using the Deep Structured Semantic Model</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#tran2014learning">Learning motion-difference features using Gaussian restricted Boltzmann machines for efficient human action recognition</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#zohrer2014single">Single Channel Source Separation with General Stochastic Networks</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#li2014training">Training itself: Mixed-signal training acceleration for memristor-based neural network</a></li>
+  <li><a href="http://memkite.com/deep-learning-bibliography/#knowlesdeep">Deep Learning for the Connectome</a></li>
+</ol>
+<strong>Want to contribute to the bibliography?</strong>
+If you want to contribute to the bibliography please have a look at the github repository: <a href="https://github.com/memkite/DeepLearningBibliography">github.com/memkite/DeepLearningBibliography</a> and follow instructions in the readme file.
+
+<em>(we already got contributions from <a href="http://twitter.com/KnutHellan">Knut Hellan</a> in <a href="http://zedge.com">Zedge</a> - thanks!)</em>
+
+Best regards,
+
+<a href="http://memkite.com/team">
+Amund Tveit, Torbjørn Morland and Thomas Brox Røst</a>
+
+Memkite Engineering Team
