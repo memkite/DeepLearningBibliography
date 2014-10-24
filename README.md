@@ -29,9 +29,6 @@ If you want to cite this bibliography please use the following:
   title = {DeepLearning.University - An Annotated Deep Learning Bibliography},
   institution = {Memkite - memkite.com}
   type = {Annotated Bibliography},
-  month = {September},
-  year = {2014},
-  note = {version: 2014-Sep-18},
   howpublished = {\url{http://deeplearning.university}}
 }
 ```
