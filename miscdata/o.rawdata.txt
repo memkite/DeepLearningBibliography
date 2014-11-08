@@ -1,0 +1,2146 @@
+[PDF] Building Program Vector Representations for Deep Learning
+L Mou, G Li, Y Liu, H Peng, Z Jin, Y Xu, L Zhang - arXiv preprint arXiv:1409.3358, 2014
+Abstract: Deep learning has made significant breakthroughs in various fields of artificial 
+intelligence. Advantages of deep learning include the ability to capture highly complicated 
+features, weak involvement of human engineering, etc. However, it is still virtually ...
+
+[PDF] Collaborative Deep Learning for Recommender Systems
+H Wang, N Wang, DY Yeung - arXiv preprint arXiv:1409.2944, 2014
+Abstract: Collaborative filtering (CF) is a successful approach commonly used by many 
+recommender systems. Conventional CF-based methods use the ratings given to items by 
+users as the sole source of information for learning to make recommendation. However, ...
+
+[PDF] DeepID-Net: multi-stage and deformable deep convolutional neural networks for object detection
+W Ouyang, P Luo, X Zeng, S Qiu, Y Tian, H Li, S Yang… - arXiv preprint arXiv: …, 2014
+... This new deep learning object detection diagram has in- novations in multiple aspects. ... The
+proposed new di- agram significantly advances the state-of-the-art for deep learning based
+generic object detection, such as the well known RCNN [23] framework. ...
+
+[PDF] Sequence to Sequence Learning with Neural Networks
+I Sutskever, O Vinyals, QV Le - arXiv preprint arXiv:1409.3215, 2014
+... Context-dependent pre-trained deep neural networks for large vocabulary speech
+recognition. IEEE Transactions on Audio, Speech, and Language Processing - Special
+Issue on Deep Learning for Speech and Language Processing, 2012. ...
+
+Predicting backbone Cα angles and dihedrals from protein sequences by stacked sparse auto‐encoder deep neural network
+J Lyons, A Dehzangi, R Heffernan, A Sharma… - Journal of Computational …, 2014
+... Using 4590 proteins for training and cross validation and 1199 proteins for an independent test,
+we have developed a deep-learning neural-network-based method that achieved θ and τ angles
+within 9 and 34 degrees, in average, of their native values. Method. ...
+
+Determining the difficulty of accelerating problems on a GPU
+D Tristram, K Bradshaw - 2014
+Determining the difficulty of accelerating problems on a GPU | Dale Tristram, Karen Bradshaw |
+Algorithms, ATI, ATI Radeon HD 7970, Computer science, OpenCL.
+
+Handwritten Hangul recognition using deep convolutional neural networks
+IJ Kim, X Xie - International Journal on Document Analysis and …, 2014
+... Keywords Handwritten Hangul recognition · Character recognition · Deep convolutional
+neural network · Deep learning · Gradient-based learning 1 Introduction ... Their work
+made a breakthrough that vitalized deep learning research. ...
+
+7 Conversational Agents Can Help Humans Identify Flaws in the Science Reported in Digital Media
+AC Graesser, KK Millis, SK D'Mello, X Hu - Processing Inaccurate Information: …, 2014
+... These data suggest that there may be a causal relationship between contradictions
+(and the associated cognitive disequilibrium) and deep learning, with confusion playing
+either a mediating, moderating, or causal role in the process. ...
+
+Modelling ‚Visualising and Summarising Documents with a Single Convolutional Neural Network
+N de Freitas - 2014
+Capturing the compositional process which maps the meaning of words to that of documents
+is a central challenge for researchers in Natural Language Processing and Information Retrieval.
+We introduce a model that is able to represent the meaning of documents by embedding ...
+
+Distributed Asynchronous Optimization of Convolutional Neural Networks
+W Chan, I Lane, S Gradients, M Momentum, G Decay - 2014
+... Accuracy (FA). Conclusion • Stable Convergence • Efficiency Scaling • Combine
+asynchronous optimization with Sparse Gradients, Master Momentum and Gradient
+Decay to speed up your deep learning problem This work ...
+
+[PDF] Introduction to Word2vec and its application to find predominant word senses
+H Wang - 2014
+... word2vec can be trained as a very simple neural network ∎ single hidden layer with no
+non-linearities ∎ no unsupervised pre-training of layers (ie no deep learning) ∎ word2vec
+demonstrates that, for vectorial representations of words, shallow learning can give great results. ...
+
+Organizational Learning for Library Enhancements: A Collaborative, Research-Driven Analysis of Academic Department Needs
+JL Loo, EA Dupuis - College & Research Libraries, 2014
+... resources. Through this organizational learning exercise, a unique opportunity was granted to
+examine information services from academic departments' perspectives and to engage in deep
+learning and strategic planning about library services and programs. ...
+
+[PDF] Audio-only bird classification using unsupervised feature learning
+D Stowell, MD Plumbley - Working notes of CLEF 2014 Conference, 2014
+... The two-layer process overall has analogies to deep learning techniques, most often considered
+in the context of artificial neural networks [1], and to the progressive abstraction believed to occur
+towards the higher stages of auditory neural pathways. 2.1 Classification workflow ...
+
+Features of effective professional learning: a case study of the implementation of a system-based professional learning model
+E Labone, J Long - Professional Development in Education, 2014
+... This focus has driven the development of a range of models of pedagogy that have focused on
+developing pedagogical practices which support students in engaging in deep learning and
+understanding, as well as the development and strategic use of meta-cognitive skills ...
+
+[PDF] An introduction to quantum machine learning
+M Schuld, I Sinayskiy, F Petruccione - arXiv preprint arXiv:1409.3097, 2014
+... examples. The training set is then discarded [29]. An illustrative case close to human
+learning is the weight adjustment process in artificial neural networks through
+backpropagation or deep learning [30, 31]. Training phases ...
+
+Optimising Purely Functional GPU Programs (Thesis)
+TL McDonell - 2014
+Optimising Purely Functional GPU Programs (Thesis) | Trevor L. McDonell | Code generation,
+Computer science, CUDA, nVidia, Package, Performance, Tesla T10, Thesis.
+
+Teaching critical thinking in world regional geography through stakeholder debate
+KM Sziarto, L McCarthy, NL Padilla - Journal of Geography in Higher Education, 2014
+... Dummer, T., Cook, I., Parker, S., Barrett, G., & Hull, A. (2008). Promoting and assessing 'deep
+learning' in geography fieldwork. Journal of Geography in Higher Education, 32, 459–479.
+[Taylor & Francis Online], [Web of Science ®] View all references). ...
+
+[HTML] An investigation into social learning activities by practitioners in open educational practices
+B Schreurs, A Van den Beemt, F Prinsen, G Witthaus… - The International Review of …, 2014
+... Within institutional teams, most learning still takes place offline, through shared practices within
+their own institution. For example, the OERu institutional member who was interviewed said
+that the actual deep learning happens within his own institution: ...
+
+Mobile Personal Learning Applied to a Software Engineering Subject
+MAC Gonzalez, FJ Garcia-Penalvo - Tecnologias del Aprendizaje, IEEE Revista …, 2014
+... e-Learn. Knowl. Soc., vol. 3, no. 2, pp. 39–61, 2007. [9] VB Weigel, Deep Learning
+for a Digital Age: Technology's Untapped Potential to Enrich Higher Education. San
+Francisco, CA, USA: Jossey- Bass, 2001. [10] L. Castañeda ...
+
+[PDF] Karush-Kuhn-Tucker meets David Hubel and Torsten Weisel through Gabriel Kreiman and Andrew Ng: A connection between highlights of constrained convex …
+AO Ibraheem - 2014
+... The Visual Recognition notes [1] of Harvard's Professor Gabriel Kreiman describe with great
+admiration the Nobel-Prize-winning experiments of David Hubel and Torsten Weisel [2], while
+the deep learning notes of Stanford's Professor Andrew Ng [3] and colleagues give a ...
+
+Handwritten Hangul recognition using deep convolutional neural networks
+IJ Kim, X Xie - International Journal on Document Analysis and …, 2014
+... However, in 2006, Hinton et al. [16] proposed a greedy layer-wise training algorithm
+to train the deep belief network (DBN). They first pre-trained the weights through an unsu-
+pervised training algorithm starting from the bottommost layer. ...
+
+[PDF] RECOGNITION OF ACOUSTIC EVENTS USING DEEP NEURAL NETWORKS
+O Gencoglu, T Virtanen, H Huttunen
+... 54.8%). In addition, an unsupervised layer- wise pretraining followed by standard
+backpropagation train- ing of a deep network (known as a deep belief network)
+re- sults in further increase of 2-4% in classification accuracy. ...
+
+[PDF] AUDIO CONCEPT CLASSIFICATION WITH HIERARCHICAL DEEP NEURAL NETWORKS
+M Ravanelli, B Elizalde, K Ni, G Friedland, FB Kessler
+... nets,” in Neural Computation, vol. 18, pp. 15271554, 2006. [20] O. Vinyals and SV
+Ravuri, “Comparing Multilayer Per- ceptron to Deep Belief Network Tandem Features
+for Robust ASR,” in ICASSP, 2011. [21] D. Yu and M. Seltzer ...
+
+Voice Conversion Using Deep Neural Networks with Layer-Wise Generative Training
+LH Chen, ZH Ling, LJ Liu, LR Dai
+Page 1. 2329-9290 (c) 2013 IEEE. Personal use is permitted, but republication/
+redistribution requires IEEE permission. See http://www.ieee.org/
+publications_standards/publications/rights/index.html for more information. This ...
+
+[PDF] JOINT ROAD NETWORK EXTRACTION FROM A SET OF HIGH RESOLUTION SATELLITE IMAGES
+O Besbes, A Benazza-Benyahia
+... In [6], a variety of network structures with dif- ferent iteration times are used to determine
+the best network structure. In [8], a deep belief network is trained to detect image patches
+containing roads based on massive amounts of training data. ...
+
+[PDF] Recognition of Facial Attributes using Adaptive Sparse Representations of Random Patches
+D Mery, K Bowyer
+... b) Facial expressions are classified using a new feature called 'supervised locally linear
+embedding' [14], a decompo- sition into multiple two-class classification problems with 'salient
+feature vectors' [13], local binary patterns [29], a boosted deep belief network [15], active facial ...
+
+[PDF] Antonia Wachter-Zeh
+R Metric - 2014
+Page 1. ANNÉE 2013 THÈSE / UNIVERSITÉ DE RENNES 1 sous le sceau de l'Université
+Européenne de Bretagne En Cotutelle Internationale avec l'Université d'Ulm, Allemagne
+pour le grade de DOCTEUR DE L'UNIVERSITÉ DE RENNES 1 ...
+
+[PDF] Hough Networks for Head Pose Estimation and Facial Feature Localization
+G Riegler, D Ferstl, M Rüther, H Bischof
+... In International Conference on Learning Representations, 2014. [23] Yi Sun, Xiaogang Wang,
+and Xiaoou Tang. Deep convolutional network cascade for fa- cial point detection. In IEEE
+Conference on Computer Vision and Pattern Recognition, pages 3476–3483, 2013. ...
+
+[PDF] A Neural Autoregressive Approach to Attention-based Recognition
+Y Zheng, RS Zemel, YJ Zhang, H Larochelle - 2014
+... [1], Yang et al. [2]. These features could also be learned using a convolutional network,
+jointly with the classification task [3]. These methods share the requirement that perception
+must distribute computations uniformly over the whole image. ...
+
+[PDF] Classification of Artistic Styles using Binarized Features Derived from a Deep Neural Network
+Y Bar, N Levy, L Wolf
+... are applied to form a painting. For efficiency, we suggest an approach for encoding
+the features obtained by the Decaf convolutional network into a lower dimensional
+binary representation. Experiments lead us to conclude ...
+
+Learning Deep Representations via Extreme Learning Machines
+W Yu, F Zhuang, Q He, Z Shi - Neurocomputing, 2014
+... But most of current deep learning methods require solving a difficult and non-convex optimization
+problem. ... Recently, deep learning and representation learning attract many research interests with
+its remarkable success in many applications [7], [8], [9], [10] and [11]. ...
+
+Teaching and Learning with ICT in the Primary School
+S Younie, M Leask, K Burden - 2014
+
+Learning in the Digital Age
+M Henry - Teaching and Learning with ICT in the Primary School, 2014
+
+[PDF] A Neural Autoregressive Approach to Attention-based Recognition
+Y Zheng, RS Zemel, YJ Zhang, H Larochelle - 2014
+... 1]. Unsupervised learning methods such as sparse coding have also provided a paradigm for
+automatically discovering meaningful mid-level feature representa- tions for recognition [2]. More
+recently, the developments brought by research on deep learning have allowed the ...
+
+20 ICT in the Early Years
+C Preston, MS Baker - Teaching and Learning with ICT in the Primary School, 2014
+
+Can Serious Games Contribute to Developing and Sustaining 21st Century Skills?
+M Romero, M Usart, M Ott - Games and Culture, 2014
+Advertisement. ...
+
+Visual literacy for all teachers and learners
+J Beaudry - Teaching and Learning with ICT in the Primary School, 2014
+
+[PDF] Generative Adversarial Nets
+IJ Goodfellow, J Pouget-Abadie, M Mirza, B Xu…
+... The promise of deep learning is to discover rich, hierarchical models [2] that represent probability
+distributions over the kinds of data encountered in artificial intelligence applications, such as
+natural images, audio waveforms containing speech, and symbols in natural language ...
+
+[PDF] VEI-HCLES FOR LEARNING ARCI-HTECTURAL SCIENCE
+J Woolley
+... (Strommen 1992) Through gradual steps, starting with familiar solutions, the learning also
+becomes part of the students' personal knowledge - they “know rather than know about” .(Atkin
+1997) “Deep” learning of this kind is stored in the mind, not for answering exams, but in a ...
+
+[PDF] Assessment of Electrocardiograms with Pretraining and Shallow Networks
+VJR Ripoll, A Wojdel, P Ramos, E Romero, J Brugada
+... One of the most common approaches for the pre-training step (and the first breakthrough in deep
+learning) is de- scribed in [7,8] and is based on an unsupervised generative model called
+Restricted Boltzmann Machines (RBMs) [9]. Other pre-training algorithms are based on ...
+
+[PDF] Scaling Distributed Machine Learning with the Parameter Server
+M Li, DG Andersen, JW Park, AJ Smola, A Ahmed…
+... This allows a worker group to isolate its set of shared parameters from others. Several worker
+groups may also share the same namespace: we may use more than one worker group to solve
+the same deep learning application [13] to increase parallelization. ...
+
+[PDF] Classification of Artistic Styles using Binarized Features Derived from a Deep Neural Network
+Y Bar, N Levy, L Wolf
+... the leading methods tested. Deep learning refers to generative machine learning
+models composed of mul- tiple levels of non-linear operations, such as neural networks
+consisting of many layers. The deep architecture enables ...
+
+The Fulfillment Of Fishing
+J Irvin - 2014
+Page 1. The The Fulfillment of Fishing Izaak Walton Page 2. The The Fulfillment
+of Fishing Sir, this pleasant curiosity of Fish and Fishing, of which you are so great
+a master, has been thought worthy the pens and practices of ...
+
+[PDF] An Efficient Implementation of Deep Convolutional Neural Networks on a Mobile Coprocessor
+J Jin, V Gokhale, A Dundar, B Krishnamurthy, B Martini…
+... Systems, vol. 25, 2012. [5] R. Socher, B. Huval, B. Bath, CD Manning, and A. Ng,
+“Convolutional-recursive deep learning for 3d object classification,” in Advances in
+Neural Information Processing Systems, 2012, pp. 665– 673. [6 ...
+
+[PDF] Memory Access Optimized Scheduling Scheme for DCNNs on a Mobile Processor
+A Dundar, J Jin, V Gokhale, B Martini, E Culurciello - algorithms
+... parsing.” Citeseer. [6] R. Socher, B. Huval, B. Bath, CD Manning, and A. Ng,
+“Convolutional-recursive deep learning for 3d object classification,” in Advances
+in Neural Information Processing Systems, 2012, pp. 665– 673. [7 ...
+
+[HTML] Category Archives: Eighteenth Century
+A Bulmer, I Book, II Book, IV Book, IX Book, V Book…
+Posts about Eighteenth Century written by awinckles.
+
+A linear approach for sparse coding by a two-layer neural network
+A Montalto, G Tessitore, R Prevete - Neurocomputing, 2014
+Many approaches to transform classification problems from non-linear to linear by feature
+transformation have been recently presented in the literature. These n.
+
+Learning Deep Representations via Extreme Learning Machines
+W Yu, F Zhuang, Q He, Z Shi - Neurocomputing, 2014
+... But most of current deep learning methods require solving a difficult and non-convex optimization
+problem. ... Recently, deep learning and representation learning attract many research interests with
+its remarkable success in many applications [7], [8], [9], [10] and [11]. ...
+
+Teaching and Learning with ICT in the Primary School
+S Younie, M Leask, K Burden - 2014
+
+Learning in the Digital Age
+M Henry - Teaching and Learning with ICT in the Primary School, 2014
+
+[PDF] A Neural Autoregressive Approach to Attention-based Recognition
+Y Zheng, RS Zemel, YJ Zhang, H Larochelle - 2014
+... 1]. Unsupervised learning methods such as sparse coding have also provided a paradigm for
+automatically discovering meaningful mid-level feature representa- tions for recognition [2]. More
+recently, the developments brought by research on deep learning have allowed the ...
+
+20 ICT in the Early Years
+C Preston, MS Baker - Teaching and Learning with ICT in the Primary School, 2014
+
+Can Serious Games Contribute to Developing and Sustaining 21st Century Skills?
+M Romero, M Usart, M Ott - Games and Culture, 2014
+Advertisement. ...
+
+Visual literacy for all teachers and learners
+J Beaudry - Teaching and Learning with ICT in the Primary School, 2014
+
+[PDF] Generative Adversarial Nets
+IJ Goodfellow, J Pouget-Abadie, M Mirza, B Xu…
+... The promise of deep learning is to discover rich, hierarchical models [2] that represent probability
+distributions over the kinds of data encountered in artificial intelligence applications, such as
+natural images, audio waveforms containing speech, and symbols in natural language ...
+
+[PDF] VEI-HCLES FOR LEARNING ARCI-HTECTURAL SCIENCE
+J Woolley
+... (Strommen 1992) Through gradual steps, starting with familiar solutions, the learning also
+becomes part of the students' personal knowledge - they “know rather than know about” .(Atkin
+1997) “Deep” learning of this kind is stored in the mind, not for answering exams, but in a ...
+
+[PDF] Assessment of Electrocardiograms with Pretraining and Shallow Networks
+VJR Ripoll, A Wojdel, P Ramos, E Romero, J Brugada
+... One of the most common approaches for the pre-training step (and the first breakthrough in deep
+learning) is de- scribed in [7,8] and is based on an unsupervised generative model called
+Restricted Boltzmann Machines (RBMs) [9]. Other pre-training algorithms are based on ...
+
+[PDF] Scaling Distributed Machine Learning with the Parameter Server
+M Li, DG Andersen, JW Park, AJ Smola, A Ahmed…
+... This allows a worker group to isolate its set of shared parameters from others. Several worker
+groups may also share the same namespace: we may use more than one worker group to solve
+the same deep learning application [13] to increase parallelization. ...
+
+[PDF] Classification of Artistic Styles using Binarized Features Derived from a Deep Neural Network
+Y Bar, N Levy, L Wolf
+... the leading methods tested. Deep learning refers to generative machine learning
+models composed of mul- tiple levels of non-linear operations, such as neural networks
+consisting of many layers. The deep architecture enables ...
+
+The Fulfillment Of Fishing
+J Irvin - 2014
+Page 1. The The Fulfillment of Fishing Izaak Walton Page 2. The The Fulfillment
+of Fishing Sir, this pleasant curiosity of Fish and Fishing, of which you are so great
+a master, has been thought worthy the pens and practices of ...
+
+[PDF] An Efficient Implementation of Deep Convolutional Neural Networks on a Mobile Coprocessor
+J Jin, V Gokhale, A Dundar, B Krishnamurthy, B Martini…
+... Systems, vol. 25, 2012. [5] R. Socher, B. Huval, B. Bath, CD Manning, and A. Ng,
+“Convolutional-recursive deep learning for 3d object classification,” in Advances in
+Neural Information Processing Systems, 2012, pp. 665– 673. [6 ...
+
+[PDF] Memory Access Optimized Scheduling Scheme for DCNNs on a Mobile Processor
+A Dundar, J Jin, V Gokhale, B Martini, E Culurciello - algorithms
+... parsing.” Citeseer. [6] R. Socher, B. Huval, B. Bath, CD Manning, and A. Ng,
+“Convolutional-recursive deep learning for 3d object classification,” in Advances
+in Neural Information Processing Systems, 2012, pp. 665– 673. [7 ...
+
+[HTML] Category Archives: Eighteenth Century
+A Bulmer, I Book, II Book, IV Book, IX Book, V Book…
+Posts about Eighteenth Century written by awinckles.
+
+[PDF] Weighted Convolutional Neural Network Ensemble
+X Frazao, LA Alexandre - 2014
+... 2 Convolutional Neural Networks A classical convolutional network is composed of
+alternating layers of convolution and pooling. The purpose of the first convolutional layer
+is to extract patterns found within local regions of the input images. ...
+
+[PDF] Self-taught Object Localization with Deep Networks
+A Bergamo, L Bazzani, D Anguelov, L Torresani - arXiv preprint arXiv:1409.3964, 2014
+... detectors require richer labels consisting Figure 1: The original image (first row), a
+grayed-out ver- sion of the image (second row) and the respective outputs of different
+layers of the deep convolutional network [18]. For each layer, a ...
+
+[PDF] Ibm research australia at lifeclef2014: Plant identification task
+Q Chen, M Abedini, R Garnavi, X Liang - Working notes of CLEF 2014 Conference, 2014
+... 1. Run1- Deep convolutional nerual network: In this run, we utilize the deep convolutional
+nerual network model explained in Sec.2.4 with five layers of convolutional network, three
+layers of fully connection and cost layer of logistic regression. ...
+
+[PDF] MindLab at ImageCLEF 2014: Scalable Concept Image Annotation
+JA Vanegas, J Arevalo, S Otálora, F Páez… - CLEF 2014 Evaluation Labs and …
+... We use the Yangqing Jia et al. [2] (Caffe) pretrained network to represent images.
+Caffe is an open source implementation of the winning convolutional network
+architecture of the ImageNet challenge proposed by Krizhevsky et al. ...
+
+Recognizing human activity in smart home using deep learning algorithm
+H Fang, C Hu - Control Conference (CCC), 2014 33rd Chinese, 2014
+... In this paper, DBNs are used for our research. A deep belief network for our research is shown
+in Fig. 2. It has four hidden layers. The number of the units in each layer is shown clearly in this
+figure. The top layer has only 10 hidden units, each of them represent one activity. ...
+
+[PDF] Deep Dynamic Neural Networks for Gesture Segmentation and Recognition
+D Wu, L Shao - neural networks, 2014
+... Result: GDBN - a gaussian bernoulli visible layer Deep Belief Network to generate the emission
+probabilities for hidden markov model. 3DCNN - a 3D Deep Convolutional Neural Networks
+to generate the emission probabilities for hidden markov model. ...
+
+[PDF] To be Bernoulli or to be Gaussian, for a Restricted Boltzmann Machine
+T Yamashita, M Tanaka, E Yoshida, Y Yamauchi… - To be Bernoulli or to be …, 2014
+... C. Stacked selected RBMs The stacked RBM is sometimes called a deep Boltzmann
+machine (DBM) or a deep belief network (DBN). It has simple layer-wise structure
+where the RBM is stacked on top repeatedly multiple times. ...
+
+[PDF] Machine Learning in Intelligent Video and Automated Monitoring
+YB Yuan, GY David, S Zhao
+... PLSA); Zhihui Wang et al [12] constructed an accurate pedestrian detection system after combining
+cascade AdaBoost detec- tor and random vector functional-link net; Hai Wang et al [13] proposed
+a novel vehicle detection algorithm from 2D deep belief network (2D-DBN) by ...
+
+Recognizing human activity in smart home using deep learning algorithm
+H Fang, C Hu - Control Conference (CCC), 2014 33rd Chinese, 2014
+Abstract: There is a topic of interest for many researchers about human activities recognition 
+in recent years. In this paper, we propose the research to recognize human activities by 
+deep learning (DL) algorithm. We collected the data from participants performing activities ...
+
+The development and evaluation of online stories to enhance clinical learning experiences across health professions in rural Australia
+PS Paliadelis, I Stupans, V Parker, D Piper, P Gillan… - Collegian, 2014
+... Stupans, 2013). The program was structured using stories as the means of conveying
+the key content, followed by structured reflection to promote deep learning
+(Christiansen, 2011, Cox, 2001 and Young, 2007). Fourth, the ...
+
+Beyond traditional literacy: Learning and transformative practices using ICT
+T Keane, WF Keane, AS Blicblau - Education and Information Technologies, 2014
+... The use of information and communication technologies is crucial in developing the
+4Cs in conjunction with understanding how learning takes place. However, simply using
+technology does not guarantee that deep learning will occur. ...
+
+Static hand gesture recognition using stacked Denoising Sparse Autoencoders
+V Kumar, GC Nandi, R Kala - … (IC3), 2014 Seventh International Conference on, 2014
+... Keywords : Static hand gesture recognition, Deep learning, Autoencoders. I. INTRODUCTION
+Computers are becoming more and more ubiquitous day by day. ... [14] Andrew Ng. Deep learning
+and unsupervised feature learning, cs294a lecture notes, stanford university. 2011. ...
+
+[PDF] Ibm research australia at lifeclef2014: Plant identification task
+Q Chen, M Abedini, R Garnavi, X Liang - Working notes of CLEF 2014 Conference, 2014
+... classifiers. We have also applied the recent development of deep learning. ... We believe
+the effect is the due to limited number of training data. Deep learning has been
+demonstrated great success when using large scale dataset. The ...
+
+[PDF] Sabanci-okan system at lifeclef 2014 plant identification competition
+B Yanikoglu, YS Tolga, C Tirkaz, E FuenCaglartes - Working notes of CLEF 2014 …, 2014
+... The sub-system for isolated leaf category (LeafS- cans) was basically the same as
+last year [2], while plant photographs in all the remaining categories were classified
+using either local descriptors or deep learning techniques. ...
+
+[PDF] Self-taught Object Localization with Deep Networks
+A Bergamo, L Bazzani, D Anguelov, L Torresani - arXiv preprint arXiv:1409.3964, 2014
+Page 1. Self-taught Object Localization with Deep Networks Alessandro Bergamo
+Dartmouth College Loris Bazzani Dartmouth College Dragomir Anguelov Google
+Lorenzo Torresani Dartmouth College Abstract Generating ...
+
+[PDF] Transfer Learning for Video Recognition with Scarce Training Data
+YC Su, TH Chiu, CY Yeh, H Huang, WH Hsu - arXiv preprint arXiv:1409.4127, 2014
+... little help. Deep Learning as a learning paradigm has received much attention in the
+past decade and has been shown effective in various domains including natural
+language processing [9], speech recognition [10], etc. In computer ...
+
+[PDF] Evaluating the use of problem-based learning in a new initial teacher education degree
+F Patrick, A McPhee - Teacher Advancement Network Journal, 2014
+... Claims for the effectiveness of PBL can be difficult to support with research evidence (Schmidt
+et al., 2009). For example, it has been proposed that PBL promotes deep learning through
+student-centred and self-directed learning processes (Loyens et al., 2013: 23). ...
+
+[PDF] Deep Dynamic Neural Networks for Gesture Segmentation and Recognition
+D Wu, L Shao - neural networks, 2014
+... The performance is on par with a variety of the state-of-the-art hand-tuned-feature
+approaches and other learning- based methods, opening the doors for using deep
+learning techniques to explore time series multimodal data. ...
+
+Image classification via learning dissimilarity measure in non-euclidean spaces
+L Chen, S Zhu, Z Li, J Hu - Control Conference (CCC), 2014 33rd Chinese, 2014
+... In the past couple of years, many novel algorithmic techniques have been proposed to address
+the problem of image classification, such as covariance discriminative based method[1], frequent
+item set mining based method[2], bilinear deep learning based method [3], residual ...
+
+[PDF] RC-NET: A General Framework for Incorporating Knowledge into Word Representations
+C Xu, Y Bai, J Bian, B Gao, G Wang, X Liu, TY Liu - 2014
+... General Terms Algorithms, Experimentation Keywords Distributed word representations, deep
+learning, knowledge graph 1. INTRODUCTION Deep learning techniques have been frequently
+used to solve natural language processing (NLP) tasks [8, 1, 12, 21, 22]. ...
+
+[PDF] A new approach in machine learning
+A Tapp - arXiv preprint arXiv:1409.4044, 2014
+... the art in 2007. Once the technique is refined and especially once deep learning
+has been integrated into the model, we are optimistic this approach can compete
+with the best techniques available today. We believe the fact ...
+
+[PDF] A Deep and Autoregressive Approach for Topic Modeling of Multimodal Data
+Y Zheng, YJ Zhang, H Larochelle - arXiv preprint arXiv:1409.3970, 2014
+... The RS model was later used for multimodal data modeling [12], where pairs of images and text
+annotations were modeled jointly within a deep Boltzmann machine (DBM) [13]. This deep
+learning approach to the generative modeling of multimodal data achieved state-of-the-art ...
+
+Recognition of Facial Expression via Kernel PCA Network
+DK Hu, AS Ye, L Li, L Zhang - Applied Mechanics and Materials, 2014
+Information Technology Applications in Industry III: Recognition
+of Facial Expression via Kernel PCA Network.
+
+[HTML] How to 'Do'Feminist Theory Through Digital Video: Embodying Praxis in the Undergraduate Feminist Theory Classroom”/>< meta name=
+R Hurst - Ada: A Journal of Gender, New Media, and Technology, 2014
+... it' (Freire, [1970] 2000: 51). Praxis is a central concept to the interdisciplinary field
+of women's and gender studies, yet pedagogical strategies to nourish deep learning
+through praxis are under-theorized. In this paper, I describe ...
+
+[PDF] The Implementations of Professional Learning Communities (PLCs) in Beijing and Ontario Schools
+Y Chen - 2014
+Page 1. The Implementations of Professional Learning Communities (PLCs) in Beijing and Ontario
+Schools Yi Chen Department of Graduate and Undergraduate Studies in Education Submitted
+in partial fulfillment of the requirements for the degree of Master of Education ...
+
+[PDF] Compute Less to Get More: Using ORC to Improve Sparse Filtering
+J Lederer, S Guadarrama - arXiv preprint arXiv:1409.4689, 2014
+... Although recently deep learning methods have proposed to jointly learn the feature transformation
+and the classifi- cation (Krizhevsky, Sutskever, and Hinton 2012) for image classification, in this
+work we are going to focus on unsuper- vised feature learning, specifically on ...
+
+[PDF] To be Bernoulli or to be Gaussian, for a Restricted Boltzmann Machine
+T Yamashita, M Tanaka, E Yoshida, Y Yamauchi… - To be Bernoulli or to be …, 2014
+... 25 (NIPS'12). pp.1106-1114, 2012. [11] K. Cho, T. Raiko, and A. Ilin, “Gaussian-Bernoulli
+deep Boltzmann machine”, In NIPS 2011 Workshop on Deep Learning and
+Unsupervised Feature Learning, 2011. [12] CBCL Face Database ...
+
+Preparing Teachers for Sustainable Development in Higher Education
+IB de Camargo Cortelazzo - Integrating Sustainability Thinking in Science and …, 2015
+... knowledge production. These issues imply deep learning as presented by Warburton:
+“Deep learning is a key strategy by which students extract meaning and
+understanding from course materials and experiences. Because ...
+
+Deep learning for posture analysis in fall detection
+P Feng, M Yu, SM Naqvi, JA Chambers - Digital Signal Processing (DSP), 2014 19th …, 2014
+ABSTRACT We propose a novel computer vision based fall detection system using deep 
+learning methods to analyse the postures in a smart home environment for detecting fall 
+activities. Firstly, background subtraction is employed to extract the foreground human ...
+
+8 Using technology in primary science
+P Hopkins - Teaching and Learning with ICT in the Primary School, 2014
+... Fullan and Langworthy (2014) explore these ideas in their report A rich seam how
+new pedagogies find deep learning. Old pedagogies Content mastery Pedagogical
+capacity Content knowledge Master required content Ubiquitous ...
+
+[PDF] Deeply-Supervised Nets
+CY Lee, S Xie, P Gallagher, Z Zhang, Z Tu - arXiv preprint arXiv:1409.5185, 2014
+... 1 Introduction Much attention has been given to a resurgence of neural networks,
+deep learning (DL) in particular, which can be of unsupervised [10], supervised [12],
+or a hybrid form [18]. Significant performance gain has been ...
+
+Deep convolutional neural networks for large-scale speech tasks
+TN Sainath, B Kingsbury, G Saon, H Soltau… - Neural Networks, 2014
+... system, achieving state-of-the art results in these 3 tasks. Keywords. Deep learning;
+Neural networks; Speech recognition. 1. Introduction. Recently, Deep Neural Networks
+(DNNs) have achieved tremendous success in acoustic ...
+
+KERNEL DEEP CONVEX NETWORKS AND END-TO-END LEARNING
+L Deng, X He, G Tur, D Hakkani-tur - US Patent 20,140,278,424, 2014
+... For example, deep learning techniques may be used in phone recognition, speech feature
+coding, and large vocabulary speech recognition. ... 25-30, 2012, deep learning may be
+effectively utilized for spoken language understanding (SLU). ...
+
+[PDF] Fingerprint Classification Based on Depth Neural Network
+R Wang, C Han, Y Wu, T Guo - arXiv preprint arXiv:1409.5188, 2014
+... fingerprint identification system (AFIS). In recent years, deep learning is an emerging
+technology which has achieved great success in many fields, such as image
+processing, natural language processing and so on. In this paper ...
+
+[PDF] Deep Regression for Face Alignment
+B Shi, X Bai, W Liu, J Wang - arXiv preprint arXiv:1409.5230, 2014
+... There are some other attempts to adopt deep learning for face alignment. ... (c) Inner structure of
+the t-th local layer, see Section 2.2 for details. is used for face alignment. Another deep learning
+solution, coarse-to-fine CNN cascade [27] is de- veloped for face alignment. ...
+
+[HTML] Online Learning: Outcomes and Satisfaction among Underprepared Students in an Upper-Level Psychology Course
+C McDonough, RP Roberts, J Hummel - Online Journal of Distance Learning …, 2014
+... 2012). Their findings suggest that while questions tapping rote memorization may
+be "easier" online (perhaps due to the ability to look up the answers), deep learning
+does not vary depending on the delivery method. Some ...
+
+[PDF] Deformable Part Models are Convolutional Neural Networks
+R Girshick, F Iandola, T Darrell, J Malik - arXiv preprint arXiv:1409.5403, 2014
+Page 1. Deformable Part Models are Convolutional Neural Networks Tech report
+Ross Girshick Forrest Iandola Trevor Darrell Jitendra Malik UC Berkeley
+{rbg,forresti,trevor,malik}@eecs.berkeley.edu Abstract Deformable part ...
+
+Artificial General Intelligence: 7th International Conference, AGI 2014, Quebec City, QC, Canada, August 1-4, 2014. Proceedings
+B Goertzel, L Orseau, J Snaider - 2014
+... The keynote speakers for this edition of the conference were Yoshua Bengio, from the University
+of Montreal, who presented deep learning for AI, Alexander Wisner-Gross, from Harvard University
+& MIT, who delivered a speech about the thermodynamics of AGI, and Richard ...
+
+[PDF] Weakly Supervised Object Segmentation with 004 dwaeConvolutional Neural Networks
+PHO Pinheiro, R Collobert - 2014
+... called Convolutional Neural Networks (CNN) [7] models. More recently, with the
+increasing success of deep learning models, the interest for CNN in vision tasks
+has been reborn. They have been applied in different computer ...
+
+“Last Professor Standing!”: PowerPoint Enables All Faculty to Use Humor in Teaching
+RA Berk - The Journal of Faculty Development, 2014
+... memory. Humorous multimedia (auditory/verbal and visu- al/pictorial stimuli) can
+increase memory, comprehension, understanding, and deep learning more than any
+single stimulus by itself (Kirschner, Kester, & Corbalan, 2011). ...
+
+Reflections on Participation and Its Link with Transformative Processes
+K Teamey, R Hinton - Children and Young People's Participation and Its …, 2014
+... Page 51. 34 Children and Young People's Participation a non-formal learning space in which
+debate might take place. Forum theatre is one of the tools of deep learning that is used as a
+participa- tory mechanism for inner (personal) and outer (social) transformation. ...
+
+[HTML] Self-reports on students' learning processes are academic metacognitive knowledge
+CMA Gomes, HF Golino - Psicologia: Reflexão e Crítica, 2014
+... Soares, 2011). Nine items were elaborated to measure deep learning approaches,
+and eight items measure surface learning approaches. Each item has a statement
+that refers to a student's behavior while learning. The student ...
+
+Contexto: lessons learned from mobile context inference
+M Unger, L Rokach, A Bar, E Gudes, B Shapira - … of the 2014 ACM International Joint …, 2014
+... Future work may include improving the prediction accuracy by extending the user profile,
+designing and evaluating additional latent context models (eg by deep learning) and finally,
+evaluating the effect of different context inference models and approaches on services such as ...
+
+[PDF] Going Deeper with Convolutions
+C Szegedy, W Liu, Y Jia, P Sermanet, S Reed… - arXiv preprint arXiv: …, 2014
+... 1 Introduction In the last three years, mainly due to the advances of deep learning,
+more concretely convolutional networks [10], the quality of image recognition and
+object detection has been progressing at a dra- matic pace. ...
+
+[PDF] Exploration of preferred learning styles in medical education using VARK modal
+L Khanal, S Shah, S Koirala - 2014
+... According to Samarakoon et al., first year medical students would be expected to favour auditory
+and read/write learning styles and strategic learning, while final year students would be expected
+to switch to multimodal learning styles with greater emphasis on deep learning [36 ...
+
+[PDF] Breaking the Intellectual Isolation of the Science Teacher
+MG Chandran - Few Takers for Innovation, 2014
+... To be able first to muster the necessary content and pedagogic knowledge required to teach
+in a meaningful way and find and invest the time required to help students engage in the kind
+of deep learning that leads to mastery of a given science concept demands a great deal ...
+
+2 Digital story telling
+H Boulton - Teaching and Learning with ICT in the Primary School, 2014
+... Barrett (2006) aligns digital story telling with student-centred learning strategies: student
+engagement, reflection for deep learning, project-based learning, and the effective integration
+of technology into learning, while Robin (2008) focuses on active learning. ...
+
+Student learning
+S Mathieson - A Handbook for Teaching and Learning in Higher …, 2014
+... Teaching for deep learning–constructive alignment Biggs (Biggs and Tang, 2009) developed
+upon and popularised the approaches to learn- ing research by showing how it could be used
+to fundamentally rethink how teachers organised the learning environment. ...
+
+Deep convolutional neural networks for large-scale speech tasks
+TN Sainath, B Kingsbury, G Saon, H Soltau… - Neural Networks, 2014
+... 2.1. CNN description. A typical convolutional network architecture is shown in Fig. ... Full-size
+image (28 K) Full-size image (28 K) Fig. 1. Diagram showing a typical convolutional network
+architecture consisting of a convolutional and max-pooling layer. ...
+
+[PDF] Deformable Part Models are Convolutional Neural Networks
+R Girshick, F Iandola, T Darrell, J Malik - arXiv preprint arXiv:1409.5403, 2014
+... architecture with a fixed depth. In order to realize DPM as a convolutional network, we
+first introduce the idea of distance transform (DT) pooling, which generalizes the familiar
+max-pooling operation used in CNNs. Given DT-pooling, a ...
+
+[PDF] Weakly Supervised Object Segmentation with 004 dwaeConvolutional Neural Networks
+PHO Pinheiro, R Collobert - 2014
+... For the background, we choose a subset of Imagenet consisting of a total of around
+1.2M images not containing the classes of interest. As it is typical for convolutional
+network models, the size of the input image must be fixed. ...
+
+Artificial Neural Networks and Machine Learning--ICANN 2014: 24th International Conference on Artificial Neural Networks, Hamburg, Germany, September 15-19, …
+S Wermter - 2014
+Page 1. Stefan Wermter Cornelius Weber Wlodzislaw Duch Timo Honkela Petia
+Koprinkova-Hristova Sven Magg Günther Palm Alessandro EP Villa (Eds.) Artificial
+Neural Networks and Machine Learning– ICANN 2014 24th ...
+
+[PDF] Deep Regression for Face Alignment
+B Shi, X Bai, W Liu, J Wang - arXiv preprint arXiv:1409.5230, 2014
+... [22] Yi Sun, Xiaogang Wang, and Xiaoou Tang. Deep convolutional network cascade for facial
+point detection. ... [27] Erjin Zhou, Haoqiang Fan, Zhimin Cao, Yuning Jiang, and Qi Yin. Extensive
+facial landmark localization with coarse-to-fine convolutional network cascade. ...
+
+[PDF] Going Deeper with Convolutions
+C Szegedy, W Liu, Y Jia, P Sermanet, S Reed… - arXiv preprint arXiv: …, 2014
+... Despite concerns that max-pooling layers result in loss of accurate spatial information, the same
+convolutional network architecture as [9] has also been successfully employed for localization
+[9, 14], object detection [6, 14, 18, 5] and human pose estimation [19]. ...
+
+[PDF] Pedestrian Detection with Spatially Pooled Features and Structured Ensemble Learning
+S Paisitkriangkrai, C Shen, A Hengel - arXiv preprint arXiv:1409.5209, 2014
+... Sermanet et al. train a pedestrian detector using a convolutional network model [7].
+Instead of using hand designed features, they propose to use un- supervised sparse
+auto encoders to automatically learn features in a hierarchy. ...
+
+[PDF] MLIA at ImageCLFE 2014 Scalable Concept Image Annotation Challenge
+X Xu, A Shimada, R Taniguchi
+Page 1. MLIA at ImageCLFE 2014 Scalable Concept Image Annotation Challenge Xing Xu,
+Atsushi Shimada, and Rin-ichiro Taniguchi Department of Advanced Information Technology,
+Kyushu University, Japan {xing, atsushi}@limu.ait.kyushu-u.ac.jp, {rin}@ait.kyushu-u.ac.jp ...
+
+[PDF] Random Cascaded-Regression Copse for Robust Facial Landmark Detection
+XJ Wu
+... [5] E. Zhou, H. Fan, Z. Cao, Y. Jiang, and Q. Yin, “Extensive Facial Landmark Localization with
+Coarse-to-Fine Convolutional Network Cascade,” in Proceedings of the IEEE International
+Conference on Computer Vision Workshops on 300-W Challenge, ICCVW, 2013, pp. ...
+
+Deep learning for posture analysis in fall detection
+P Feng, M Yu, SM Naqvi, JA Chambers - Digital Signal Processing (DSP), 2014 19th …, 2014
+... body. Then the binary human body images form the input to the classifier. Two deep
+learning approaches based on a Boltzmann machine and deep belief network are
+compared with a support vector machine approach. The ...
+
+[PDF] Deep neural network based load forecast
+W He
+... in 1990s [12]. The situation continued until Hinton et al. proposed Deep Belief
+Network (DBN) and greedy layer-wise pre-training methods using Restricted
+Botzmann Machine (RBM) in 2006 [11]. Deep neural networks have ...
+
+Contour Motion Estimation for Asynchronous Event-Driven Cameras
+F Barranco, C Fermuller, Y Aloimonos - Proceedings of the IEEE, 2014
+Page 1. INVITED PAPER Contour Motion Estimation for Asynchronous Event-Driven Cameras
+Emulating the relevant transient retinal responses holds the key to efficient tracking in a visual
+motion camera. By Francisco Barranco, Cornelia Fermüller, and Yiannis Aloimonos ...
+
+Deep learning for posture analysis in fall detection
+P Feng, M Yu, SM Naqvi, JA Chambers - Digital Signal Processing (DSP), 2014 19th …, 2014
+... body. Then the binary human body images form the input to the classifier. Two deep
+learning approaches based on a Boltzmann machine and deep belief network are
+compared with a support vector machine approach. The ...
+
+[PDF] Deep neural network based load forecast
+W He
+... in 1990s [12]. The situation continued until Hinton et al. proposed Deep Belief
+Network (DBN) and greedy layer-wise pre-training methods using Restricted
+Botzmann Machine (RBM) in 2006 [11]. Deep neural networks have ...
+
+Contour Motion Estimation for Asynchronous Event-Driven Cameras
+F Barranco, C Fermuller, Y Aloimonos - Proceedings of the IEEE, 2014
+Page 1. INVITED PAPER Contour Motion Estimation for Asynchronous Event-Driven Cameras
+Emulating the relevant transient retinal responses holds the key to efficient tracking in a visual
+motion camera. By Francisco Barranco, Cornelia Fermüller, and Yiannis Aloimonos ...
+
+Image De-Noising Using Deep Learning
+L Zhang, YF Nie, ZH Wang - Applied Mechanics and Materials, 2014
+Abstract Deep neural network as a part of deep learning algorithm is a state-of-the-art 
+approach to find higher level representations of input data which has been introduced to 
+many practical and challenging learning problems successfully. The primary goal of deep ...
+
+GPU Implementation of a Deep Learning Network for Financial Prediction
+R Kumar, AK Cheema - 2014
+Machine learning, a branch of artificial intelligence, concerns the construction and study of 
+systems that can learn from data. Neural network is the well-known branch of machine 
+learning & it has been used extensively by researchers for prediction of data and the ...
+
+[PDF] TBCNN: A Tree-Based Convolutional Neural Network for Programming Language Processing
+L Mou, G Li, Z Jin, L Zhang, T Wang - arXiv preprint arXiv:1409.5718, 2014
+... program classifi- cation. To our best knowledge, this paper is the first to analyze
+programs with deep neural networks; we extend the scope of deep learning to the
+field of programming language processing. The experimental ...
+
+Effects on learning of multimedia animation combined with multidimensional concept maps
+CC Chiou, LC Tien, LT Lee - Computers & Education, 2014
+... cognitive structures. Knowledge is updated and individualized cognitive structures
+are existing expanded after such learning (Ausebel 1968; Novak & Gowin, 1984).
+Concept maps, therefore, can promote deep learning. In fact ...
+
+Difference representation learning using stacked restricted Boltzmann machines for change detection in SAR images
+J Liu, M Gong, J Zhao, H Li, L Jiao - Soft Computing, 2014
+... (2009). In this paper, we use a deep neural network to detect the changes in multitemporal SAR
+images. Deep learning Arel et al. ... (2013). In deep learning, we input the sig- nals directly without
+any preprocessings, and the features can be learned layer by layer unsupervisedly. ...
+
+Adapting to the contemporary learning environment: from instructional design to learning design
+L Massyn, A Wilkinson - Progressio, 2014
+... learning styles. The idea of learning spaces serves to broaden our horizons in terms
+of where learning takes place and what educators need to do to create a learning
+environment that encourages deep learning. If students ...
+
+Parallel batch pattern training algorithm for deep neural network
+V Turchenko, V Golovko - High Performance Computing & Simulation (HPCS), …, 2014
+... Recently various deep learning architectures such as deep NNs, convolutional deep NNs, and
+deep belief networks have been successfully applied to fields like computer vision, automatic
+speech recognition, natural language processing, and music/audio signal recognition ...
+
+Comparisons of machine learning techniques for detecting malicious webpages
+HB Kazemian, S Ahmed - Expert Systems with Applications, 2014
+This paper compares machine learning techniques for detecting malicious webpages. The
+conventional method of detecting malicious webpages is going through the b.
+
+3D object retrieval with stacked local convolutional autoencoder
+B Leng, S Guo, X Zhang, Z Xiong - Signal Processing, 2014
+... It has been proved that deep architectures have the powerful representation capacity [23], and
+series of research related to deep learning have been boomed up in many fields such as 2-D
+image operating [24], speech recognition [25] and natural language processing [26]. ...
+
+Learning Study-the dual process of developing theory and practice
+PY Ko, M McGregor - International Journal for Lesson & Learning Studies, 2014
+... of critical aspects of a learning object affects students' learning. Variation Theory and other
+education theories The notion of pedagogy derived from Variation Theory is congruent with many
+agreed principles in teaching such as teaching for deep learning (eg Biggs, 1989). ...
+
+Research on Cloud Service Leasing Method Based on Maximum Benefit
+Y Xie, YL Zhang - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Research on
+Cloud Service Leasing Method Based on Maximum Benefit.
+
+Object Classification via PCANet and Color Constancy Model
+DK Hu, L Zhang, WD Zhao, T Yan - Applied Mechanics and Materials, 2014
+Advanced Design and Manufacturing Technology IV: Object
+Classification via PCANet and Color Constancy Model.
+
+The Application of SIFT Image Matching in the Information Query Based on MPI Acceleration
+TS Li, CM Hu - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: The Application of SIFT Image
+Matching in the Information Query Based on MPI Acceleration.
+
+Design and Implementation of Content Audit System for Mobile Platform
+JP Tang, LL Li - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Design and
+Implementation of Content Audit System for Mobile Platform.
+
+Defect Detecting Technology Based on Machine Vision of Industrial Parts
+XJ He, ZD Yi, J Liu, YZ Wang - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Defect Detecting
+Technology Based on Machine Vision of Industrial Parts.
+
+Analytical Modeling and its Validation for Data Acquisition of ADS-B System
+JH Wang - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Analytical Modeling
+and its Validation for Data Acquisition of ADS-B System.
+
+Design of Distributed Recommendation Engine Based on Hadoop and Mahout
+JY Yu - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Design of Distributed
+Recommendation Engine Based on Hadoop and Mahout.
+
+Research on the Performance of Routing Protocol for Ad-Hoc Networks
+X Wei, Y Li, XJ Yang - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Research on
+the Performance of Routing Protocol for Ad-Hoc Networks.
+
+Construction of Community Logistics Distribution Network Based on K-Means Algorithm
+M Li, J Zhang, XP Zhou - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Construction of Community
+Logistics Distribution Network Based on K-Means Algorithm.
+
+Study on the Improvement of Floyd Algorithm and its Application in Network Plan
+QR Huang, M Cao - Applied Mechanics and Materials, 2014
+Hydraulic Engineering and Sustainable City Development III: Study on the
+Improvement of Floyd Algorithm and its Application in Network Plan.
+
+A convolutional neural network approach for face verification
+M Khalil-Hani, LS Sung - High Performance Computing & Simulation (HPCS), …, 2014
+... 978-1-4799-5313-4/14/$31.00 ©2014 IEEE 707 Page 2. Figure 1. Siamese Architecture.
+GW(X) Convolutional Network GW(X) Convolutional Network W Trainable Parameters
+||GW(X1) -GW(X2)|| Cost Module GW(X1) GW(X2) X1 X2 EW ...
+
+Facial Landmark Localization using Hierarchical Pose Regression
+Z Zhang, W Zhang, J Liu, X Tang - Pattern Recognition, 2014
+The main challenge of facial landmark localization in real-world application is that the large
+changes of head pose and facial expressions cause substantial ima.
+
+Parallel batch pattern training algorithm for deep neural network
+V Turchenko, V Golovko - High Performance Computing & Simulation (HPCS), …, 2014
+... week [12]. More recent implementation [13] of parallel algorithm for deep belief
+network showed 40% of parallelization efficiency on 40 cores of 5-node computational
+cluster with two Quad-core processors on each node. The ...
+
+[PDF] Chord Recognition with Stacked Denoising Autoencoders
+N Steenbergen - 2014
+Page 1. Chord Recognition with Stacked Denoising Autoencoders Author: Nikolaas Steenbergen
+Supervisors: Prof. Dr. Theo Gevers Dr. John Ashley Burgoyne A thesis submitted in fulfilment
+of the requirements for the degree of Master of Science in Artificial Intelligence in the ...
+
+[PDF] Spot the Odd Song Out: Similarity Model Adaptation and Analysis using Relative Human Ratings
+D Wolff - 2014
+... List of Abbreviations 7digital Seven Digital Online Music Service. CAMIR Culture-Aware
+Information Retrieval Framework, Chapter 7. DBN Deep Belief Network. DMLR Diagonal-restricted
+Metric Learning To Rank, Section 6.2.2.1. FRI Dataset from Friberg and Hedblad [25]. ...
+
+[PDF] Camera-based Sudoku recognition with Deep Belief Network
+B Wicht, J Hennebert
+Abstract—In this paper, we propose a method to detect and recognize a Sudoku puzzle on 
+images taken from a mobile camera. The lines of the grid are detected with a Hough 
+transform. The grid is then recomposed from the lines. The digits position are extracted ...
+
+Real-time continuous pose recovery of human hands using convolutional networks
+J Tompson, M Stein, Y Lecun, K Perlin - ACM Transactions on Graphics (TOG), 2014
+... This data is used to train a Randomized Decision Forest (RDF) architecture for image
+segmentation as well as a Convolutional Network (ConvNet) to infer the position of key model
+features in real time. We also ... Fig. 6. Convolutional network architecture. ...
+
+Neural Networks and Neuroscience-Inspired Computer Vision
+DD Cox, T Dean - Current Biology, 2014
+... high level vision. Full-size image (51 K) Full-size image (51 K) Figure 1. A rough
+correspondence between the areas associated with the primary visual cortex and
+the layers in a convolutional network. (A) Four Brodmann areas ...
+
+[PDF] Spatially-sparse convolutional neural networks
+B Graham - arXiv preprint arXiv:1409.6070, 2014
+... Although pictures are not sparse, they can be thought of as sparse by adding padding. Applying
+a deep convolutional network using sparsity has resulted in a substantial reduction in test error
+on the CIFAR small picture datasets: 6.28% on CIFAR-10 and 24.30% for CIFAR-100. ...
+
+[PDF] Fast Low-rank Representation based Spatial Pyramid Matching for Image Classification
+X Peng, R Yan, B Zhao, H Tang, Z Yi - arXiv preprint arXiv:1409.5786, 2014
+... 10 Page 11. Table 3: The classification accuracy and time cost of different methods on
+Caltech101, where the size of codebook k is set as 256, 512, 1024. DBN is short for deep
+belief network and CNN is short for convolutional neural network. ...
+
+Applied neuroscience
+P Cavanagh - Current Biology, 2014
+... techniques. But the pendulum has now begun to swing back and biology-inspired
+approaches are being reconsidered, whether with deep learning or voice interpretation
+in severe noise or biomimetic and 'attentive' robots. Even ...
+
+Neural Networks and Neuroscience-Inspired Computer Vision
+DD Cox, T Dean - Current Biology, 2014
+... Neural networks came to be painted as slow and finicky to train, beset by voodoo-
+parameters, and simply inferior to other approaches. Deep Learning and the Second
+AI Spring. ... Do Neuroscience and Deep Learning Still Need Each Other? ...
+
+[PDF] 1-HKUST: Object Detection in ILSVRC 2014
+C Lu, H Chen, Q Chen, H Law, Y Xiao, CK Tang - arXiv preprint arXiv:1409.6155, 2014
+... Our ILSVRC 2014 results are reported alongside with the results of other participating teams.
+Keywords: Object Detection, Deep learning and ILSVRC. ... For localization, we exploit regression
+on bounding box using deep learning based on selective search outputs. ...
+
+Dynamic scaffolding in a cloud-based problem representation system: Empowering pre-service teachers' problem solving
+CB Lee, KV Ling, P Reimann, YA Diponegoro, CH Koh… - Campus-Wide Information …, 2014
+... system modelling for conceptual change, she has documented the evidence that employing
+a “self-questioning” strategy plays a pivotal role in learners' deep learning. ... knowledge framework
+is not always sufficient for deep learning to occur. Learners who have ...
+
+[PDF] Domain Adaptive Neural Networks for Object Recognition
+M Ghifary, WB Kleijn, M Zhang - arXiv preprint arXiv:1409.6041, 2014
+... Examples that can be considered as representation learning are Principal Component
+Analysis (PCA), Independent Component Analysis (ICA), Sparse Coding, Neural Net-
+works, and Deep Learning. In deep learning, the greedy ...
+
+Reach the Highest Standard in Professional Learning: Implementation
+M Fullan, SM Hord, V von Frank - 2014
+
+Transformative Learning Theory: Addressing New Challenges in Social Work Education
+P Jones - Exploring Learning & Teaching in Higher Education, 2015
+... The road to social work and human service practice (3rd ed.). Melbourne: Cengage. Clare,
+B. (2007). Promoting deep learning: A teaching, learning and assessment endeavour. Social
+Work Education, 26(5), 433–446. CrossRef; Coates, J. (2003). ...
+
+[PDF] Detecting People in Cubist Art
+S Ginosar, D Haas, T Brown, J Malik - arXiv preprint arXiv:1409.6235, 2014
+... or the original RGB (Left, marked in green) spaces. learned from human annotations,
+and the most recent deep learning method. Here we discuss the details of each
+one. Dalal and Triggs: Object appearance in images can ...
+
+Developing Moral Character
+TA Seifert - New Directions for Student Services, 2014
+... al. (2012b) in which they found a small positive relationship with a composite measure
+of deep learning (summed scores on the NSSE higher order thinking, reflective
+thinking, and integrative thinking subscales). However, in ...
+
+Real-time continuous pose recovery of human hands using convolutional networks
+J Tompson, M Stein, Y Lecun, K Perlin - ACM Transactions on Graphics (TOG), 2014
+Page 1. 169 Real-Time Continuous Pose Recovery of Human Hands Using
+Convolutional Networks JONATHAN TOMPSON, MURPHY STEIN, YANN LECUN,
+and KEN PERLIN New York University We present a novel method ...
+
+The Challenge of Reporting Research to Inform the Creation of Inclusive Mathematics Learning Environments
+P Sullivan - Diversity in Mathematics Education, 2015
+... aligns with what is termed “culturally and contextually responsive” pedago- gies (see Australian
+Association of Mathematics Teachers 2013) and includes ap- proaches that increase opportunities
+for student decision-making, that give students time for deep learning, and that ...
+
+Design Principles for Serious Video Games in Mathematics Education: From Theory to Practice
+K Chorianopoulos, M Giannakos - International Journal of Serious Games, 2014
+... 76-85). Springer Berlin Heidelberg, 2013. Gee, JP Deep learning properties of good digital games:
+How far can they go. Serious games: Mechanisms and effects, 67-82, 2009. Gunter, GA, Kenny,
+RF & Vick, EH A case for a formal design paradigm for serious games. ...
+
+It's all about the constraints
+JK Tsotsos - Current Biology, 2014
+... NeoCognitron [17], in the Parallel Distributed Processing of McCLelland and Rumelhart [22],
+in back-propagation learning methods of Rumelhart, Hinton and Williams [23], in the Convolutional
+Neural Nets of Le Cun and Bengio [24], and in Deep Learning methods, the best ...
+
+[PDF] Designing Experiential Learning Projects for Teaching Marketing Courses
+II Alam - Atlantic Marketing Journal, 2014
+... Literature Review: Most Effective Teaching Technique for Marketing Courses How marketing
+and management courses can be taught at undergraduate level that would promote deep learning
+of managerial skills has been the topic of intense scrutiny in the extant literature. ...
+
+Learning to learn through university accredited work-based learning: a threshold conception
+C Ramage - Journal of Workplace Learning, 2014
+... Numerous studies identify that learning through work is reliant on reflective practice discourse
+in order for deep learning to occur (Barnett, 1977; Johns, 1995; Fowler, 2008). The transcripts
+indicated either directly or indirectly that mentor support boosted self-esteem ...
+
+[PDF] HSR: L1/2 Regularized Sparse Representation for Fast Face Recognition using Hierarchical Feature Selection
+B Han, B He, T Sun, M Ma, A Lendasse - arXiv preprint arXiv:1409.6448, 2014
+... The reason why HSR does not compare with deep learning algorithms[24] is due to the common
+fact that their computational cost is very expensive. To evaluate the performance of HSR
+comprehensively, this section is divided into two detailed sections. ...
+
+[PDF] Analyzing sparse dictionaries for online learning with kernels
+P Honeine - arXiv preprint arXiv:1409.6045, 2014
+... Sparsity promoting is crucial in signal processing and machine learning, such as Gaussian
+processes [2], kernel-based methods [3], Bayesian learning [4], as well as neural networks [5]
+with pruning [6] and the more recent dropout principle in deep learning [7]. Many learning ...
+
+Your New World
+T Romeo - 2014
+... Time Required Grade Level(s) • 2 hours • 4th/5th Grade Topic(s) World History, US History,
+Geography and Language Arts Added value Ice breaker, shared learning experience,
+collaborative thinking, deep learning – C.M's idea Format(s) of primary sources used Maps ...
+
+[PDF] A3IR-CORE at Purdue University: An Innovative Partnership Between Faculty, Students, and Industry
+JH Mott - The Journal of Aviation/Aerospace Education & …, 2014
+... among the stakeholders must be reciprocal in nature such that mutual benefits are derived. Such
+a partnership must “involve deep learning transfer and practitioner reflection and reflexivity as
+opposed to training” (Henderson, McAdam, & Leonard, 2006, p. 1437). ...
+
+[PDF] Neurology & Nedurophysiology
+KPY Liu, CCH Chan, N Tulliani, LSW Li - 2014
+... 22. Bloom BS, Madaus GF, Hastings JT, (1981) Evaluation to improve learning. McGraw-Hill,
+New York. 23. Langkvist M, Karlsson L, Loutfi A (2014) A review of unsupervised feature learning
+and deep learning for time-series modeling. Pattern Recognition Letters 42: 11-24. 24. ...
+
+[PDF] Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+Z Zhu, X Wang, S Bai, C Yao, X Bai - arXiv preprint arXiv:1409.7164, 2014
+... B. Deep Belief Network The DBN [18]–[20] is a generative graphical model, or alternatively a
+type of deep neural network, composed of multi- ple layers of latent variables (“hidden units”),
+with connections between the layers but not between units within each layer. ...
+
+[PDF] Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+Z Zhu, X Wang, S Bai, C Yao, X Bai - arXiv preprint arXiv:1409.7164, 2014
+Abstract: We study the problem of how to build a deep learning representation for 3D shape. 
+Deep learning has shown to be very effective in variety of visual applications, such as image 
+classification and object detection. However, it has not been successfully applied to 3D ...
+
+[PDF] A Deep Graph Embedding Network Model for Face Recognition
+Y Gan, T Yang, C He - arXiv preprint arXiv:1409.7313, 2014
+... Abstract—In this paper, we propose a new deep learning network “GENet”, it combines the
+multi-layer network architec- ture and graph embedding framework. ... Keywords—Deep Learning,
+Graph Embedding framework, Face Recognition. I. INTRODUCTION ...
+
+[PDF] Image Classification with A Deep Network Model based on Compressive Sensing
+Y Gan, T Zhuo, C He - arXiv preprint arXiv:1409.7307, 2014
+... Abstract—To simplify the parameter of the deep learning network, a cascaded compressive
+sensing model “CSNet” is implemented for image classification. ... Keywords—Deep Learning,
+Compressive Sensing, Handwritten Digit Recognition. ...
+
+Prediction of Stock Trend Based on Deep Belief Networks
+ZY Xu, LN Tang, CP Tian - Applied Mechanics and Materials, 2014
+... Email: sunrisebest.xu@gmail.com Keywords: DBNs, deep learning, stock trend prediction ... A
+detailed discussion is given on the improvement of the system performance. Introduction Big
+data has long been the focus of the era, whereas, deep learning is coming after. ...
+
+High performance histogramming on massively parallel processors
+WM Hwu - 2014
+High performance histogramming on massively parallel processors | Wen-Mei Hwu |
+Computer science, Computer vision, CUDA, Databases, Machine learning, nVidia,
+nVidia GeForce GTX 570, nVidia GeForce GTX 780, Thesis.
+
+[PDF] Measuring the Impact of Innovations in Bertheussen's 'Digital School Examinations'
+A Fask, F Englander, Z Wang - International Business Research, 2014
+... Keywords: digital cheating, effectiveness of digital exam procedure, experimental and
+quasi-experimental research designs, surface versus deep learning 1. Introduction In his article,
+―Digital School Examinations: An Educational Note of an Innovative Practice,‖ Bertheussen ...
+
+[PDF] Investigating teaching performance in seminars; a questionnaire study with a multi-level approach
+A Spruijt, J Leppink, I Wolfhagen, A Scherpbier… - BMC Medical Education, 2014
+... There is a tendency to facilitate a 'deep learning approach' when participating in the group prompts
+asking questions, engaging in discussions and interacting with the subject matter [5,6]. Students
+elaborate and restructure facts, principles, and concepts to build robust cognitive ...
+
+[HTML] Investigating the Relationship Between Pharmacy Students' Achievement Goal Orientations and Preferred Teacher Qualities
+S Alrakaf, E Sainsbury, G Rose, L Smith - American Journal of Pharmaceutical …, 2014
+... and low grades on examinations. 17,18 In contrast, the mastery-approach goal has
+been associated with deep learning, 19 high individual interest, 20 high self-regulation,
+21 and willingness to cooperate. 22 Yet, to the achievement ...
+
+Revamping Our Courses for the New Semester; How Is Everyone Doing?
+SJ Schmidt - Journal of Food Science Education, 2014
+... A new course assignment to be implemented is a “Learning Journal.” One activity important for
+deep learning to occur is reflection, that is, thinking about, talking, and/or using what students
+are learning in the classroom outside of the classroom, in their daily lives. ...
+
+Supercharging Case-Based Learning via Simulators: Achieving Double-Loop Learning with Case-Sims
+A Pérez-Bennett, P Davidsen, LE Lopez - Management Decision, 2014
+... experimentation and to choose new experiences. The use of games to play may create
+learning spaces that promote deep learning (Kolb & Kolb, 2010). Greco, Baldissin
+& Nonino (2013) provide a taxonomy of business games ...
+
+[PDF] Do More Dropouts in Pool5 Feature Maps for Better Object Detection
+Z Shen, X Xue - arXiv preprint arXiv:1409.6911, 2014
+... [21] designed a large CNN with 60 million parameters and 650,000 neurons and ob- tained
+substantially improvement of image classification ac- curacy on the ImageNet Large Scale Visual
+Recognition Challenge (ILSVRC) [20, 3]. In 2013, a joint deep learning architecture was ...
+
+[HTML] Identifying Achievement Goals and Their Relationship to Academic Achievement in Undergraduate Pharmacy Students
+S Alrakaf, E Sainsbury, G Rose, L Smith - American Journal of Pharmaceutical …, 2014
+... engagement and achievement. 6,16,17. The mastery-approach goal has been linked
+to a number of positive effects such as deep learning, 18 high interest, 19 high
+persistence, 20 and help seeking. 21 Despite these beneficial ...
+
+[PDF] THIS IS WORK IN PROGRESS. FEEDBACK IS VERY WELCOME!
+DC Moosmayer, D Borgia, TWY Man, G Schwartz - 2014
+... At the same time it has been found that Chinese students usually do not apply deep learning
+strategies but focus on achievement oriented approaches ... achievement oriented approach is as
+strong as that through deep learning (Watkins and Biggs Page 5. Moosmayer et al. 5 ...
+
+Lesson Study for Learning Community: A guide to sustainable school reform
+E Saito, M Murase, A Tsukui, J Yeo - 2014
+
+" The terms" multicultural"," cross-cultural"," intercultural". Meaning. Differences. Area of using
+A Atamaniuk - 2014
+... Page 5. Olena Atamaniuk, 27338 Electronic Media, MW, 2. Semester Intercultural Management
+3 things to culture. But all culture's values are not deep learning by society. Cross-cultural applies
+to something, which covers more than one culture. It means to find way ...
+
+[PDF] What Does a Mythopoetic Inquiry Look Like?
+S Ruebsaat - SFU Educational Review, 2014
+Page 1. SFU Education Review www.sfuedreview.org Ruebsaat, October 2013
+What Does a Mythopoetic Inquiry Look Like? Susanna Ruebsaat PhDc A mythopoetic
+inquiry is the bringing of one's story out of the isolation of ...
+
+[PDF] APPROACHING CURRICULUM RESOURCES
+L Ahl - 2014
+Page 1. Mälardalen University Press Licentiate Theses No. 179 APPROACHING CURRICULUM
+RESOURCES EXAMINING THE POTENTIAL OF TEXTBOOKS AND TEACHER GUIDES TO
+SUPPORT MATHEMATICS LEARNING AND TEACHING Linda Ahl 2014 ...
+
+The epistemological chain in high-level adventure sports coaches
+L Collins, D Collins, D Grecic - Journal of Adventure Education & Outdoor Learning, 2014
+... autonomous and independent performance. These coaches would question authority,
+engaging in performer-centered coaching, which would encourage deep learning
+and understanding in their students. Consideration of these ...
+
+[PDF] Learning Modeling Languages Using Strategies from Gaming
+O Richardsen - 2014
+Page 1. Learning Modeling Languages Using Strategies from Gaming Øyvin Richardsen
+Master of Science in Communication Technology Supervisor: Frank Alexander Krämer,
+ITEM Department of Telematics Submission date: June 2014 ...
+
+Śabda Pramāṇa and Prophetic Witness: Barthian and Advaitin Perspectives in Dialogue*
+RB Locklin - The Journal of Religion, 2014
+... For an introduction to the contemporary comparative theological project more broadly, see Francis
+X. Clooney, SJ, Comparative Theology: Deep Learning across Religious Borders (Malden, MA:
+Wiley-Blackwell, 2010); and Reid B. Locklin and Hugh Nicholson, “The Return of ...
+
+[PDF] Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+Z Zhu, X Wang, S Bai, C Yao, X Bai - arXiv preprint arXiv:1409.7164, 2014
+Abstract: We study the problem of how to build a deep learning representation for 3D shape. 
+Deep learning has shown to be very effective in variety of visual applications, such as image 
+classification and object detection. However, it has not been successfully applied to 3D ...
+
+Prediction of Stock Trend Based on Deep Belief Networks
+ZY Xu, LN Tang, CP Tian - Applied Mechanics and Materials, 2014
+Abstract The deep belief networks (DBNs) are introduced to predict the stock trend. By 
+stacking three RBMs and a softmax regression, a novel model of the stock price is 
+developed to extract the high dimensional feature and predict the trend of the stock market ...
+
+[HTML] Category Archives: AI
+NIT Farmer
+ååæéæèçççæå, éåèåçåèææåæé, ääæååéå, åææèçæååä
+ééçèçåçæææææèèååçæèèåç, åçåèèæè. åèéæåæçåèäæ
+åæéäååäääæåååéå, åäåååäåèéäçä.
+
+[PDF] A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution
+R Timofte, V De Smet, L Van Gool
+Page 1. A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution
+Radu Timofte, Vincent De Smet, Luc Van Gool CVL, D-ITET, ETH Zürich, Switzerland
+VISICS, ESAT/PSI, KU Leuven, Belgium Abstract. We ...
+
+Two-layer contractive encodings for learning stable nonlinear features
+H Schulz, K Cho, T Raiko, S Behnke - Neural Networks, 2014
+... supervised learning. Most existing deep learning meth. ... learning. Most existing deep
+learning methods build these feature hierarchies layer by layer in a greedy fashion using
+either auto-encoders or restricted Boltzmann machines. Both ...
+
+[HTML] Expected energy-based restricted Boltzmann machine for classification
+S Elfwing, E Uchibe, K Doya - Neural Networks, 2014
+... To create a deep learning architecture, we stack several RBMs on top of each other. We also
+connect the class nodes to all hidden layers to try to improve the performance even further. ... To
+create a deep learning architecture, we stack several RBMs on top of each other. ...
+
+[PDF] Continuous gesture recognition from articulated poses
+G Evangelidis, G Singh, R Horaud - ECCV ChaLearn Workshop on Looking at People, 2014
+... A deep learning framework that employs convolutional neural networks obtained the best results
+in the challenge [16]. ... In: ECCV Workshops (2014) 16. Neverova, N., Wolf, C., Taylor, GW, Nebout,
+F.: Multi-scale deep learning for gesture detection and localization. ...
+
+[HTML] Image-Based Analysis to Study Plant Infection with Human Pathogens
+M Schikora, A Schikora - Computational and Structural Biotechnology Journal, 2014
+... of NN. However, the concept of deep learning has brought NN back to the focus
+of current research, making NN more efficient and applicable in various pattern
+recognition problems [66,67]. • Support Vector Machines. Since ...
+
+Improved Perception-Based Spiking Neuron Learning Rule for Real-Time User Authentication
+H Qu, X Xie, Y Liu, M Zhang, L Lu - Neurocomputing, 2014
+Spiking neural networks (SNNs) have been highly successful in spatiotemporal pattern
+recognition. As one of the most efficient supervised learning algorithms in.
+
+A review of commitment and implementation of Sustainable Development in Higher Education: Results from a worldwide survey
+R Lozano, K Ceulemans, M Alonso-Almeida… - Journal of Cleaner …, 2014
+During the last two decades, many higher educational institutions have become involved in
+embedding sustainable development into their academic systems. The res.
+
+[PDF] Distributed Data Mining Based on Deep Neural Network for Wireless Sensor Network
+C LI, X XIE, Y HUANG, H Wang, C NIU
+... [6] Yu Kai, Jia Lei, Chen Yuqiang, et al. “Deep Learning: Yesterday, Today, and Tomorrow”,
+Journal of computer Research and Development, vol.50, no.9, pp1799-1804, 2013. [7] Hinton
+G，Salakhutdinov R. “Reducing the dimensionality of data with neural networks“,. ...
+
+[HTML] Cognitive analytics, Tech Trends 2014 from Deloitte Univer.. GRC Articles» Cognitive analytics, Tech Trends 2014 from Deloitte University, Rajeev Ronanki & David …
+S Me, J Bone
+... processing, and advancements in the enabling infrastructure. Machine learning, or
+deep learning, 4 is an artificial intelligence 5 technique modeled after characteristics
+of the human brain. A machine learning system explores many ...
+
+[PDF] Context-Aware Generative Learning Objects for Teaching Computer Science
+R BURBAITE, K BESPALOVA, R DAMASˇEVICˇIUS…
+... 25. M. Fowler, Refactoring: Improving the Design of Existing Code, Addison-Wesley
+Longman Publishing Co, 1999. 26. T. Boyle and A. Ravenscroft, Context and deep learning
+design, Computers & Education 59(4), 2012, pp. 1224–1233. 27. ...
+
+[PDF] The Maker Movement Implications from modern fabrication, new digital gadgets, and hacking for creative learning and teaching
+S Schön, M Ebner, S Kumar - Special edition
+Page 86. Special edition eLearning Papers 86 eLearningPapers In-depth Authors
+Sandra Schön Salzburg Research Forschungsgesellschaft Innovation Lab, Salzburg,
+Austria sandra. schoen@ salzburgresearch. at [+] Martin ...
+
+[HTML] Evaluating and Implementing an Interactive Infection Control Instructional Program
+KV Garland, MS RDH
+... clinical setting for delivering safe client care. Active learning strategies are necessary
+components for enhancing deep learning, synthesis of lecture course materials and
+critical thinking skills. 2 Synthesis of didactic course content ...
+
+Feature Selection Based on Dependency Margin
+Y Liu, F Tang, Z Zeng
+Page 1. This article has been accepted for inclusion in a future issue of this journal. Content
+is final as presented, with the exception of pagination. IEEE TRANSACTIONS ON
+CYBERNETICS 1 Feature Selection Based on Dependency Margin ...
+
+[HTML] Expected energy-based restricted Boltzmann machine for classification
+S Elfwing, E Uchibe, K Doya - Neural Networks, 2014
+Abstract In classification tasks, restricted Boltzmann machines (RBMs) have predominantly 
+been used in the first stage, either as feature extractors or to provide initialization of neural 
+networks. In this study, we propose a discriminative learning approach to provide a self- ...
+
+Two-layer contractive encodings for learning stable nonlinear features
+H Schulz, K Cho, T Raiko, S Behnke - Neural Networks, 2014
+... The authors rely on a greedy initialization, however, which we demonstrate here might
+establish a bad starting point. Ngiam, Chen, Koh, and Ng (2011) train a deep belief
+network without greedy initialization and also report good results. ...
+
+[PDF] Free-Form Region Description with Second-Order Pooling
+J Carreira, R Caseiro, J Batista, C Sminchisescu
+... approaches exist. Notably Shotton et al. [32] select from a large set of contextual
+features within a boosting framework and more recently Farabet et al. [33] train a
+convolutional network on a multi-scale image pyramid. The bag ...
+
+[PDF] MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation
+A Jain, J Tompson, Y LeCun, C Bregler - arXiv preprint arXiv:1409.7963, 2014
+... New York University {ajain, tompson, yann, bregler}@cs.nyu.edu Abstract. In this work, we propose
+a novel and efficient method for ar- ticulated human pose estimation in videos using a
+convolutional network architecture, which incorporates both color and motion features. ...
+
+[PDF] Impact of Attention on Perception in Cognitive Dynamic Systems
+A Amiri - 2014
+Page 1. IMPACT OF ATTENTION ON PERCEPTION IN COGNITIVE DYNAMIC
+SYSTEMS Page 2. IMPACT OF ATTENTION ON PERCEPTION IN COGNITIVE
+DYNAMIC SYSTEMS By ASHKAN AMIRI, M.SC., M.ENG, and B.SC. ...
+
+[DOC] Text Narrator for the Visually Impaired
+H Munir, I Khattak, MM Waseem, UN Satti - 2014
+... together. It is done by means of a global optimization framework. For robustness,
+training on a large amount of data employs a machine learning approach. The system
+core is a convolutional network based character recognizer. It ...
+
+Learning Multiscale Active Facial Patches for Expression Analysis
+L Zhong, Q Liu, P Yang, J Huang, DN Metaxas
+Page 1. This article has been accepted for inclusion in a future issue of this journal. Content
+is final as presented, with the exception of pagination. IEEE TRANSACTIONS ON CYBERNETICS
+1 Learning Multiscale Active Facial Patches for Expression Analysis ...
+
+[PDF] MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation
+A Jain, J Tompson, Y LeCun, C Bregler - arXiv preprint arXiv:1409.7963, 2014
+Abstract: In this work, we propose a novel and efficient method for articulated human pose 
+estimation in videos using a convolutional network architecture, which incorporates both 
+color and motion features. We propose a new human body pose dataset, FLIC-motion, ...
+
+[PDF] A Deep Learning Approach to Data-driven Parameterizations for Statistical Parametric Speech Synthesis
+PK Muthukumar, AW Black - arXiv preprint arXiv:1409.8558, 2014
+Abstract: Nearly all Statistical Parametric Speech Synthesizers today use Mel Cepstral 
+coefficients as the vocal tract parameterization of the speech signal. Mel Cepstral 
+coefficients were never intended to work in a parametric speech synthesis framework, but ...
+
+Improving Acoustic Model for Vietnamese Large Vocabulary Continuous Speech Recognition System Using Deep Bottleneck Features
+QB Nguyen, TT Vu, CM Luong - Knowledge and Systems Engineering, 2015
+... System Using Deep Bottleneck Features Quoc Bao Nguyen, Tat Thang Vu, and Chi Mai Luong
+Abstract. In this paper, a method based on deep learning for extracting bottleneck features
+for Vietnamese large vocabulary speech recognition is presented. ...
+
+[PDF] Unsupervised Domain Adaptation by Backpropagation
+Y Ganin, V Lempitsky - arXiv preprint arXiv:1409.7495, 2014
+... layer. The result- ing augmented architecture can be trained using standard
+backpropagation. Overall the whole approach can be im- plemented with little effort
+using any of the deep-learning packages. 1. Introduction Deep ...
+
+[PDF] Zero-Shot Learning with Structured Embeddings
+Z Akata, H Lee, B Schiele - arXiv preprint arXiv:1409.8403, 2014
+... On the other hand, deep learning features obtained using Convolutional Neural Networks
+(CNN) [14] have shown improved results over FVs2. They consist of convolutional and fully
+connected layers with nonlinearity applied to the output of each layer. ...
+
+[PDF] How Students Learn using MOOCs: An Eye-tracking Insight
+K Sharma, P Jermann, P Dillenbourg - EMOOCs 2014, the Second MOOC European …, 2014
+... The good performing students having a deep learning strategy have the highest average
+area of the attention points per 10 seconds among all the participants, despite having
+the same number of attention points during the same time period. ...
+
+The effectiveness of simulated robots for supporting the learning of introductory programming: a multi-case case study
+L Major, T Kyriacou, P Brereton - Computer Science Education, 2014
+Skip to content Friday 3rd October 22:00-23:00 GMT: Taylor & Francis Online
+will be unavailable for up to 15 minutes during this period due to essential
+work by our technology partner. Taylor & Francis Online: ...
+
+[PDF] Smart Environments design: The SPLASH project case
+R Pace, A Dipace - Journal of e-Learning and Knowledge Society, 2014
+... to students. • There is a growing need to evaluate new teaching approaches
+assessment models and determine how to best support collaboration, interaction,
+deep learning experiences and assessment at scale. Instances ...
+
+Design Principles for Serious Games in Mathematics
+K Chorianopoulos, MN Giannakos, N Chrisochoides - Proceedings of the 18th …, 2014
+... In Serious Games Development and Applications (pp. 76--85). Springer Berlin Heidelberg. 5.
+Gee, JP (2009). Deep learning properties of good digital games: How far can they go. Serious
+games: Mechanisms and effects, 67--82. 6. Kelleher, C., Pausch, R., & Kiesler, S. (2007). ...
+
+[PDF] The Use of Metacognitive Strategies to Develop Research Skills among Postgraduate Students
+S Rahman, RM Yasin, N Salamuddin, S Surat - Asian Social Science, 2014
+... It focuses on the use of learning strategies that promote engagement and deep learning among
+students. ... It can be concluded that student centered learning play important roles in encouraging
+a deep learning thus facilitating students' development of knowledge and skills. ...
+
+A Study of Feature Combination in Gesture Recognition with Kinect
+NQ Pham, HS Le, DD Nguyen, TG Ngo - Knowledge and Systems Engineering, 2015
+... 465 were often outperformed by shallow ones with a single hidden layer [20], which is very similar
+to SVM. The introduction of the Deep Learning based on Deep Belief Networks with a more
+sophisticated learning algorithm [21] can be considered as a breakthrough. ...
+
+[HTML] Student constructs of mathematical problems: Problem types, achievement and gender
+MS Chiu, HM Yeh, D Whitebread, JCK Lee - Cogent Education, 2014
+... Cognitive constructs of problem-posing tasks include decoding, representing, processing,
+implementing, and imagining, which are thought to be relevant to deep learning
+(Kotsopoulos & Cordy, 200920. Kotsopoulos, D., & Cordy, M. (2009). ...
+
+Successfully widening access to medicine. Part 2: Curriculum design and student progression
+S Curtis, C Blundell, C Platz, L Turner - Journal of the Royal Society of Medicine, 2014
+... to fill the attainment gap while developing confidence and other key skills, therefore, smoothing
+the transition to Year 1. The relatively small group of 30 students together with the teaching
+approach creates a culture of active and therefore deep learning, questioning and a range ...
+
+[HTML] General University Requirements at Hong Kong Polytechnic University: evaluation findings based on student focus groups
+DTL Shek, L Yu, FKY Wu, WY Chai - Assessment & Evaluation in Higher Education, 2014
+... All these methods gained positive comments from the participants for both the rich and
+deep learning experiences and the alignment of students' learning with the intended
+learning outcomes, such as lifelong learning and problem-solving: ...
+
+AutoTutor and Family: A Review of 17 Years of Natural Language Tutoring
+BD Nye, AC Graesser, X Hu - International Journal of Artificial Intelligence in …, 2014
+... natural-language tutoring. Research on early versions of AutoTutor documented the
+impact on deep learning by co-constructed explanations, feedback, conversational
+scaffolding, and subject matter content. Systems that evolved ...
+
+[PDF] Knowledge Creation in Nursing Education
+ZM Hassanian, MR Ahanchian, S Ahmadi… - Global Journal of Health …, 2014
+... Nevertheless, sometimes, in post-graduation programs, research was determined as student
+assignment which had to be performed in a limited time period, and thus, did not result in deep
+learning. The majority of organizational knowledge was reserved in people. ...
+
+[PDF] An international validation study of two achievement goal measures in a pharmacy education context
+A Abdelmageed, M Kiersma, J Tordoff - 2014
+... A number of studies have linked the M-AP goal to positive outcomes, such as high interest,11
+high persistence,12 using deep learning strategies,13 and seeking help when needed.14
+However, despite these beneficial outcomes, no significant positive relationship between this ...
+
+[PDF] Autoencoder Trees
+O İrsoy, E Alpaydın - arXiv preprint arXiv:1409.7461, 2014
+... Conventional autoencoders use use a single layer, perceptron-type neural network for the
+encoding and decoding functions, which implements an affine map followed by a nonlinearity
+for the encoder [1]. In deep learning, the idea is to stack multiple such autoencoders as a ...
+
+[PDF] Lost in the Past: Recognizing Locations Over Large Time Lags
+B Fernando, T Tommasi, T Tuytelaars - arXiv preprint arXiv:1409.7556, 2014
+... Best results obtained with state of the art recognition methods such as deep learning (DECAF
+[11]) and Fisher vectors are com- pared in Table 2. It should be also noted that in the absence
+of large amount of training data, it is not possible to retrain a CNN network; so we opted ...
+
+[PDF] Hyper-Spectral Image Analysis with Partially-Latent Regression and Spatial Markov Dependencies
+A Deleforge, F Forbes, S Ba, R Horaud - arXiv preprint arXiv:1409.8500, 2014
+... variables. The reader is referred to [12] for an up to date review of state- of-the-art
+classification models applied to hyper-spectral data. Recently, [13] proposed a deep
+learning approach for hyper- spectral data classification. When ...
+
+[PDF] A Deep Learning Approach to Data-driven Parameterizations for Statistical Parametric Speech Synthesis
+PK Muthukumar, AW Black - arXiv preprint arXiv:1409.8558, 2014
+Abstract: Nearly all Statistical Parametric Speech Synthesizers today use Mel Cepstral 
+coefficients as the vocal tract parameterization of the speech signal. Mel Cepstral 
+coefficients were never intended to work in a parametric speech synthesis framework, but ...
+
+[PDF] Impact of Attention on Perception in Cognitive Dynamic Systems
+A Amiri - 2014
+The proposed aim of this thesis, inspired by the human brain, is to improve on the 
+performance of a perceptual processing algorithm, referred to as a “perceptor”. This is done 
+by trying to bridge the gap between neuroscience and engineering. To this end, we build ...
+
+[PDF] ICFHR2014 Competition on Handwritten Text Recognition on tranScriptorium Datasets (HTRtS)
+JA Sánchez, V Romero, AH Toselli, E Vidal
+Abstract—A contest on Handwritten Text Recognition organised in the context of the ICFHR 
+2014 conference is described. Two tracks with increased freedom on the use of training data 
+were proposed and three research groups participated in these two tracks. The ...
+
+[PDF] Writer Adaptation using Bottleneck Features and Discriminative Linear Regression for Online Handwritten Chinese Character Recognition
+J Du, JS Hu, B Zhu, S Wei, LR Dai
+Abstract This paper presents a novel approach to writer adaptation using bottleneck features 
+and discriminative linear regression for the recognition of online handwritten Chinese 
+characters. First, bottleneck features extracted from a bottleneck layer of a deep neural ...
+
+[PDF] Deep-Belief-Network based Rescoring for Handwritten Word Recognition
+PP Roy, Y Chherawala, M Cheriet
+Abstract This paper presents a novel verification approach towards improvement of 
+handwriting recognition systems using a word hypotheses rescoring scheme by Deep Belief 
+Networks (DBNs). A recurrent neural network based sequential text recognition system is ...
+
+[PDF] CLASSIFYING GRAY-SCALE SAR IMAGES: ADEEP LEARNING APPROACH
+H Wang
+ABSTRACT Classifying Gray-scale differencing SAR images into two classes is very difficult 
+due to the changeable impacts caused by the season, the imaging condition and so on. To 
+optimize the state-of-the-art algorithms and to deal with the mentioned difficulty, a novel ...
+
+[PDF] QR CODE LOCALIZATION USING DEEP NEURAL NETWORKS
+T Grósz, P Bodnár, L Tóth, LG Nyúl
+ABSTRACT Usage of computer-readable visual codes became common in our everyday life 
+at industrial environments and private use. The reading process of visual codes consists of 
+two steps, localization and data decoding. This paper introduces a new method for QR ...
+
+[PDF] Localization of Visual Codes in the DCT Domain Using Deep Rectifier Neural Networks
+P Bodnár, T Grósz, L Tóth, LG Nyúl
+Abstract. The reading process of visual codes consists of two steps, localization and data 
+decoding. This paper presents a novel method for QR code localization using deep rectifier 
+neural networks, trained directly in the JPEG DCT domain, thus making image ...
+
+[PDF] Vector LIDA
+JSS Franklin
+Abstract The representation paradigm used by a cognitive architecture helps to determine 
+the kind of processes that it can perform more efficiently. Vector LIDA is a variation of the 
+LIDA cognitive architecture that employs high-dimensional Modular Composite ...
+
+[PDF] A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing Handwriting Style Development
+G Chen, SN Srihari
+Abstract—Restricted Boltzmann machines (RBMs) and their variants have attracted a lot of 
+attention recently. They have been applied widely, eg, in handwriting recognition, document 
+categorization and object recognition. Unfortunately, an RBM requires a large parameter ...
+
+[PDF] Irrelevant Variability Normalization via Hierarchical Deep Neural Networks for Online Handwritten Chinese Character Recognition
+J Du
+Abstract This paper presents a novel irrelevant variability normalization (IVN) approach via 
+hierarchical deep neural networks (HDNNs) and prototype-based classifier for online 
+handwritten Chinese character recognition. The recent insight of deep neural network ( ...
+
+[PDF] Entrepreneurship Support Based on Mixed Bio-Artificial Neural Network Simulator (ESBBANN)
+EM Fedriani, M Chaves-Maza - 2014
+... References 1. O'Connor, P., et al.: Real-time classification and sensor fusion with a spiking
+deep belief network. Frontiers in Neuroscience 7(178) (2013) 2. Yue-Sek, CV, et al.:
+Neuromorphic Audio-Visual Sensor Fusion on a Sound-Localising Robot. ...
+
+[PDF] Deep-Belief-Network based Rescoring for Handwritten Word Recognition
+PP Roy, Y Chherawala, M Cheriet
+Abstract This paper presents a novel verification approach towards improvement of 
+handwriting recognition systems using a word hypotheses rescoring scheme by Deep Belief 
+Networks (DBNs). A recurrent neural network based sequential text recognition system is ...
+
+[PDF] A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing Handwriting Style Development
+G Chen, SN Srihari
+Page 1. A Noisy-Or Discriminative Restricted Boltzmann Machine for Recognizing
+Handwriting Style Development Gang Chen and Sargur N. Srihari Department of
+Computer Science and Engineering SUNY at Buffalo Buffalo ...
+
+[PDF] A Tibetan Component Representation Learning Method for Online Handwritten Tibetan Character Recognition
+LL Ma, J Wu
+... The proposed method achieves the component-level and character-level recognition
+rates of 94.78% and 94.09%. Keywords—online handwritten Tibetan character
+recognition; deep belief network;representation learning; component ...
+
+[PDF] DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS GEOSPATIAL OBJECT RECOGNITION
+E BATI - 2014
+Page 1. DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS
+GEOSPATIAL OBJECT RECOGNITION A THESIS SUBMITTED TO THE GRADUATE SCHOOL
+OF NATURAL AND APPLIED SCIENCES OF MIDDLE EAST TECHNICAL UNIVERSITY ...
+
+Vehicle License Plate Recognition With Random Convolutional Networks
+D Menotti, G Chiachia, AX Falcao, VJO Neto
+... contribution of this paper. II. PROPOSED CONVOLUTIONAL NETWORK In this work,
+convolutional neural networks (CNN) can be viewed as a sequence of four linear and
+non-linear image processing layers. Given an input image ...
+
+[PDF] Fast Localization of Facial Landmark Points
+N Markuš, M Frljak, IS Pandzic, J Ahlberg…
+... 1, 3 [3] X. Cao, Y. Wei, F. Wen, and J. Sun, “Face alignment by explicit shape
+regression,” in CVPR, 2012. 1, 3, 4 [4] Y. Sun, X. Wang, and X. Tang, “Deep
+convolutional network cascade for facial point detection,” in CVPR, 2013. ...
+
+[PDF] Deep Tempering
+G Desjardins, H Luo, A Courville, Y Bengio - arXiv preprint arXiv:1410.0123, 2014
+... Our ap- proach leverages an under-appreciated property of deep generative models such
+as the Deep Belief Network (DBN), where Gibbs sampling from deeper levels of the latent
+variable hierarchy results in dramatically increased ergodicity. ...
+
+Robust continuous digit recognition using reservoir computing
+A Jalalvand, F Triefenbach, K Demuynck, JP Martens - Computer Speech & …, 2014
+It is acknowledged that Hidden Markov Models (HMMs) with Gaussian Mixture Models (GMMs)
+as the observation density functions achieve excellent digit recognition.
+
+[PDF] MAXIMUM RECONSTRUCTION PROBABILITY TRAINING OF RESTRICTED BOLTZMANN MACHINES WITH AUXILIARY FUNCTION APPROACH
+N Takamune, H Kameoka
+... They have attracted particular attention recently after being proposed as building blocks
+for deep belief network (DBN) and have been applied with notable success in a range
+of problems including speech recognition and object recogni- tion. ...
+
+Local deep feature learning framework for 3D shape
+S Bu, P Han, Z Liu, J Han - Computers & Graphics, 2014
+... Recently, the deep learning [9], [10] and [11] has been applied successfully in speech recognition,
+image processing, and so on. ... In this study we use the deep learning method [9], [10] and [11]
+to improve the performance of the feature. 3.4. Learning local deep feature. ...
+
+[PDF] Deep Tempering
+G Desjardins, H Luo, A Courville, Y Bengio - arXiv preprint arXiv:1410.0123, 2014
+... Abstract Restricted Boltzmann Machines (RBMs) are one of the fundamental building blocks
+of deep learning. ... 5 Discussion Deep Tempering combines ideas from traditional MCMC
+tempering methods, with new observa- tions from the field of deep learning. ...
+
+[PDF] Deep Directed Generative Autoencoders
+S Ozair, Y Bengio - arXiv preprint arXiv:1410.0630, 2014
+... model. 1 Introduction Deep learning is an aspect of machine learning that regards
+the question of learning multiple levels of representation, associated with different
+levels of abstraction (Bengio, 2009). These representations ...
+
+[PDF] Place-based outdoor learning and environmental sustainability within Australian Primary Schools
+A Lloyd, T Gray - Journal of Sustainability Education, 2014
+... Teaching aspects of environmental education in the outdoors is simply one way to
+establish deep learning and connection to place for children to develop eco–literacy,
+which includes concepts of environmental sustainability (Miles, 2013). ...
+
+[PDF] Deep Sequential Neural Network
+L Denoyer, P Gallinari - arXiv preprint arXiv:1410.0510, 2014
+... Neural trees: a new tool for classification. Network: Computation in Neural Systems,
+1(4):423–438, 1990. [16] Richard Socher and Christopher D. Manning. Deep learning for NLP
+(without magic). In Human Language Technologies, pages 1–3, 2013. [17] Paul E. Utgoff. ...
+
+Excited, Proud, and Accomplished Exploring the Effects of Feedback Supplemented With Web-Based Peer Benchmarking on Self-Regulated Learning in Marketing …
+D Raska - Journal of Marketing Education, 2014
+Page 1. Journal of Marketing Education 1 –14 © The Author(s) 2014 Reprints and
+permissions: sagepub.com/journalsPermissions.nav DOI: 10.1177/
+0273475314552325 jmed.sagepub.com Article Feedback, defined as critical ...
+
+Learning outcomes' role in higher education teaching
+RA Nasrallah - … , Business and Society: Contemporary Middle Eastern …, 2014
+... topics. This is why they usually had to repeat knowledge that ought to have been acquired in
+previous courses. In addition, whereas 11% of the interviewees believed that deep learning was
+not ongoing, another 11% were confident that deep learning was taking place. 10% of ...
+
+SRRank: Leveraging Semantic Roles for Extractive Multi-Document Summarization
+S Yan, X Wan - Audio, Speech, and Language Processing, IEEE/ACM …, 2014
+... search algorithm [5], Bayesian model [18], minimum dominating set [19], matrix factorization
+[22], topic models [23], sub-modular functions [24], deep learning [25], bi-mixture PLSA [20] and
+data reconstruction [26]. ... QODE [25]: This method is a deep learning based method. ...
+
+Crossing the Boundaries within Computational Chemistry: From Molecular Dynamics to Cheminformatics and back
+S Riniker - CHIMIA International Journal for Chemistry, 2014
+... processing and searchingoftheselargedatasets.Machine- learning (ML) methods are already
+heavily used for cheminformatics applications as will be discussed in detail in the following, but
+only with massive computing power do approaches such as deep learning with arti ...
+
+[PDF] The relation of eye gaze and face pose: Potential impact on speech recognition
+M Slaney, A Stolcke, D Hakkani-Tur - 2014
+... Gaze-contingent automatic speech recognition. In Signal Processing, pages 369–380, 2008.
+[2] L. Deng, J. Li, J.-T. Huang, K. Yao, D. Yu, F. Seide, M. Seltzer, G. Zweig, X. He, and J. Williams.
+Recent advances in deep learning for speech research at microsoft. ...
+
+RESEARCHING THE EFFECTIVENESS OF A SCIENCE PROFESSIONAL LEARNING PROGRAMME USING A PROPOSED CURRICULUM FRAMEWORK FOR …
+K Paige, Y Zeegers, D Lloyd, P Roetman - International Journal of Science and …, 2014
+... state school's authority's Teaching for Effective Learning Framework (Department of Education
+and Children's Services, 2010) through which the teachers are encouraged to assist their students
+to develop metacognitive thinking skills; to develop deep learning about the ...
+
+Human gesture recognition using three-dimensional integral imaging
+V Javier Traver, P Latorre-Carmona… - JOSA A, 2014
+Optics InfoBase is the Optical Society's online library for flagship journals, partnered and
+copublished journals, and recent proceedings from OSA conferences.
+
+Developing students' technological literacy through robotics activities
+V Chandra - Literacy Learning: The Middle Years, 2014
+... participation with technology learning. According to Andersen (2004), in such activities
+students show more interest and excitement which can lead to higher engagement
+and can facilitate deep learning. As a consequence, students ...
+
+[PDF] Evaluation of Study Approaches and Skills among the Students of Payame Noor University
+H Najafi, A Mansoori, MH Heydari - Journal of Education and Practice, 2014
+... the students tend to the deep and strategic approaches more, and this consequence is compatible
+with the results of Aaron and Shaken's researchwho believe that the very surfaced learning is
+in the entrance test of the university at the lower ages and the deep learning with the ...
+
+Finding quasi core with simulated stacked neural networks
+M Bhattacharyya, S Bandyopadhyay - Information Sciences, 2014
+... Currently, neural network based models are also becoming popular with the development of
+representation learning (popularly known as deep learning) algorithms [6]. Here, we devise an
+approach based on a relatively new neural network model that have already been ...
+
+Towards more employable Egyptian HE graduates–a case study
+AA Abou-Setta - … , Business and Society: Contemporary Middle Eastern …, 2014
+... They support change that aims towards deep learning and sense making rather than surface
+approaches to learning and information transformation. ... contention that employability entails
+targeting deep learning and sense-making through a number ...
+
+[PDF] The Impact of a One Laptop per Child Program on Learning: Evidence from Uruguay
+G De Melo, A Machado, A Miranda - 2014
+... Fullan, M. and Langworthy, M. (2013) “Towards a New End: New Pedagogies for Deep
+Learning”. 13 For instance, as was mentioned before, nowadays each school has a
+teacher whose role is to support others in the use of the laptop. ...
+
+[PDF] DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS GEOSPATIAL OBJECT RECOGNITION
+E BATI - 2014
+... high false alarm rate, possibly due to insufficient number of training data. Keywords: Deep learning,
+convolutional neural networks, backpropagation, satellite images, geospatial target detection
+vi ... sentations. The algorithms can be grouped into two, namely deep learning which ...
+
+[PDF] The influence of teachers' age, gender and level of training on attitudes towards the use of integrated e-learning approach to the teaching and learning of Business …
+SJ Kurga - Journal of Emerging Trends in Educational Research …, 2014
+... The learning technologies need to be perceived as tools in the learning context which encourage
+students to use deep learning approaches – to seek meaning in the content being studied through
+inter-relating the various aspects of the content, looking for a deeper ...
+
+[PDF] IMPROVING THE LEARNING DESIGN OF MASSIVE OPEN ONLINE COURSES
+W Rubens - Turkish Online Journal of Educational Technology, 2014
+... adapted. Experts monitor interactions. They intervene to foster deep learning and
+to prevent misconceptions. The content of the live sessions is partly based on the
+asynchronous interactions preceded to the live session. After ...
+
+[PDF] Deep Tempering
+G Desjardins, H Luo, A Courville, Y Bengio - arXiv preprint arXiv:1410.0123, 2014
+Abstract: Restricted Boltzmann Machines (RBMs) are one of the fundamental building blocks 
+of deep learning. Approximate maximum likelihood training of RBMs typically necessitates 
+sampling from these models. In many training scenarios, computationally efficient Gibbs ...
+
+[PDF] Deep Directed Generative Autoencoders
+S Ozair, Y Bengio - arXiv preprint arXiv:1410.0630, 2014
+Abstract: For discrete data, the likelihood $ P (x) $ can be rewritten exactly and parametrized 
+into $ P (X= x)= P (X= x| H= f (x)) P (H= f (x)) $ if $ P (X| H) $ has enough capacity to put no 
+probability mass on any $ x'$ for which $ f (x')\ neq f (x) $, where $ f (\ cdot) $ is a ...
+
+Local deep feature learning framework for 3D shape
+S Bu, P Han, Z Liu, J Han - Computers & Graphics, 2014
+Abstract For 3D shape analysis, an effective and efficient feature is the key to popularize its 
+applications in 3D domain. In this paper, we present a novel framework to learn and extract 
+local deep feature (LDF), which encodes multiple low-level descriptors and provides high- ...
+
+[HTML] Learning Methods for Variable Selection and Time Series Prediction
+D Sovilj - 2014
+In the recent years, machine learning methods have become increasingly popular for 
+modelling many different phenomena: financial markets, spatio-temporal data sets, pattern 
+recognition, speech and image processing, recommender systems and many others. This ...
+
+[PDF] DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS GEOSPATIAL OBJECT RECOGNITION
+E BATI - 2014
+Page 1. DEEP CONVOLUTIONAL NEURAL NETWORKS WITH AN APPLICATION TOWARDS
+GEOSPATIAL OBJECT RECOGNITION A THESIS SUBMITTED TO THE GRADUATE SCHOOL
+OF NATURAL AND APPLIED SCIENCES OF MIDDLE EAST TECHNICAL UNIVERSITY ...
+
+Saliency-guided deep framework for image quality assessment
+W Hou, X Gao
+Abstract Image quality assessment (IQA) has thrived for decades. Researchers become 
+keener to explore how human brain perceives the visual stimuli. Psychological evidences 
+show that human prefers qualitative description to evaluate image quality, however most ...
+
+[PDF] MAXIMUM RECONSTRUCTION PROBABILITY TRAINING OF RESTRICTED BOLTZMANN MACHINES WITH AUXILIARY FUNCTION APPROACH
+N Takamune, H Kameoka
+ABSTRACT Restricted Boltzmann machines (RBMs) are stochastic neural networks that can 
+be used to learn features from raw data. They have attracted particular attention recently 
+after being proposed as building blocks for deep belief network (DBN) and have been ...
+
+Deep learning of support vector machines with class probability output networks
+S Kim, Z Yu, RM Kil, M Lee - Neural Networks, 2014
+Abstract Deep learning methods endeavor to learn features automatically at multiple levels 
+and allow systems to learn complex functions mapping from the input space to the output 
+space for the given data. The ability to learn powerful features automatically is ...
+
+[PDF] Deep Learning for Content-Based Image Retrieval: A Comprehensive Study
+J Wan, D Wang, SCH Hoi, P Wu, J Zhu, Y Zhang, J Li - 2014
+ABSTRACT Learning effective feature representations and similarity measures are crucial to 
+the retrieval performance of a content-based image retrieval (CBIR) system. Despite 
+extensive research efforts for decades, it remains one of the most challenging open ...
+
+Utilizing deep learning for content-based community detection
+HA Abdelbary, AM ElKorany, R Bahgat - Science and Information Conference (SAI), …, 2014
+Abstract—Online social networks have been wildly spread in recent years. They enable 
+users to identify other users with common interests, exchange their opinions, and expertise. 
+Discovering user communities from social networks have become one of the major ...
+
+[PDF] Context Dependent Encoding using Convolutional Dynamic Networks
+R Chalasani, JC Principe
+Abstract—Perception of sensory signals is strongly influenced by their context, both in space 
+and time. In this work, we propose a novel hierarchical model, called convolutional dynamic 
+networks (CDN), that effectively utilizes this contextual information while inferring the ...
+
+[PDF] A Novel Inference of a Restricted Boltzmann Machine
+M Tanaka, M Okutomi
+Abstract—A deep neural network (DNN) pre-trained via stacking restricted Boltzmann 
+machines (RBMs) demonstrates high performance. The binary RBM is usually used to 
+construct the DNN. However, a continuous probability of each node is used as real value ...
+
+[PDF] A Real-time Hand Posture Recognition System Using Deep Neural Networks
+AO TANG, KE LU, Y WANG, JIE HUANG, H LI
+Hand posture recognition (HPR) is quite a challenging task, due to both the difficulty in 
+detecting and tracking hands with normal cameras, and the limitations of traditional 
+manually-selected features. In this paper, we propose a two-stage HPR system for Sign ...
+
+Low rank driven robust facial landmark regression
+Y Sun, Q Liu, H Lu - Neurocomputing, 2014
+... Different from the above model based methods, regression based approaches treat the face
+alignment as a regression problem without explicit face shape model. Sun [13] and Zhou [14]
+proposed a convolutional network cascade to tackle face alignment. ...
+
+[PDF] Deep Learning for Content-Based Image Retrieval: A Comprehensive Study
+J Wan, D Wang, SCH Hoi, P Wu, J Zhu, Y Zhang, J Li - 2014
+... Don- ahue et al. [13] evaluated whether features extracted from the ac- tivation of a deep
+convolutional network trained in a fully super- vised fashion on a large, fixed set of object
+recognition tasks can be re-purposed to novel generic recognition tasks. ...
+
+[PDF] Convolutional Neural Network and Convex Optimization
+S Chen, Y Wang
+... dataset. 3 Sub-model Convolutional Network In this section, we start from introducing
+an effective technique called dropout. ... Table 1: Baseline: Accuracies of dropout/non-
+dropout networks 5.1 Sub-model convolutional network In ...
+
+Deep learning of support vector machines with class probability output networks
+S Kim, Z Yu, RM Kil, M Lee - Neural Networks, 2014
+Abstract Deep learning methods endeavor to learn features automatically at multiple levels 
+and allow systems to learn complex functions mapping from the input space to the output 
+space for the given data. The ability to learn powerful features automatically is ...
+
+Helping robots see the big picture
+J Bohannon - Science, 2014
+... photos, they flounder in the everyday human environment. Two years ago, a powerful
+new computational technique called deep learning took the field of machine vision by
+storm. Inspired by how the brain processes visual information ...
+
+Exploiting the deep learning paradigm for recognizing human actions
+P Foggia, A Saggese, N Strisciuglio, M Vento - Advanced Video and Signal Based …, 2014
+Abstract In this paper we propose a novel method for recognizing human actions by 
+exploiting a multi-layer representation based on a deep learning based architecture. A first 
+level feature vector is extracted and then a high level representation is obtained by taking ...
+
+[PDF] Deep Learning for Content-Based Image Retrieval: A Comprehensive Study
+J Wan, D Wang, SCH Hoi, P Wu, J Zhu, Y Zhang, J Li - 2014
+ABSTRACT Learning effective feature representations and similarity measures are crucial to 
+the retrieval performance of a content-based image retrieval (CBIR) system. Despite 
+extensive research efforts for decades, it remains one of the most challenging open ...
+
+Deep Model for Classification of Hyperspectral image using Restricted Boltzmann Machine
+ME Midhun, SR Nair, VT Prabhakar, SS Kumar - Proceedings of the 2014 …, 2014
+... top of page ABSTRACT. This paper presents an improved classification of hyperspectral
+images using deep learning, by extracting meaningful representations at higher levels.
+Deep learning is a set of algorithm in machine learning ...
+
+Utilizing deep learning for content-based community detection
+HA Abdelbary, AM ElKorany, R Bahgat - Science and Information Conference (SAI), …, 2014
+Abstract—Online social networks have been wildly spread in recent years. They enable 
+users to identify other users with common interests, exchange their opinions, and expertise. 
+Discovering user communities from social networks have become one of the major ...
+
+Green Roofs and Urban Campus Greening: Learning About Sustainability Through Doing
+K Barkowicz, J Rogers - Integrative Approaches to Sustainable Development at …, 2015
+... A similar distinction is made by Warburton who argues that sustainability education requires
+'deep' approaches to learning: Deep learning involves paying attention to underlying meaning. ...
+The distinction between shallow and deep learning is an important one. ...
+
+Microarchitectural Performance Characterization of Irregular GPU Kernels
+MA O'Neil, M Burtscher - 2014
+Microarchitectural Performance Characterization of Irregular GPU Kernels | Molly A. O'Neil, Martin
+Burtscher | Computer science, CUDA, GPGPU-sim, nVidia, Performance.
+
+Digital Learning for Sustainability: An Interactive Magazine for Students, Academics and Expert Practitioners
+A Raghubansie, W Corbett, K Boom, L Weaver - Integrative Approaches to …, 2015
+... 7 Page 6. approach produces deep learning in a US study among adult learners on an active
+citizenship course (also Martin et al. ... Can J Educ 1(1):349–376 Warburton K (2003) Deep learning
+and education for sustainability. Int J Sustain High Educ 4 (1):44–56 16 ...
+
+Design and evaluation of learning processes in an international sustainability oriented study programme. In search of a new educational quality and assessment …
+J Dlouhá, S Burandt - Journal of Cleaner Production, 2014
+... They typically treat parts of the subject as separate entities and fail to integrate topics into a
+coherent whole' ( Duff, 2004). Deep learning has been identified as specifically relevant for
+interdisciplinary and holistic thinking in the sustainability context ( Warburton, 2003). ...
+
+The roles of work-integrated learning in achieving critical cross-field outcomes in a hospitality management programme
+H Jacobs, VN Teise - Journal for New Generation Sciences, 2014
+... reason behind these adaptations. In order to achieve applied competence, surface
+learning needs to be avoided and deep learning encouraged, as proposed by Biggs
+and Tang (2007: 22- 25). Surface learning is described ...
+
+[PDF] A Radical Critique of the Learning Outcomes Assessment Movement
+M Bennett, J Brady - Radical Teacher, 2014
+... The working-class students at these schools, who are exposed to exams that are
+disconnected from the content of their courses, come to see education not as deep
+learning, critical thinking, or understanding, but as skills and drills. ...
+
+[PDF] Deep Representations for Iris, Face, and Fingerprint Spoofing Attack Detection
+D Menotti, G Chiachia, A Pinto, WR Schwartz, H Pedrini… - arXiv preprint arXiv: …, 2014
+... It also has been recently employed by our team for handheld printed iris spoofing attacks with
+promising results [8]. Deep learning (DL) techniques have shown a great suc- cess in several
+computer vision tasks with groundbreaking results [20], [21], [22], [23], [24] for many ...
+
+Experienced geography teachers' PCK of students' ideas and beliefs about learning and teaching
+R Lane - International Research in Geographical and …, 2014
+
+Mitosis detection in breast cancer pathology images by combining handcrafted and convolutional neural network features
+H Wang, A Cruz-Roa, A Basavanhally, H Gilmore… - Journal of Medical Imaging, 2014
+
+John Darwin. Unfinished Empire: The Global Expansion of Britain.
+D Bell - The American Historical Review, 2014
+... but most new imperial historians long ago absorbed them. Overall, though, this
+is a fine book, the product of deep learning and a capacious historical imagination. ©
+2014 American Historical Association. All rights reserved. ...
+
+[PDF] Spatial Diffuseness Features for DNN-Based Speech Recognition in Noisy and Reverberant Environments
+A Schwarz, C Huemmer, R Maas, W Kellermann - arXiv preprint arXiv:1410.2479, 2014
+... 29, no. 6, pp. 82–97, Nov. 2012. [2] L. Deng, J. Li, J.-T. Huang, K. Yao, D. Yu, F. Seide,
+M. Seltzer, G. Zweig, X. He, J. Williams, and others, “Re- cent advances in deep learning
+for speech research at Mi- crosoft,” in Proc. ICASSP, 2013. ...
+
+Can blogging increase extroverts' satisfaction in the classroom? Lessons from multiple case studies
+T Samuel-Azran, G Ravid - Interactive Learning Environments, 2014
+... Traun, Austria: Herstellung. View all references) suggested that blogs can facilitate “deep learning,”
+a learning style that promotes profound engagement with the material studied in the form of
+thinking about the context and applicability of material studied (Rosie, 200053. ...
+
+HAck: A system for the recognition of human actions by kernels of visual strings
+L Brun, G Percannella, A Saggese, M Vento - Advanced Video and Signal Based …, 2014
+... The introduction of a high level representation for representing actions has been also exploited
+in [7] and [8], where a bag of words approach and a deep learning architecture have been
+respectively used. ... Exploiting the deep learning paradigm for recognizing human actions. ...
+
+Breathing space-graduate entrepreneurs' perspectives of entrepreneurship education in higher education
+MC Fenton, A Barry, M McCracken, H Matlay - Education+ Training, 2014
+... Links between HEIs and entrepreneurs, particularly if entrepreneurs are willing to engage
+with students, to mentor business plans and or to help in the creation and analysis of case
+studies would encourage deep learning and aid experiential learning. ...
+
+Exploiting the deep learning paradigm for recognizing human actions
+P Foggia, A Saggese, N Strisciuglio, M Vento - Advanced Video and Signal Based …, 2014
+... a novel strategy based on deep learning: differently from other methods, a first level feature vector
+is extracted by us- ing a set of features derived from depth images; from these vectors, a high
+level representation, is obtained by means of a Deep Belief Network trained using a ...
+
+[PDF] Deep Learning for Content-Based Image Retrieval: A Comprehensive Study
+J Wan, D Wang, SCH Hoi, P Wu, J Zhu, Y Zhang, J Li - 2014
+... Over the past several years, a rich family of deep learning tech- niques has been proposed and
+extensively studied, eg, Deep Belief Network (DBN) [17], Boltzmann Machines (BM) [1], Restricted
+Boltzmann Machines (RBM) [42], Deep Boltzmann Machine (DBM) [40], Deep ...
+
+[PDF] A Novel Inference of a Restricted Boltzmann Machine
+M Tanaka, M Okutomi
+... A sequence of RBMs are trained with the same manner. A deep belief network (DBN)
+is formed by stacking the trained RBMs. ... This process is repeated to many layers. A deep
+belief network (DBN) is formed by stacking the trained RBMs. ...
+
+[PDF] A Real-time Hand Posture Recognition System Using Deep Neural Networks
+AO TANG, KE LU, Y WANG, JIE HUANG, H LI
+... Page 10. 39:10 A. Tang et al. (a) (b) Fig. 4. (a) Deep belief network; (b) A stack of RBMs
+corresponding to (a) Fig. 5. Restricted Boltzmann Machine 4.1.1. Restricted Boltzmann Machines.
+Restricted Boltzmann Machines have one visible layer and one hidden layer. ...
+
+[PDF] A QUANTITATIVE COMPARISON OF BLIND C50 ESTIMATORS
+PP Parada, D Sharma, J Lainez, D Barreda, PA Naylor…
+... We analyze the performance of sev- eral machine learning methods for a regression task using
+309 features derived from the speech signal and modeled with a Deep Belief Network (DBN),
+Classification And Regression Tree (CART) and Linear Regression (LR). ...
+
+[PDF] Explain Images with Multimodal Recurrent Neural Networks
+J Mao, W Xu, Y Yang, J Wang, AL Yuille - arXiv preprint arXiv:1410.1090, 2014
+... the image. Image descriptions are generated by sampling from this distribution. The
+model consists of two sub-networks: a deep recurrent neural network for sentences
+and a deep convolutional network for images. These two ...
+
+[PDF] Understanding Locally Competitive Networks
+RK Srivastava, J Masci, F Gomez, J Schmidhuber - arXiv preprint arXiv:1410.1165, 2014
+... The separation between clusters is much worse, which is reflected in the high classification
+error obtained. convolutional network trained on the ImageNet Large Scale Visual
+Recognition Challenge 2012 (ILSVRC-2012) [20] dataset is evaluated. ...
+
+[PDF] cuDNN: Efficient Primitives for Deep Learning
+S Chetlur, C Woolley, P Vandermersch, J Cohen… - arXiv preprint arXiv: …, 2014
+... For example, it is often true that in early layers of a convolutional network, C is small, but R and
+S are large, while at the end of the network, C is large, but R and S are small. However, the product
+CRS is usually fairly large for all layers, so performance can be consistently good. ...
+
+[PDF] Facial Feature Point Detection: A Comprehensive Survey
+N Wang, X Gao, D Tao, X Li - arXiv preprint arXiv:1410.1037, 2014
+Page 1. International Journal of Computer Vision manuscript No. (will be inserted by the
+editor) Facial Feature Point Detection: A Comprehensive Survey Nannan Wang · Xinbo
+Gao · Dacheng Tao · Xuelong Li Received: date / Accepted: date ...
+
+[PDF] Project Adam: Building an Efficient and Scalable Deep Learning Training System
+T Chilimbi, Y Suzue, J Apacible, K Kalyanaraman
+Page 1. This paper is included in the Proceedings of the 11th USENIX Symposium
+on Operating Systems Design and Implementation. October 6–8, 2014 • Broomfield,
+CO 978-1-931971-16-4 Open access to the Proceedings of the ...
+
+[PDF] A Deep Neural Network Approach to Automatic Birdsong Recognition
+HV Koops - 2014
+... 60 6.3 Results overview of segment classification on the shuffled mfcc datasets using two
+non-deep belief network classifiers. The grey row highlights the best per- forming network. ... 68
+6.6 Results overview of segment classification using two non-deep belief network classifiers. ...
+
+[PDF] Accuracy evaluation of deep belief networks with fixed-point arithmetic
+J Jiang, R Hu, L Mikel, Y Dou
+... Keywords: deep belief network, fixed-point arithmetic, bit-width, FPGA ... More recently she has been
+involved in acceleration methods of machine learning algorithms such as Deep Belief Network
+and Stacked Auto-encoders. Rongdong Hu, born in 1986, Chongqing, China ...
+
+[PDF] Documents Citations
+A Personalization
+... 2010 2011 2012 2013 2014 0 125 2010 2014 Towards evolutionary deep neural networks A
+constructive approach to examination timetabling based on ... Modelling retinal feature detection
+with deep belief network... Adaptive linear combination of heuristic orderings in constr... ...
+
+Deep Segments: Comparisons between Scenes and their Constituent Fragments using Deep Learning
+J Doshi, C Mason, A Wagner, Z Kira - 2014
+We examine the problem of visual scene understanding and abstraction from first person 
+video. This is an important problem and successful approaches would enable complex 
+scene characterization tasks that go beyond classification, for example characterization of ...
+
+[PDF] cuDNN: Efficient Primitives for Deep Learning
+S Chetlur, C Woolley, P Vandermersch, J Cohen… - arXiv preprint arXiv: …, 2014
+Abstract: We present a library that provides optimized implementations for deep learning 
+primitives. Deep learning workloads are computationally intensive, and optimizing the 
+kernels of deep learning workloads is difficult and time-consuming. As parallel ...
+
+[HTML] Twenty cultural and learning principles to guide the development of pharmacy curriculum in Pacific Island countries
+AN Brown, C McCormack, A Brown - Rural and Remote Health, 2014
+... 27,28 . Historically it has been suggested that PIC learners lacked the capacity for
+deep learning 27 . Health personnel ... effect 32 . Principles 1–3 (Table 4) recognise
+the need to expect and plan for deep learning. For example ...
+
+DEVELOPMENT AND VALIDATION OF SCIENCE HOMEWORK SCALE FOR MIDDLE-SCHOOL STUDENTS
+Y Tas, S Sungur, C Oztekin - International Journal of Science and Mathematics …, 2014
+... teachers' homework practices included homework quality and feedback on homework while
+students' homework self-regulation consisted of homework goal orientations (ie mastery,
+performance, and work-avoidance), homework strategy use (ie deep learning and management ...
+
+[PDF] Feature Learning from Incomplete EEG with Denoising Autoencoder
+J Li, Z Struzik, L Zhang, A Cichocki - arXiv preprint arXiv:1410.0818, 2014
+Page 1. Feature Learning from Incomplete EEG with Denoising Autoencoder Junhua
+Lia,∗, Zbigniew Struzika, Liqing Zhangb, Andrzej Cichockia aLaboratory for Advanced
+Brain Signal Processing, Brain Science Institute, RIKEN ...
+
+[PDF] Learning Invariant Color Features for Person Re-Identification
+RR Varior, G Wang, J Lu - arXiv preprint arXiv:1410.1035, 2014
+... Modeling complex distributions and functions have been a bottleneck in machine learning. Recent
+studies in deep learning indicate that such deep architectures can efficiently handle these
+challenges and have shown that better generalization can be obtained. ...
+
+[PDF] On the Computational Efficiency of Training Neural Networks
+R Livni, S Shalev-Shwartz, O Shamir - arXiv preprint arXiv:1410.1141, 2014
+... 1 Introduction One of the most significant recent developments in machine learning has been
+the resurgence of “deep learning”, usually in the form of artificial neural networks. ... On the
+importance of initialization and momentum in deep learning. In ICML, 2013. ...
+
+[PDF] SimNets: A Generalization of Convolutional Networks
+N Cohen, A Shashua - arXiv preprint arXiv:1410.0781, 2014
+... We nevertheless believe that unsupervised learning has an important role in scaling
+up the capacity of deep learning, and would therefore be interested in a deep archi-
+tecture that has a natural initialization using unsupervised data. ...
+
+Education and Sustainable Development in Oman: The Contribution from Higher Education
+AC Ijeh, J Brown, AW Haleeb - Transformative Approaches to Sustainable …, 2015
+... In contrast to this it is also argued that using essays for assessment does not neces-
+sarily mean that the essay will demonstrate deep learning by the student but that it
+can (Winter 2003). The study also reported that assessments ...
+
+Exploring Teacher Questioning as a Formative Assessment Strategy
+Y Jiang - RELC Journal, 2014
+Page 1. RELC Journal 1 –18 © The Author(s) 2014 Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav DOI: 10.1177/0033688214546962
+rel.sagepub.com Exploring Teacher Questioning as a Formative Assessment Strategy ...
+
+[PDF] A Deep Neural Network Approach to Automatic Birdsong Recognition
+HV Koops - 2014
+... Machines. This shows that the recent improvements in deep learning can also ... Instead of
+handcrafting features, I chose to use techniques of a relatively new research area called deep
+learning, to facilitate feature learning instead of creating them by hand. ...
+
+Practicing Core Reflection: Activities and Lessons for Teaching and Learning from Within
+FG Evelein, FAJ Korthagen - 2014
+
+Is Comparative Theology Catholic?
+J GRUBER, U WINKLER - Studies in Interreligious Dialogue, 2014
+... 8 of one of the most prolific Catholic comparative theologians (Francis X. Clooney),
+it is “deep learning across religious borders”: comparative theolo- gians cross over
+into other traditions to enrich the theology and faith of their own. ...
+
+Developing a Student Conception of Academic Rigor
+J Draeger, P del Prado Hill, R Mahler - Innovative Higher Education, 2014
+... NSSE . student perspectives Colleges and universities seek to promote student autonomy
+(Healey 2005), deep learning (Trigwell & Prosser 1991), and the habits of mind (Huber and
+Hutchings 2005) that facilitate lifelong learning (Cropley & Knapper 1983). ...
+
+[PDF] OBTAINING STUDENT FEEDBACK USING NGT FOR COURSE DELIVERY REDESIGN: A CASE FOR BOTHO UNIVERSITY, MAUN (BOTSWANA)
+RF Nyabawa, G Mukwapuna - SOUTH AFRICA INTERNATIONAL CONFERENCE ON …, 2014
+... 4. What is the perception and reality here? 5. How exactly will the application help with
+spurring deep learning in students? ... Ideas given by students using NGT to enhance their
+understanding of the CSA module cultivate the spirit for deep learning. ...
+
+Institutional Practices Versus Student Needs and Its Implications for the Development of a Holistic Engineering Education for Sustainable Development (EESD) …
+S Sivapalan, G Subramaniam, MJ Clifford - Transformative Approaches to …, 2015
+... Additionally, notions of learning such as experiential learning, deep learning, transformational
+learning, transdisciplinary and multidisciplinary learning, problem based learning, inquiry based
+learning, applied learning, active learning, participatory learning, critical emancipatory ...
+
+[PDF] Facial Feature Point Detection: A Comprehensive Survey
+N Wang, X Gao, D Tao, X Li - arXiv preprint arXiv:1410.1037, 2014
+... UK E-mail: xuelong@dcs.bbk.ac.uk ical model-based methods, joint face alignment
+meth- ods, independent facial feature point detectors, and deep learning-based
+methods. Though significant progress has been made, facial ...
+
+[PDF] Semantics of Visual Discrimination
+JR Smith - 2014
+... Labeled Data Unlabeled Data Addaboost K-means Regression Bayes Net Nearest Neighbor
+Neural Net Deep Learning GMM Clustering Markov Model Decision Tree Expectation
+Maximization Factor Graph Shot Boundaries Semantics Images and Video Scenes ...
+
+[PDF] Establishing a Framework of Influential Factors on Empowering Primary School Students in Peer Mediation
+H Jorbozeh, T Dehdari, M Ashoorkhani, M Hossein - 2014
+... and physical advocacy (Figure 1). Concerning the educational empowerment of students, all
+the stakeholders mentioned the children's participa- tory and experiential learning, and believed
+that unof- ficial training was the key to the students' effective and deep learning. ...
+
+Sustainable University for Regional Development: Quality Management Model that Integrates Employer and Social Partner Attitudes
+E Katiliūtė, JK Staniškis - Transformative Approaches to Sustainable …, 2015
+... Accessed 15 Jan 2014 Tilbury D (2011) Education for sustainable development: an expert
+review of processes and learning. UNESCO, Paris Warburton K (2003) Deep learning and
+education for sustainability. Int J Sustain High Educ 4(1): 44–56 88 ...
+
+[PDF] SimNets: A Generalization of Convolutional Networks
+N Cohen, A Shashua - arXiv preprint arXiv:1410.0781, 2014
+Abstract: We present a deep layered architecture that generalizes classical convolutional 
+neural networks (ConvNets). The architecture, called SimNets, is driven by two operators, 
+one being a similarity function whose family contains the convolution operator used in ...
+
+Polypharmacology Modelling Using Proteochemometrics (PCM): Recent Methodological Developments, Applications to Target Families, and Future Prospects
+I Cortes-Ciriano, Q ul Ain, V Subramanian, B Lenselink… - MedChemComm, 2014
+Proteochemometrics modelling (PCM) is a computational method to model the bioactivity of 
+multiple ligands against multiple, related protein targets simultaneously, and it has hence 
+been found to be particularly useful when exploring the selectivity and promiscuity of ...
+
+[PDF] Facial Feature Point Detection: A Comprehensive Survey
+N Wang, X Gao, D Tao, X Li - arXiv preprint arXiv:1410.1037, 2014
+Abstract: This paper presents a comprehensive survey of facial feature point detection with 
+the assistance of abundant manually labeled images. Facial feature point detection favors 
+many applications such as face recognition, animation, tracking, hallucination, expression ...
+
+[PDF] Learning Invariant Color Features for Person Re-Identification
+RR Varior, G Wang, J Lu - arXiv preprint arXiv:1410.1035, 2014
+Abstract: Matching people across multiple camera views known as person re-identification, 
+is a challenging problem due to the change in visual appearance caused by varying lighting 
+conditions. The perceived color of the subject appears to be different with respect to ...
+
+[PDF] A General-Purpose, Energy-Efficient, and Context-Aware Acoustic Event Detection Platform for Mobile Devices
+SMS Nirjon - 2014
+Abstract Humans are extremely capable of remembering, recognizing, and acting upon 
+hundreds of thousands of different types of acoustic events on a day-to-day basis. Decades 
+of research on acoustic sensing have led to the creation of systems that now understand ...
+
+[PDF] A Deep Neural Network Approach to Automatic Birdsong Recognition
+HV Koops - 2014
+This thesis is an result of research conducted into feature learning techniques with bird 
+sound classification as a goal. To achieve this goal, deep neural networks are created, 
+which are evaluated using recordings from the LifeCLEF 2014 Bird task (BirdCLEF) data ...
+
+[PDF] Accuracy evaluation of deep belief networks with fixed-point arithmetic
+J Jiang, R Hu, L Mikel, Y Dou
+Abstract Deep Belief Networks (DBNs) are state-of-art Machine Learning techniques and 
+one of the most important unsupervised learning algorithms. Training DBNs is 
+computationally intensive which naturally leads to investigate FPGA acceleration. Fixed- ...
+
+Binaural Classification for Reverberant Speech Segregation Using Deep Neural Networks
+Y Jiang, D Wang, R Liu, Z Feng
+Abstract—Speech signal degradation in real environments mainly results from room 
+reverberation and concurrent noise. While human listening is robust in complex auditory 
+scenes, current speech segregation algorithms do not perform well in noisy and ...
+
+[DOC] Computational modeling and validation of the motor contribution to speech perception
+L Badino, AD Ausilio, L Fadiga, G Metta - Top Cogn Sci
+Abstract Action perception and recognition are core abilities fundamental for human social 
+interaction. A parieto-frontal network (the mirror neuron system) matches visually presented 
+biological motion information onto observer's motor representations. This process of ...
+
+Traffic Flow Prediction With Big Data: A Deep Learning Approach
+Y Lv, Y Duan, W Kang, Z Li, FY Wang
+Abstract—Accurate and timely traffic flow information is im-portant for the successful 
+deployment of intelligent transportation systems. Over the last few years, traffic data have 
+been exploding, and we have truly entered the era of big data for transportation. Existing ...
+
+
+Multi-View Semi-Supervised Learning Based Image Annotation
+CJ Sun, SH Zhu, Z Shi - Advanced Materials Research, 2014
+... deep belief nets based method [1] , covariance discriminative based method [2] ,
+bilinear deep learning based method [3] , local and global information based method
+[4] , sparse coding based method [5] . There are two issues ...
+
+[PDF] Reflexivity and aesthetic inquiry: Building dialogues between the arts and literacy
+ME Ryan - English Teaching: Practice and Critique, 2014
+... awareness of one's literate identities. First, this article will discuss the arts as a site
+for mediating one's literate identities and how reflective prompts and a theory of
+reflexivity can guide such deep learning about self. Next, it will apply ...
+
+Temporal Coherence in Energy-based Deep Learning Machines for Action Recognition
+RS Adepu - 2014
+Deep Learning, a sub-area of machine learning, has become a buzz word in recent days 
+due to its great successes in many applications of machine learning, including speech 
+processing, computer vision and natural language processing. Deep learning became ...
+
+[HTML] EXPLORATION OF PREFERRED LEARNING STYLES IN MEDICAL EDUCATION USING VARK MODAL
+K SARUN, S SANDIP, K LAXMAN - Russian Open Medical Journal, 2014
+... According to Samarakoon et al., first year medical students would be expected to favour auditory
+and read/write learning styles and strategic learning, while final year students would be expected
+to switch to multimodal learning styles with greater emphasis on deep learning [36 ...
+
+Connecting Teachers with Authentic Texts
+JM Spohn - Beyond the Classroom: Collaborating with Colleagues …, 2014
+... This is an experience these students will remember as adults. Deep learning and
+higher-order thinking trumps textbook-driven lessons any day. In the social studies
+curriculum, the Constitution and Bill of Rights was examined in depth. ...
+
+[PDF] Situating Psychosocial and Motivational Factors in Learning Contexts
+HP Phan - Education, 2014
+Page 1. Education 2014, 4(3): 53-66 DOI: 10.5923/j.edu.20140403.01 Situating
+Psychosocial and Motivational Factors in Learning Contexts Huy P. Phan School of
+Education, The University of New England, Armidale NSW 2351, Australia ...
+
+[PDF] Using an arts-integrated multimodal approach to promote English learning: A case study of two Taiwanese junior college students
+HC LEE - English Teaching: Practice and Critique, 2014
+Page 1. English Teaching: Practice and Critique September, 2014, Volume 13,
+Number 2 http://education.waikato.ac.nz/research/files/etpc/files/2014v13n2art4.
+pdf pp. 55-75 Copyright © 2014, ISSN 1175 8708 Using an arts ...
+
+[HTML] Realising the Pedagogical Potential of Multilingual Pre-service Primary Teachers
+J Coleman - Exchanges: the Warwick Research Journal, 2014
+... and their curriculum content knowledge. 'It also contends that doing so 'provid[es]
+opportunities for deep learning and intercultural understanding for the entire class'
+(ACARA, 2011: 93-94). That is, diverse linguistic knowledge ...
+
+The Potential Energy of an Autoencoder
+H Kamyshanska, R Memisevic
+Page 1. 0162-8828 (c) 2013 IEEE. Personal use is permitted, but republication/
+redistribution requires IEEE permission. See http://www.ieee.org/
+publications_standards/publications/rights/index.html for more information. This ...
