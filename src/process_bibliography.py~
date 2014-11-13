@@ -159,8 +159,8 @@ def main(bibtexfilepath, out_fh, output_type):
         out_fh.write("</ul>")
 
 if __name__ == "__main__":
-    out_fh = codecs.open("deeplearningbibliographynewnew.html", "wb", encoding="utf-8")
-    main(bibtexfilepath = '../bibtex/deeplearninggpuwithkeywords2014.bib', out_fh=out_fh, output_type=HTML)
-    #main(bibtexfilepath = '../miscdata/nbib.bib', out_fh=out_fh, output_type=HTML)
+    out_fh = codecs.open("deeplearningbibliographynewnewraw.html", "wb", encoding="utf-8")
+    #main(bibtexfilepath = '../bibtex/deeplearninggpuwithkeywords2014.bib', out_fh=out_fh, output_type=HTML)
+    main(bibtexfilepath = '../miscdata/rawdata.bib', out_fh=out_fh, output_type=HTML)
     out_fh.close()
 
