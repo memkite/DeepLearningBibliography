@@ -16,15 +16,15 @@ title_dict = {}
 id_dict = {}
 
 keywords = {"3d":"","algorithm":"","applications":"","architecture":"","asynchronous":"","autoencoder":"","auto-encoder":"autoencoder",
-            "big data":"", "bioinformatics":"", "brain":"", "brain waves":"", "challenges":"", "convolutional network":"",
+            "big data":"", "bioinformatics":"", "brain":"", "brain waves":"", "challenges":"", "convolutional network":"","gesture":"gesture recognition",
             "convolutional neural network":"", "deep neural network":"","deep belief network":"", "eeg":"", "emotion":"", "emotion detection":"", 
-            "energy efficiency":"", "energy efficient":"", 
-            "face detection":"", "face recognition":"", "feature extraction":"", "finance":"", "games":"", "gpu":"", "hardware":"", 
+            "energy efficiency":"", "energy efficient":"", "eye tracking":"", "neuron":"","statistical inference":"","frequency domain":""
+            "face detection":"", "face recognition":"", "feature extraction":"", "finance":"", "games":"", "gpu":"", "hardware":"", "parameter":"parameters", "parameters":"parameters",
             "healthcare":"", "image recognition":"", "information retrieval":"", "infrastructure":"", "kernel methods":"", 
             "machine translation":"", "medicine":"", "memristor":"", "mine detection":"", "mobile":"", "motion detection":"", "multicore":"", 
             "natural language processing":"", "neuromorphic":"", "noise":"", "noisy data":"", "online learning":"","overview":"", "parallelization":"", 
             "part-of-speech":"", "performance improvement":"", "physics":"", "platform":"", "recommender systems":"", "regularization":"", 
-            "reinforcement learning":"", "restricted boltzmann machines":"", "robotics":"", "search":"", "sentiment analysis":"", 
+            "reinforcement learning":"", "restricted boltzmann machines":"", "robotics":"", "search":"", "sentiment analysis":"", "strategies":"",
             "simulation":"", "sparseness":"", "speech recognition":"", "stochastic gradient":"", "stochastic gradient descent":"", 
             "survey":"", "time series":"", "voice recognition":"", "sequence learning":""}
 
