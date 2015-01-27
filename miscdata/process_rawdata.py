@@ -15,18 +15,18 @@ raw_abstract = u""
 title_dict = {}
 id_dict = {}
 
-keywords = {"3d":"","algorithm":"","applications":"","architecture":"","asynchronous":"","autoencoder":"","auto-encoder":"autoencoder",
+keywords = {"3d":"","algorithm":"","applications":"","architecture":"","asynchronous":"","autoencoder":"","auto-encoder":"autoencoder", "adversarial nets":"adversarial networks", "adversarial network":"adversarial networks", "adversarial networks":"adversarial networks",
             "big data":"", "bioinformatics":"", "brain":"", "brain waves":"", "challenges":"", "convolutional network":"","gesture":"gesture recognition",
             "convolutional neural network":"", "deep neural network":"","deep belief network":"", "eeg":"", "emotion":"", "emotion detection":"", 
-            "energy efficiency":"", "energy efficient":"", "eye tracking":"", "neuron":"","statistical inference":"","frequency domain":""
+            "energy efficiency":"", "energy efficient":"", "eye tracking":"", "neuron":"","statistical inference":"","frequency domain":"",
             "face detection":"", "face recognition":"", "feature extraction":"", "finance":"", "games":"", "gpu":"", "hardware":"", "parameter":"parameters", "parameters":"parameters",
             "healthcare":"", "image recognition":"", "information retrieval":"", "infrastructure":"", "kernel methods":"", 
-            "machine translation":"", "medicine":"", "memristor":"", "mine detection":"", "mobile":"", "motion detection":"", "multicore":"", 
+            "machine translation":"", "medicine":"", "memristor":"", "mine detection":"", "mobile":"", "motion detection":"", "language models":"natural language processing", "multicore":"", 
             "natural language processing":"", "neuromorphic":"", "noise":"", "noisy data":"", "online learning":"","overview":"", "parallelization":"", 
-            "part-of-speech":"", "performance improvement":"", "physics":"", "platform":"", "recommender systems":"", "regularization":"", 
-            "reinforcement learning":"", "restricted boltzmann machines":"", "robotics":"", "search":"", "sentiment analysis":"", "strategies":"",
+            "part-of-speech":"", "spoken language":"speech recognition", "performance improvement":"", "physics":"", "platform":"", "recommender systems":"", "regularization":"", 
+            "reinforcement learning":"", "restricted boltzmann machines":"", "restricted boltzmann machine":"restricted boltzmann machines", "robotics":"", "search":"", "sentiment analysis":"", "strategies":"",
             "simulation":"", "sparseness":"", "speech recognition":"", "stochastic gradient":"", "stochastic gradient descent":"", 
-            "survey":"", "time series":"", "voice recognition":"", "sequence learning":""}
+            "survey":"", "time series":"", "voice recognition":"", "sequence learning":"", "fault tolerance":"", "fault tolerant":"reliability", "reliable":"reliability", "robustness":"reliability", "acoustics":"sound", "proteins":"proteinomics", "boosting":"", "back-propagation":"back propagation", "back propagation":"", "transfer learning":"","unsupervised":"unsupervised learning"}
 
 for line in fh:
     if line.startswith("\n"):
