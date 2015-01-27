@@ -24,9 +24,9 @@ keywords = {"3d":"","algorithm":"","applications":"","architecture":"","asynchro
             "machine translation":"", "medicine":"", "memristor":"", "mine detection":"", "mobile":"", "motion detection":"", "language models":"natural language processing", "multicore":"", 
             "natural language processing":"", "neuromorphic":"", "noise":"", "noisy data":"", "online learning":"","overview":"", "parallelization":"", 
             "part-of-speech":"", "spoken language":"speech recognition", "performance improvement":"", "physics":"", "platform":"", "recommender systems":"", "regularization":"", 
-            "reinforcement learning":"", "restricted boltzmann machines":"", "restricted boltzmann machine":"restricted boltzmann machines", "robotics":"", "search":"", "sentiment analysis":"", "strategies":"",
+            "reinforcement learning":"", "restricted boltzmann machines":"", "restricted boltzmann machine":"restricted boltzmann machines", "robotics":"", "robot":"robotics", "search":"", "sentiment analysis":"", "strategies":"",
             "simulation":"", "sparseness":"", "speech recognition":"", "stochastic gradient":"", "stochastic gradient descent":"", 
-            "survey":"", "time series":"", "voice recognition":"", "sequence learning":"", "fault tolerance":"", "fault tolerant":"reliability", "reliable":"reliability", "robustness":"reliability", "acoustics":"sound", "proteins":"proteinomics", "boosting":"", "back-propagation":"back propagation", "back propagation":"", "transfer learning":"","unsupervised":"unsupervised learning"}
+            "survey":"", "time series":"", "voice recognition":"", "sequence learning":"", "fault tolerance":"", "fault tolerant":"reliability", "reliable":"reliability", "robustness":"reliability", "acoustics":"sound", "proteins":"proteinomics", "boosting":"", "back-propagation":"back propagation", "back propagation":"", "transfer learning":"","unsupervised":"unsupervised learning", "object localization":"", "segmentation":"", "disambiguation":"", "similarity learning":"", "bayesian":"", "semantics":"", "sentiment":"sentiment analysis"}
 
 for line in fh:
     if line.startswith("\n"):
