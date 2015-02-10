@@ -25,7 +25,7 @@ If you want to cite this bibliography please use the following:
 
 ```
 @misc{DeepLearningBibliographyTveit,
-  author = {Amund Tveit, Torbj\{o}rn Morland, Thomas Brox R\{o}st},
+  author = {Amund Tveit},
   title = {DeepLearning.University - An Annotated Deep Learning Bibliography},
   institution = {Memkite - memkite.com}
   type = {Annotated Bibliography},
