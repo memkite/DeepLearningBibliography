@@ -1,0 +1,93 @@
+@article{hinton2006reducing,
+  title={Reducing the dimensionality of data with neural networks},
+  author={Hinton, Geoffrey E and Salakhutdinov, Ruslan R},
+  journal={Science},
+  volume={313},
+  number={5786},
+  pages={504--507},
+  year={2006},
+  publisher={American Association for the Advancement of Science}
+}
+
+@inproceedings{poultney2006efficient,
+  title={Efficient learning of sparse representations with an energy-based model},
+  author={Poultney, Christopher and Chopra, Sumit and Cun, Yann L and others},
+  booktitle={Advances in neural information processing systems},
+  pages={1137--1144},
+  year={2006}
+}
+
+@inproceedings{taylor2006modeling,
+  title={Modeling human motion using binary latent variables},
+  author={Taylor, Graham W and Hinton, Geoffrey E and Roweis, Sam T},
+  booktitle={Advances in neural information processing systems},
+  pages={1345--1352},
+  year={2006}
+}
+
+@inproceedings{gehler2006rate,
+  title={The rate adapting poisson model for information retrieval and object recognition},
+  author={Gehler, Peter V and Holub, Alex D and Welling, Max},
+  booktitle={Proceedings of the 23rd international conference on Machine learning},
+  pages={337--344},
+  year={2006},
+  organization={ACM}
+}
+
+@article{dean2006learning,
+  title={Learning invariant features using inertial priors},
+  author={Dean, Thomas},
+  journal={Annals of Mathematics and Artificial Intelligence},
+  volume={47},
+  number={3-4},
+  pages={223--250},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{dean2006scalable,
+  title={Scalable Inference in Hierarchical Generative Models.},
+  author={Dean, Thomas},
+  booktitle={ISAIM},
+  year={2006}
+}
+
+@article{pei2006anatomical,
+  title={Anatomical Structure Sketcher for Cephalograms by Bimodal Deep Learning},
+  author={Pei, Yuru and Liu, Bin and Zha, Hongbin and Han, Bing and Xu, Tianmin},
+  journal={Trans. on Biomedical Engineering},
+  volume={53},
+  number={8},
+  pages={1615--1623},
+  year={2006}
+}
+
+@techreport{lorincz2006adaptive,
+  title={Adaptive Associative Scale-Free Maps for Fusing Human and Robotic Intelligences},
+  author={Lorincz, Andras},
+  year={2006},
+  institution={DTIC Document}
+}
+
+@article{post2006hierarchical,
+  title={Hierarchical Sparse Coding},
+  author={Post, Ian},
+  year={2006},
+  publisher={Citeseer}
+}
+
+@article{comon2006coifman,
+  title={Coifman, RR and Lafon, S. Diffusion maps. Applied and Computational Harmonic Analysis, 21 (1): 5--30, July 2006. Colombo, A., Cusano, C., and Schettini, R. 3D face detection using curvature analysis. Pattern Recognition, 39 (3): 444--455, March 2006. Comon, P. Independent component analysis, a new concept? Signal Process},
+  author={Comon, P and Luciani, X and De Almeida, ALF and Cootes, TF and Edwards, GJ and Taylor, CJ},
+  journal={analysis},
+  volume={39},
+  number={3},
+  pages={444--455},
+  year={2006}
+}
+
+@article{bertin2006machine,
+  title={Machine de Boltzmann minimale appliqu{\'e}e {\`a} la base de donn{\'e}e MNIST},
+  author={Bertin-Mahieux, Thierry},
+  year={2006}
+}

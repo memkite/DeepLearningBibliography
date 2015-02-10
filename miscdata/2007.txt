@@ -1,0 +1,337 @@
+@article{bengio2007greedy,
+  title={Greedy layer-wise training of deep networks},
+  author={Bengio, Yoshua and Lamblin, Pascal and Popovici, Dan and Larochelle, Hugo and others},
+  journal={Advances in neural information processing systems},
+  volume={19},
+  pages={153},
+  year={2007},
+  publisher={MIT; 1998}
+}
+
+@inproceedings{salakhutdinov2007restricted,
+  title={Restricted Boltzmann machines for collaborative filtering},
+  author={Salakhutdinov, Ruslan and Mnih, Andriy and Hinton, Geoffrey},
+  booktitle={Proceedings of the 24th international conference on Machine learning},
+  pages={791--798},
+  year={2007},
+  organization={ACM}
+}
+
+@inproceedings{ranzato2007unsupervised,
+  title={Unsupervised learning of invariant feature hierarchies with applications to object recognition},
+  author={Ranzato, M and Huang, Fu Jie and Boureau, Y-L and LeCun, Yann},
+  booktitle={Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on},
+  pages={1--8},
+  year={2007},
+  organization={IEEE}
+}
+
+@article{bengio2007scaling,
+  title={Scaling learning algorithms towards AI},
+  author={Bengio, Yoshua and LeCun, Yann and others},
+  journal={Large-scale kernel machines},
+  volume={34},
+  number={5},
+  year={2007}
+}
+
+@article{byrne2007remembering,
+  title={Remembering the past and imagining the future: a neural model of spatial memory and imagery.},
+  author={Byrne, Patrick and Becker, Suzanna and Burgess, Neil},
+  journal={Psychological review},
+  volume={114},
+  number={2},
+  pages={340},
+  year={2007},
+  publisher={American Psychological Association}
+}
+
+@article{hinton2007learning,
+  title={Learning multiple layers of representation},
+  author={Hinton, Geoffrey E},
+  journal={Trends in cognitive sciences},
+  volume={11},
+  number={10},
+  pages={428--434},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@inproceedings{larochelle2007empirical,
+  title={An empirical evaluation of deep architectures on problems with many factors of variation},
+  author={Larochelle, Hugo and Erhan, Dumitru and Courville, Aaron and Bergstra, James and Bengio, Yoshua},
+  booktitle={Proceedings of the 24th international conference on Machine learning},
+  pages={473--480},
+  year={2007},
+  organization={ACM}
+}
+
+@inproceedings{salakhutdinov2007learning,
+  title={Learning a nonlinear embedding by preserving class neighbourhood structure},
+  author={Salakhutdinov, Ruslan and Hinton, Geoffrey E},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={412--419},
+  year={2007}
+}
+
+@article{hinton2007recognize,
+  title={To recognize shapes, first learn to generate images},
+  author={Hinton, Geoffrey E},
+  journal={Progress in brain research},
+  volume={165},
+  pages={535--547},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{salakhutdinov2007semantic,
+  title={Semantic hashing},
+  author={Salakhutdinov, Ruslan and Hinton, Geoffrey},
+  journal={RBM},
+  volume={500},
+  number={3},
+  pages={500},
+  year={2007}
+}
+
+@inproceedings{mnih2007three,
+  title={Three new graphical models for statistical language modelling},
+  author={Mnih, Andriy and Hinton, Geoffrey},
+  booktitle={Proceedings of the 24th international conference on Machine learning},
+  pages={641--648},
+  year={2007},
+  organization={ACM}
+}
+
+@book{bottou2007large,
+  title={Large-scale kernel machines},
+  author={Bottou, L{\'e}on},
+  year={2007},
+  publisher={MIT Press}
+}
+
+@inproceedings{sutskever2007learning,
+  title={Learning multilevel distributed representations for high-dimensional sequences},
+  author={Sutskever, Ilya and Hinton, Geoffrey E},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={548--555},
+  year={2007}
+}
+
+@article{van2007introduction,
+  title={An introduction to dimensionality reduction using matlab},
+  author={Van der Maaten, LJP},
+  journal={Report},
+  volume={1201},
+  number={07-07},
+  pages={62},
+  year={2007},
+  publisher={Citeseer}
+}
+
+@article{shultz2007bayesian,
+  title={The Bayesian revolution approaches psychological development},
+  author={Shultz, Thomas R},
+  journal={Developmental science},
+  volume={10},
+  number={3},
+  pages={357--364},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{duch2007intuition,
+  title={Intuition, insight, imagination and creativity},
+  author={Duch, W{\l}odzis{\l}aw},
+  journal={Computational Intelligence Magazine, IEEE},
+  volume={2},
+  number={3},
+  pages={40--52},
+  year={2007},
+  publisher={IEEE}
+}
+
+@incollection{duch2007towards,
+  title={Towards comprehensive foundations of computational intelligence},
+  author={Duch, W{\l}odzis{\l}aw},
+  booktitle={Challenges for Computational Intelligence},
+  pages={261--316},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{murray2007visual,
+  title={Visual recognition and inference using dynamic overcomplete sparse learning},
+  author={Murray, J and Kreutz-Delgado, Kenneth},
+  journal={Neural Computation},
+  volume={19},
+  number={9},
+  pages={2301--2352},
+  year={2007},
+  publisher={MIT Press}
+}
+
+@article{rao2007neural,
+  title={Neural Models ofBayesian Belief Propagation},
+  author={Rao, Rajesh PN},
+  journal={Bayesian brain: Probabilistic approaches to neural coding},
+  pages={239},
+  year={2007},
+  publisher={MIT Press}
+}
+
+@book{nilsson2007physical,
+  title={The physical symbol system hypothesis: status and prospects},
+  author={Nilsson, Nils J},
+  year={2007},
+  publisher={Springer}
+}
+
+@inproceedings{ranzato2007sparse,
+  title={A sparse and locally shift invariant feature extractor applied to document images},
+  author={Ranzato, M and LeCun, Yann},
+  booktitle={Document Analysis and Recognition, 2007. ICDAR 2007. Ninth International Conference on},
+  volume={2},
+  pages={1213--1217},
+  year={2007},
+  organization={IEEE}
+}
+
+@article{winther2007bayesian,
+  title={Bayesian independent component analysis: Variational methods and non-negative decompositions},
+  author={Winther, Ole and Petersen, Kaare Brandt},
+  journal={Digital Signal Processing},
+  volume={17},
+  number={5},
+  pages={858--872},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@inproceedings{lasserre2007hybrid,
+  title={Hybrid learning of large jigsaws},
+  author={Lasserre, Julia and Kannan, Anitha and Winn, John},
+  booktitle={Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on},
+  pages={1--8},
+  year={2007},
+  organization={IEEE}
+}
+
+@article{bengio2007challenge,
+  title={On the challenge of learning complex functions},
+  author={Bengio, Yoshua},
+  journal={Progress in brain research},
+  volume={165},
+  pages={521--534},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@inproceedings{zeng2007auto,
+  title={Auto-associative neural network system for recognition},
+  author={Zeng, Xian-Hua and Luo, Si-Wei and Wang, Jiao},
+  booktitle={Machine Learning and Cybernetics, 2007 International Conference on},
+  volume={5},
+  pages={2885--2890},
+  year={2007},
+  organization={IEEE}
+}
+
+@article{wu2007line,
+  title={The on-line cross entropy method for unsupervised data exploration},
+  author={Wu, Ying and Fyfe, Colin},
+  journal={WSEAS Transactions on Mathematics},
+  volume={6},
+  number={12},
+  pages={865--877},
+  year={2007},
+  publisher={World Scientific and Engineering Academy and Society (WSEAS)}
+}
+
+@article{welling2007product,
+  title={Product of experts},
+  author={Welling, Max},
+  journal={Scholarpedia},
+  volume={2},
+  number={10},
+  pages={3879},
+  year={2007}
+}
+
+@incollection{crowley2007adding,
+  title={Adding local constraints to Bayesian networks},
+  author={Crowley, Mark and Boerlage, Brent and Poole, David},
+  booktitle={Advances in Artificial Intelligence},
+  pages={344--355},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{thagard2007feel,
+  title={I feel your pain: Mirror neurons, empathy, and moral motivation},
+  author={Thagard, Paul},
+  year={2007},
+  publisher={Institute for Cognitive Science, Seoul National University}
+}
+
+@inproceedings{marc2007efficient,
+  title={Efficient learning of sparse representations with an energy-based model},
+  author={Marc’Aurelio Ranzato, Christopher Poultney and Chopra, Sumit and LeCun, Yann},
+  booktitle={Proceedings of NIPS},
+  year={2007}
+}
+
+@article{salakhutdinov2007deep,
+  title={Deep Belief Networks},
+  author={Salakhutdinov, Ruslan and Hinton, GE},
+  year={2007}
+}
+
+@phdthesis{tieleman2007some,
+  title={Some investigations into energy-based models},
+  author={Tieleman, Tijmen},
+  year={2007},
+  school={University of Toronto}
+}
+
+@inproceedings{bellemare2007context,
+  title={Context-Driven Predictions.},
+  author={Bellemare, Marc G and Precup, Doina},
+  booktitle={IJCAI},
+  pages={250--255},
+  year={2007}
+}
+
+@phdthesis{arngren2007modelling,
+  title={Modelling cognitive representations},
+  author={Arngren, Morten},
+  year={2007},
+  school={Technical University of Denmark, DTU, DK-2800 Kgs. Lyngby, Denmark}
+}
+
+@article{taylor2007compact,
+  title={Compact modeling of high-dimensional time-series},
+  author={Taylor, Graham},
+  year={2007}
+}
+
+@article{vanfeature,
+  title={Feature Extraction for Pedestrian Classification Under the Presence of Occlusions},
+  author={Van Der Maaten, Laurens and De Croon, Guido},
+  publisher={Citeseer}
+}
+
+@article{shultz10earlier,
+  title={This is an earlier, submitted version of Shultz, TR (2007). The Bayesian revolution approaches psychological development. Developmental Science, 10, 357-364. The definitive version is available at www. blackwell-synergy. com},
+  author={Shultz, Thomas R},
+  journal={Developmental Science},
+  volume={10},
+  pages={357--364}
+}
+
+@phdthesis{lam2007new,
+  title={A New Approach for Eye Detection in Remote Gaze-estimation Systems},
+  author={Lam, Jerry Chi Ling},
+  year={2007},
+  school={University of Toronto}
+}
