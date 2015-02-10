@@ -33,8 +33,13 @@ If you want to cite this bibliography please use the following:
 }
 ```
 
+
+
 Best regards,
 
-Amund, Torbjørn and Thomas
+Amund Tveit
+
+### Acknowledgements
+This Deep Learning bibliography resource is partly funded by the EU research project Envisage - http://envisage-project.eu where Memkite is a case study
 
 
