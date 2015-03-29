@@ -70,7 +70,7 @@ for line in fh:
             title_dict[raw_title.lower()] = True
             raw_authors = raw_authors.split(" - ")[0].strip()
 
-            paper_id = "2014%s" % raw_authors.replace(" ", "")
+            paper_id = "2015%s" % raw_authors.replace(" ", "")
             paper_id = paper_id.replace(",","")
             paper_id = paper_id.replace(".","")
             paper_id = paper_id.replace(u"…","")
