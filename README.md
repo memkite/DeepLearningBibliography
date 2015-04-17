@@ -8,7 +8,7 @@ http://memkite.com/deep-learning-bibliography/ (and redirect from http://deeplea
 ### 1. How to contribute - with git / github?
 
   1. Fork this repository (e.g. with upper right button on github)
-  2. Add new entries or updates to entries in the file: bibtex/deeplearninggpuwithkeywords2014.bib
+  2. Add new entries or updates to entries in the file: DeeplearningUniversityBibliography.bib
   3. Do a pull request about changes back to this repository from your forked one
 
 See also https://help.github.com/articles/using-pull-requests
@@ -25,7 +25,7 @@ If you want to cite this bibliography please use the following:
 
 ```
 @misc{DeepLearningBibliographyTveit,
-  author = {Amund Tveit},
+  author = {[Amund Tveit](http://memkite.com/team/)},
   title = {DeepLearning.University - An Annotated Deep Learning Bibliography},
   institution = {Memkite - memkite.com}
   type = {Annotated Bibliography},
@@ -34,10 +34,10 @@ If you want to cite this bibliography please use the following:
 ```
 
 
-
 Best regards,
 
-Amund Tveit
+[Amund Tveit](http://memkite.com/team/)
+[Memkite](http://memkite.com/)
 
 ### Acknowledgements
 This Deep Learning bibliography resource is partly funded by the EU research project Envisage - http://envisage-project.eu where Memkite is a case study
