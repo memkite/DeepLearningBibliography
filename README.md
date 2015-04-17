@@ -25,7 +25,7 @@ If you want to cite this bibliography please use the following:
 
 ```
 @misc{DeepLearningBibliographyTveit,
-  author = {[Amund Tveit](http://memkite.com/team/)},
+  author = {Amund Tveit},
   title = {DeepLearning.University - An Annotated Deep Learning Bibliography},
   institution = {Memkite - memkite.com}
   type = {Annotated Bibliography},
@@ -33,13 +33,11 @@ If you want to cite this bibliography please use the following:
 }
 ```
 
-
 Best regards,
 
-[Amund Tveit](http://memkite.com/team/)
-[Memkite](http://memkite.com/)
+[Amund Tveit](http://memkite.com/team/), Founder of [Memkite](http://memkite.com/)
 
 ### Acknowledgements
-This Deep Learning bibliography resource is partly funded by the EU research project Envisage - http://envisage-project.eu where Memkite is a case study
+This Deep Learning bibliography resource is partly funded by the EU research project Envisage - http://envisage-project.eu where [Memkite](http://memkite.com/technology/) is a case study
 
 
